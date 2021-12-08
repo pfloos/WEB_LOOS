@@ -7,9 +7,10 @@ draft: false
 # Group Members
 
 * Pierre-Francois Loos (group leader, [CV](/pub/cv_Loos.pdf))  
+
 <a href="https://twitter.com/TitouLoos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-show-count="false">Follow @TitouLoos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Directeur de recherche (HDR)<br>
+Directeur de recherche (HDR)  
 [Laboratoire de Chimie et Physique Quantiques](http://www.lcpq.ups-tlse.fr)  
 Université de Toulouse, CNRS, UPS, France  
 Researcher ID: [A-1103-2010](http://www.researcherid.com/rid/A-1103-2010)  
