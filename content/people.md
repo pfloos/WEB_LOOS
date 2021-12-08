@@ -6,9 +6,19 @@ draft: false
 
 # Group Members
 
+
+<style type="text/css">
+img.photo {
+  height: 250px;
+  border-radius: 50%;
+}
+</style>
+
 * Pierre-Francois Loos (group leader, [CV](/pub/cv_Loos.pdf))  
 
 <a href="https://twitter.com/TitouLoos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-show-count="false">Follow @TitouLoos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img class="photo" src="/img/PFLoos.png" alt="Titou" />
 
 Directeur de recherche (HDR)  
 [Laboratoire de Chimie et Physique Quantiques](http://www.lcpq.ups-tlse.fr)  
@@ -19,15 +29,30 @@ Telephone: +33 5 6155 7339
 E-mail: loos@irsamc.ups-tlse.fr  
 
 * [Fabris Kossoski](https://www.researchgate.net/profile/Fabris_Kossoski) (Postdoc, ERC)
+<img class="photo" src="/img/FKossoski.png" alt="Fabris" />
+
 * [Raul Quintero-Monsebaiz](https://www.researchgate.net/profile/Raul-Quintero-Monsebaiz) (Postdoc, ERC)
+<img class="photo" src="/img/RQuintero.jpg" alt="Raul" />
+
 * [Mickael Veril](https://mveril.github.io) (PhD student, UPS)
+<img class="photo" src="/img/MVeril.jpg" alt="Mika" />
+
 * [Clotilde Marut](https://www.researchgate.net/profile/Clotilde_Marut) (PhD student, UPS)
+<img class="photo" src="/img/CMarut.jpg" alt="Clotilde" />
+
 * [Enzo Monino]() (PhD student, ERC)
+<img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
+
 * [Roberto Orlando]() (PhD student, 80|PRIME)
+
+* [Yann Damour]() (PhD student, ERC)
+<img class="photo" src="/img/YDamour.jpg" alt="Yann" />
+
 <!-- 
 * [Antoine Marie]() (Master student, ENS Lyon) 
+<img class="photo" src="/img/AMarie.png" alt="Antoine" />
 -->
-* [Yann Damour]() (PhD student, ERC)
+
 
 ***
 

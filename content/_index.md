@@ -10,7 +10,7 @@ The aim of our research group is to tackle fundamental problems in Chemistry and
 The group's interest lies at the interface between Physics and Chemistry, and mainly focus on developing highly-accurate electronic structure methods as well as simple approximations that are accurate enough to have chemical and physical usefulness. 
 I am actively collaborating with my colleagues and nonetheless friends [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io).
 
-**If you would like to discuss joining the group or working on a project, please email as below.**
+**If you would like to discuss joining the group or working on a project, please email [me]{loos@irsamc.ups-tlse.fr}.**
 
 ***
 
