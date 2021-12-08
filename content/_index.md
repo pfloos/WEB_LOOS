@@ -1,3 +1,4 @@
+l
 ---
 title: "Home"
 date: 2020-12-02 09:00
@@ -10,12 +11,13 @@ The aim of our research group is to tackle fundamental problems in Chemistry and
 The group's interest lies at the interface between Physics and Chemistry, and mainly focus on developing highly-accurate electronic structure methods as well as simple approximations that are accurate enough to have chemical and physical usefulness. 
 I am actively collaborating with my colleagues and nonetheless friends [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io).
 
-**If you would like to discuss joining the group or working on a project, please email [me]{mailto:loos@irsamc.ups-tlse.fr}.**
+**If you would like to discuss joining the group or working on a project, please email [me](mailto:loos@irsamc.ups-tlse.fr).**
 
 ***
 
 # NEWS
 
+* **Dec 2021:** New website is up and running!
 * **Sep 2021:** Mika Veril has submitted his PhD dissertation entitled *"Electronic transitions, statistics and digital tools for quantum chemistry"*. Congratulations Mika!
 * **Mar 2021:** Raul Quintero-Monsebaiz is going to join the group in a few weeks as a postdoctoral fellow. Welcome Raul!
 * **Dec 2020:** The website of the [PTEROSOR](https://lcpq.github.io/PTEROSOR) project is up and running!
