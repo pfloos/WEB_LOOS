@@ -36,7 +36,7 @@ R. Sarka, P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
 
 ### 2021
 
-<a href="pub/109.pdf"> 109. A mountaineering strategy to excited states: highly-accurate energies and benchmarks for bicyclic systems,<br></a>
+<a href="/pub/109.pdf"> 109. A mountaineering strategy to excited states: highly-accurate energies and benchmarks for bicyclic systems,<br></a>
 P. F. Loos and D. Jacquemin.<br>
 <I>J. Phys. Chem. A</I><B> 125</B>, 10174 (2021). <br><br>
 
