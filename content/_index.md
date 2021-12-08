@@ -4,6 +4,24 @@ date: 2020-12-02 09:00
 draft: false
 ---
 
+# Welcome to the group webpage
+
+{{< figure src="/img/group.jpg" title="Group picture (Dec 2019). From left to right: Clotilde Marut, Michel Caffarel, Mickael Veril, Anthony Scemama, and Pierre-Francois Loos." >}}
+
+**If you would like to discuss joining the group or working on a project, please email as below.**
+
+
+The aim of our research group is to tackle fundamental problems in Chemistry and Physics using Mathematical techniques. The group's interest lies at the interface between Physics and Chemistry, and mainly focus on developing simple approximations that are accurate enough to have chemical and physical usefulness. I am collaborating with [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io), who are also members of the LCPQ.
+
+***
+
+Our group has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481)
+
+{{< figure src="/img/PTEROSOR.jpg" >}}
+{{< figure src="/img/ERC.jpg" >}}
+
+***
+
 # NEWS
 
 * **Sep 2021:** Mika Veril has submitted his PhD dissertation entitled *"Electronic transitions, statistics and digital tools for quantum chemistry"*. Congratulations Mika!
@@ -32,27 +50,10 @@ draft: false
 
 ***
 
-# Welcome to the group webpage
-
-{{< figure src="/img/group.jpg" title="Group picture (Dec 2019). From left to right: Clotilde Marut, Michel Caffarel, Mickael Veril, Anthony Scemama, and Pierre-Francois Loos." >}}
-
-**If you would like to discuss joining the group or working on a project, please email as below.**
-
-
-The aim of our research group is to tackle fundamental problems in Chemistry and Physics using Mathematical techniques. The group's interest lies at the interface between Physics and Chemistry, and mainly focus on developing simple approximations that are accurate enough to have chemical and physical usefulness. I am collaborating with [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io), who are also members of the LCPQ.
-
-***
-
-Our group has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481)
-
-{{< figure src="/img/logo/PTEROSOR.jpg" >}}
-
-***
-
 # BREAKING NEWS: Quantum Package 2.0 is out!!
 
 {{< figure src="/img/QP2.png" >}}
 
-**We are delighted to announce the release of [QP2]({{< figure src="/img/logo/PTEROSOR.jpg" >}}
+**We are delighted to announce the release of [QP2]({{< figure src="/img/logo/PTEROSOR.jpg" >}})
 for fast, accurate and scalable selected CI calculations.** 
 Full paper can be found [here](https://pfloos.github.io/WEB_LOOS/static/pub/71.pdf).
