@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/WEB_LOOS/"
-#baseURL = "https://lcpq.github.io/WEB_LOOS/"
+#baseURL = "https://pfloos.github.io/WEB_LOOS/"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
