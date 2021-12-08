@@ -4,12 +4,12 @@ date: 2020-12-02 09:00
 draft: false
 ---
 
-### Research interest
+# Research interest
 
 I am currently a full-time CNRS researcher at the Universite Paul Sabatier (Toulouse, France).
 I am part of the [Laboratoire de Chimie et Physique Quantiques](http://www.lcpq.ups-tlse.fr/?lang=en) (UMR5626) within the [THEO group](http://www.lcpq.ups-tlse.fr/spip.php?rubrique33&lang=en).
 
-
+***
 
 ## ERC Consolidator grant (No. 863481):
 
@@ -22,6 +22,8 @@ Processes related to electronically excited states are central in chemistry, phy
 
 <br><br>
 
+*** 
+
 ## Multireference quasiparticles for strong correlation
 
 This project proposes to tackle the problem of describing strong electron correlation by combining two different, yet complementary, approaches: a quantum chemistry description based on multireference wave functions and a condensed matter description based on quasiparticles, hence contemplating the concept of multireference quasiparticles
@@ -32,7 +34,9 @@ This project has received financial support from the CNRS through the 80|Prime p
 	    <img class="titou" height="100" src="/ing/CNRS.png" alt="CNRS logo" hspace="5" vspace="5" /> <br>
 </center>
 
-# Habilitation
+*** 
+
+## Habilitation
 
 My HDR memoir describe succinctly several studies we have been doing on model two-electron systems.
 In particular, we introduced a novel class a quasi-exactly solvable systems, shedding new lights on the universality of correlation effects in two-electrons systems.
@@ -43,7 +47,9 @@ In particular, our strategy to bound rigorously and efficiently these many-elect
 [Functionals, Integrals, Spheres & Cusps](https://github.com/pfloos/WEB_LOOS/tree/master/static/pub/HDR.pdf) defended on 25th Jan 2018.  
 Slides of my HDR defense [A curvy view on electronic correlation](https://github.com/pfloos/WEB_LOOS/tree/master/static/pub/slides-hdr.pdf)
 
-# PhD
+***
+
+## PhD
 
 In a nutshell, my PhD work deals with excited electronic states of macromolecules, such as proteins, enzymes and DNA fragments, as well as the development of QM/MM methods which combine quantum mechanics and molecular mechanics methods.
 Martin Karplus, Micheal Levitt and Arieh Warshel have been awarded the 2013 Nobel Prize in Chemistry for the seminal development of these methods.

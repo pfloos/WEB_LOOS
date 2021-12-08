@@ -29,6 +29,8 @@ E-mail: loos@irsamc.ups-tlse.fr
 -->
 * [Yann Damour]() (PhD student, ERC)
 
+***
+
 # Past Members
 
 * Maia Courtiel (2021)
