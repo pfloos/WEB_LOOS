@@ -30,31 +30,29 @@ draft: false
 * **Feb 2017:** Sebastian Sitkiewicz (Master student) from Valencia has joined the group for a 3-month stay. He will work on the non-linear optic properties of model systems.
 * **Dec 2016:** I am moving back to France (University Paul Sabatier in Toulouse) on a CNRS research position.
 
+***
 
 # Welcome to the group webpage
-<center>
-    <img class="titou" height="450" src="people/group.jpg" alt="titou" hspace="5" vspace="5" /> <br>
-<b>Group picture (Dec 2019)</b> <br> From left to right: Clotilde Marut, Michel Caffarel, Mickael Veril, Anthony Scemama, and Pierre-Francois Loos.
-</center>
+
+{{< figure src="/img/group.jpg" title="Group picture (Dec 2019). From left to right: Clotilde Marut, Michel Caffarel, Mickael Veril, Anthony Scemama, and Pierre-Francois Loos." >}}
+
+**If you would like to discuss joining the group or working on a project, please email as below.**
+
 
 The aim of our research group is to tackle fundamental problems in Chemistry and Physics using Mathematical techniques. The group's interest lies at the interface between Physics and Chemistry, and mainly focus on developing simple approximations that are accurate enough to have chemical and physical usefulness. I am collaborating with [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io), who are also members of the LCPQ.
 
+***
+
 Our group has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481)
-<br>
-<center>
-                    <img class="titou" height="150" src="logo/PTEROSOR.jpg" alt="PTEROSOR logo" hspace="5" vspace="5" />
-                                <img class="titou" height="150" src="logo/ERC.jpg" alt="ERC logo" hspace="5" vspace="5" /> <br>
-</center>
 
-<br>
-<b>
-If you would like to discuss joining the group or working on a project, please email as below.
-</b>
-<br>
+{{< figure src="/img/logo/PTEROSOR.jpg" >}}
 
+***
 
-<h2>BREAKING NEWS: Quantum Package 2.0 is out!!</h2>
-<center>
-    <img class="titou" height="200" src="QP2.png" alt="titou" hspace="5" vspace="5" /> <br>
-</center>
-<b> We are delighted to announce the release of <a href=https://quantumpackage.github.io/qp2/>Quantum Package v2</a> for fast, accurate and scalable selected CI calculations. Full paper can be found <a href="http://www.irsamc.ups-tlse.fr/loos/pub/71.pdf">here</a>.
+# BREAKING NEWS: Quantum Package 2.0 is out!!
+
+{{< figure src="/img/QP2.png" >}}
+
+**We are delighted to announce the release of [QP2]({{< figure src="/img/logo/PTEROSOR.jpg" >}}
+for fast, accurate and scalable selected CI calculations.** 
+Full paper can be found [here](https://pfloos.github.io/WEB_LOOS/static/pub/71.pdf).
