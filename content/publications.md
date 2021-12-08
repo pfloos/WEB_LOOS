@@ -3,7 +3,6 @@ title: "Publications"
 date: 2020-12-02 09:03
 draft: false
 ---
-# Publications
 
 <!--
 90. Many-electron integrals over Gaussian basis functions. II. Upper bounds,<br>
