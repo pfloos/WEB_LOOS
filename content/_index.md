@@ -14,7 +14,6 @@ The aim of our research group is to tackle fundamental problems in Chemistry and
 
 Our group has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481)
 
-{{< figure src="/img/PTEROSOR.jpg" >}}
 {{< figure src="/img/ERC.jpg" >}}
 
 ***

@@ -7,11 +7,11 @@ theme = "beautifulhugo"
 title = "Pierre-Francois Loos' research webpage"
 [Params]
   hometitle = "Electronic Structure Theory"
-  logo="img/CNRS.png"
+  logo="img/PTEROSOR.jpg"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/group.jpg"
-  desc = "Loos' research group"
+  desc = "Group picture (Dec 2019)"
 
 [markup]
   [markup.goldmark]
