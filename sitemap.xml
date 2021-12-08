@@ -2,22 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/categories/</loc>
+    <loc>https://pfloos.github.io/WEB_LOOS/categories/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/</loc>
+    <loc>https://pfloos.github.io/WEB_LOOS/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/map/</loc>
+    <loc>https://pfloos.github.io/WEB_LOOS/people/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/participants/</loc>
+    <loc>https://pfloos.github.io/WEB_LOOS/publications/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/planning/</loc>
+    <loc>https://pfloos.github.io/WEB_LOOS/research/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/presentations/</loc>
+    <loc>https://pfloos.github.io/WEB_LOOS/funding/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/registration/</loc>
+    <loc>https://pfloos.github.io/WEB_LOOS/tags/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/sponsors/</loc>
-  </url><url>
-    <loc>https://lcpq.github.io/gdr_nbody_2021/tags/</loc>
+    <loc>https://pfloos.github.io/WEB_LOOS/talks/</loc>
   </url>
 </urlset>
