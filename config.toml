@@ -4,13 +4,13 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "Pierre-Francois Loos research webpage"
+title = "Pierre-Francois Loos' research webpage"
 [Params]
-  hometitle = "Pierre-Francois Loos research webpage"
+  hometitle = "Electronic Structure Theory"
   logo="img/CNRS.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/500px-Maths1.jpg"
+  src = "img/group.jpg"
   desc = "Loos' research group"
 
 [markup]

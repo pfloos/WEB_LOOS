@@ -6,12 +6,9 @@ draft: false
 
 # Welcome to the group webpage
 
-{{< figure src="/img/group.jpg" title="Group picture (Dec 2019). From left to right: Clotilde Marut, Michel Caffarel, Mickael Veril, Anthony Scemama, and Pierre-Francois Loos." >}}
+The aim of our research group is to tackle fundamental problems in Chemistry and Physics using Mathematical techniques. The group's interest lies at the interface between Physics and Chemistry, and mainly focus on developing simple approximations that are accurate enough to have chemical and physical usefulness. I am collaborating with [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io), who are also members of the LCPQ.
 
 **If you would like to discuss joining the group or working on a project, please email as below.**
-
-
-The aim of our research group is to tackle fundamental problems in Chemistry and Physics using Mathematical techniques. The group's interest lies at the interface between Physics and Chemistry, and mainly focus on developing simple approximations that are accurate enough to have chemical and physical usefulness. I am collaborating with [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io), who are also members of the LCPQ.
 
 ***
 
