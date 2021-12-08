@@ -50,6 +50,6 @@ Our group has received funding from the European Research Council (ERC) under th
 
 {{< figure src="/img/QP2.png" >}}
 
-**We are delighted to announce the release of [QP2]({{< figure src="/img/logo/PTEROSOR.jpg" >}})
+**We are delighted to announce the release of [QP2](https://quantumpackage.github.io/qp2/)
 for fast, accurate and scalable selected CI calculations.** 
 Full paper can be found [here](https://pfloos.github.io/WEB_LOOS/static/pub/71.pdf).
