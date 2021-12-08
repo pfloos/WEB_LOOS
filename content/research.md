@@ -15,12 +15,7 @@ I am part of the [Laboratoire de Chimie et Physique Quantiques](http://www.lcpq.
 
 Processes related to electronically excited states are central in chemistry, physics, and biology, playing a key role in ubiquitous processes such as photochemistry, catalysis, and solar cell technology. However, defining an effective method that reliably provides accurate excited-state energies remains a major challenge in theoretical chemistry. In PTEROSOR, we aim at developing a totally novel approach to obtain excited-state energies and wave functions in molecular sys- tems thanks to the properties of non-Hermitian Hamiltonians. Our key idea is to perform an analytic continuation of conventional computational chemistry methods. Indeed, through the complex plane, ground and excited states can be naturally connected. In a non-Hermitian complex picture, the energy levels are sheets of a more complicated topological manifold called Riemann surface and they are smooth and continuous analytic continuation of one another. PTEROSOR's main goal is to develop a new theoretical approach allowing to connect, through the complex plane, electronic states. Instead of Hermitian Hamiltonians, we propose to use a more general class of Hamiltonians which have the property of being PT- symmetric, i.e., invariant with respect to combined parity reflection P and time reversal T. This weaker condition ensures a real energy spectrum in unbroken PT-symmetric regions. PT-symmetric Hamiltonians can be seen as analytic continuation of conventional Hermitian Hamiltonians. Using PT-symmetric quantum theory, an Hermitian Hamiltonian can be analytically continued into the complex plane, becoming non-Hermitian in the process and exposing the fundamental topology of eigenstates. Our gateway between ground and excited states are provided by exceptional points which lie at the boundary between broken and unbroken PT-symmetric regions.
 
-<center>
-	    <img class="titou" height="150" src="/img/PTEROSOR.jpg" alt="PTEROSOR logo" hspace="5" vspace="5" /> 
-	    <img class="titou" height="150" src="/img/ERC.jpg" alt="ERC logo" hspace="5" vspace="5" /> <br>
-</center>
-
-<br><br>
+{{< figure src="/img/PTEROSOR.jpg" >}} {{< figure src="/img/ERC.jpg" >}}
 
 *** 
 
@@ -29,10 +24,7 @@ Processes related to electronically excited states are central in chemistry, phy
 This project proposes to tackle the problem of describing strong electron correlation by combining two different, yet complementary, approaches: a quantum chemistry description based on multireference wave functions and a condensed matter description based on quasiparticles, hence contemplating the concept of multireference quasiparticles
 This project has received financial support from the CNRS through the 80|Prime program, and is also supported through the EUR grant NanoX ANR-17-EURE-0009 in the framework of the ``Programme des Investissements d'Avenir''.
 
-<center>
-	    <img class="titou" height="100" src="/img/NEXT.jpg" alt="NEXT logo" hspace="5" vspace="5" /> 
-	    <img class="titou" height="100" src="/img/CNRS.png" alt="CNRS logo" hspace="5" vspace="5" /> <br>
-</center>
+{{< figure src="/img/NEXT.jpg" >}} {{< figure src="/img/CNRS.png" >}}
 
 *** 
 
