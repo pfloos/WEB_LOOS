@@ -1,1 +1,1 @@
-![github pages](https://github.com/LCPQ/gdr_nbody_2021.git/workflows/github%20pages/badge.svg)
+![github pages](https://github.com/pfloos/WEB_LOOS.git/workflows/github%20pages/badge.svg)
