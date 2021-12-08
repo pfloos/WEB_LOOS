@@ -57,25 +57,31 @@ E-mail: loos@irsamc.ups-tlse.fr
 
 # Collaborators
 
-* <a href="https://www.hughburton.com">Hugh Burton</a>  
-Research Fellow (University of Oxford, Oxford, UK)
+* [Anthony Scemama](http://scemama.github.io)  
+CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
-* <a href="https://www.univ-nantes.fr/denis-jacquemin">Denis Jacquemin</a>  
+[Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel)  
+CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+
+* [Hugh Burton](https://www.hughburton.com)  
+Research fellow (University of Oxford, Oxford, UK)
+
+* [Denis Jacquemin](https://www.univ-nantes.fr/denis-jacquemin)  
 Professor (University of Nantes, Nantes, France)
 
-* <a href="http://perso.neel.cnrs.fr/xavier.blase/">Xavier Blase</a>  
-CNRS Researcher (NEEL institute, Grenoble, France)
+* [Xavier Blase](http://perso.neel.cnrs.fr/xavier.blase)  
+CNRS senior researcher (NEEL institute, Grenoble, France)
 
-* <a href="https://www.lcpq.ups-tlse.fr/spip.php?rubrique313&lang=fr">Martial Boggio-Pasqua</a>  
-CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+* [Martial Boggio-Pasqua](https://www.lcpq.ups-tlse.fr/spip.php?rubrique313&lang=fr)  
+CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
-* <a href="http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en">Pina Romaniello</a>  
+* [Pina Romaniello](http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en)  
 CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
-* <a href="https://www.lcpq.ups-tlse.fr/berger">Arjan Berger</a>  
+* [Arjan berger](https://www.lcpq.ups-tlse.fr/berger)  
 Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
-* <a href="https://www.paolagorigiorgi.org">Paola Gori-Giorgi</a>  
+* [Paola Gori-Girogi](https://www.paolagorigiorgi.org)  
 Professor (Vrije Universiteit, Amsterdam, Netherland)
 
 ***
