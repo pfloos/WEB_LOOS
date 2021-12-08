@@ -2,12 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pfloos.github.io/WEB_LOOS/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://pfloos.github.io/WEB_LOOS/categories/</loc>
   </url><url>
     <loc>https://pfloos.github.io/WEB_LOOS/funding/</loc>
+  </url><url>
+    <loc>https://pfloos.github.io/WEB_LOOS/</loc>
   </url><url>
     <loc>https://pfloos.github.io/WEB_LOOS/people/</loc>
   </url><url>
