@@ -6,7 +6,7 @@ draft: false
 
 # Research interest
 
-I am currently a full-time CNRS researcher at the Universite Paul Sabatier (Toulouse, France).
+I am currently a full-time CNRS senior researcher at the Universite Paul Sabatier (Toulouse, France).
 I am part of the [Laboratoire de Chimie et Physique Quantiques](http://www.lcpq.ups-tlse.fr/?lang=en) (UMR5626) within the [THEO group](http://www.lcpq.ups-tlse.fr/spip.php?rubrique33&lang=en).
 
 ***
