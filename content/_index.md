@@ -12,12 +12,6 @@ The aim of our research group is to tackle fundamental problems in Chemistry and
 
 ***
 
-Our group has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481)
-
-{{< figure src="/img/ERC.jpg" >}}
-
-***
-
 # NEWS
 
 * **Sep 2021:** Mika Veril has submitted his PhD dissertation entitled *"Electronic transitions, statistics and digital tools for quantum chemistry"*. Congratulations Mika!
@@ -53,3 +47,10 @@ Our group has received funding from the European Research Council (ERC) under th
 **We are delighted to announce the release of [QP2](https://quantumpackage.github.io/qp2/)
 for fast, accurate and scalable selected CI calculations.** 
 Full paper can be found [here](https://pfloos.github.io/WEB_LOOS/static/pub/71.pdf).
+
+***
+
+Our group has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481)
+
+{{< figure src="/img/ERC.jpg" >}}
+
