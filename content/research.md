@@ -31,7 +31,7 @@ This project has received financial support from the CNRS through the 80|Prime p
 
 <center>
 	    <img class="titou" height="100" src="/img/NEXT.jpg" alt="NEXT logo" hspace="5" vspace="5" /> 
-	    <img class="titou" height="100" src="/ing/CNRS.jpg" alt="CNRS logo" hspace="5" vspace="5" /> <br>
+	    <img class="titou" height="100" src="/img/CNRS.png" alt="CNRS logo" hspace="5" vspace="5" /> <br>
 </center>
 
 *** 
