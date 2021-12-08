@@ -40,7 +40,7 @@ P. F. Loos and D. Jacquemin.<br>
 <I>J. Phys. Chem. A</I><B> 125</B>, 10174 (2021). <br><br>
 
 <a href="/pub/108.pdf"> 108. Accurate full configuration interaction correlation energy estimates for five- and six-membered rings,<br></a>
-Y. Damour, M. V&eacuteril, F. Kossoski, M. Caffarel, D. Jacquemin, A. Scemama, and P. F. Loos.<br>
+Y. Damour, M. Veril, F. Kossoski, M. Caffarel, D. Jacquemin, A. Scemama, and P. F. Loos.<br>
 <I> J. Chem. Phys.</I><B> 155</B>, 134104 (2021). <br><br>
 
 <a href="/pub/107.pdf"> 107. Scrutinizing GW-based methods using the Hubbard dimer,<br></a>
@@ -80,7 +80,7 @@ A. Marie, H. G. A. Burton, and P. F. Loos.<br>
 <I> J. Phys.: Condens. Matter (Open Access)</I><B> 33</B>, 283001 (2021). <br><br>
 
 <a href="/pub/98.pdf"> 98. QUESTDB: a database of highly-accurate excitation energies for the electronic structure community,<br></a>
-M. V&eacuteril, A. Scemama, M. Caffarel, F. Lipparini, M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
+M. Veril, A. Scemama, M. Caffarel, F. Lipparini, M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
 <I> WIREs Comput. Mol. Sci.</I><B> 11</B>, e1517 (2021). <br>
 See the <a href="https://lcpq.github.io/QUESTDB_website"> QUEST</a> website!<br><br>
 
@@ -193,7 +193,7 @@ P. F. Loos and D. Jacquemin.<br>
 <I> ChemPhotoChem </I><B> 3</B>, 684 (2019). <br><br>
 
 <a href="/pub/71.pdf"> 71. Quantum package 2.0: an open-source determinant-driven suite of programs,<br></a>
-Y. Garniron, K. Gasperich, T. Applencourt, A. Benali, A. Fert&eacute, J. Paquier, B. Pradines, R. Assaraf, P. Reinhardt, J. Toulouse, P. Barbaresco, N. Renon, G. David, J. P. Malrieu, M. V&eacuteril, M. Caffarel, P. F. Loos, E. Giner and A. Scemama.<br>
+Y. Garniron, K. Gasperich, T. Applencourt, A. Benali, A. Ferte, J. Paquier, B. Pradines, R. Assaraf, P. Reinhardt, J. Toulouse, P. Barbaresco, N. Renon, G. David, J. P. Malrieu, M. Veril, M. Caffarel, P. F. Loos, E. Giner and A. Scemama.<br>
 <I> J. Chem. Theory Comput. </I><B> 15,</B> 3591 (2019). <br><br>
 
 <a href="/pub/70.pdf"> 70. Self-consistent electron-nucleus cusp correction for molecular orbitals,<br></a>
@@ -215,7 +215,7 @@ H. G. A. Burton, A. J. W. Thom, and P. F. Loos. <br>
 ### 2018
 
 <a href="/pub/66.pdf"> 66. Unphysical discontinuities in GW methods,<br></a>
-M. V&eacuteril, P. Romaniello, J. A. Berger and P. F. Loos.<br>
+M. Veril, P. Romaniello, J. A. Berger and P. F. Loos.<br>
 <I> J. Chem. Theory Comput.</I><B> 14</B>, 5220 (2018). <br><br>
 
 <a href="/pub/65.pdf"> 65. Theoretical 0-0 energies with chemical accuracy,<br></a>
