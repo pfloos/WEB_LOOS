@@ -53,6 +53,31 @@ E-mail: loos@irsamc.ups-tlse.fr
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 -->
 
+***
+
+# Collaborators
+
+* <a href="https://www.hughburton.com">Hugh Burton</a>
+Research Fellow (University of Oxford, Oxford, UK)
+
+* <a href="https://www.univ-nantes.fr/denis-jacquemin">Denis Jacquemin</a>
+Professor (University of Nantes, Nantes, France)
+
+* <a href="http://perso.neel.cnrs.fr/xavier.blase/">Xavier Blase</a>
+CNRS Researcher (NEEL institute, Grenoble, France)
+
+* <a href="https://www.lcpq.ups-tlse.fr/spip.php?rubrique313&lang=fr">Martial Boggio-Pasqua</a>
+<br>
+CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+
+<a href="http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en">Pina Romaniello</a>
+CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
+
+* <a href="https://www.lcpq.ups-tlse.fr/berger">Arjan Berger</a>
+Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+
+* <a href="https://www.paolagorigiorgi.org">Paola Gori-Giorgi</a>
+Professor (Vrije Universiteit, Amsterdam, Netherland)
 
 ***
 
