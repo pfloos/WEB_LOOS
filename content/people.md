@@ -60,7 +60,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Anthony Scemama](http://scemama.github.io)  
 CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
-[Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel)  
+* [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel)  
 CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 * [Hugh Burton](https://www.hughburton.com)  
