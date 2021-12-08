@@ -44,8 +44,8 @@ Second, I present the work we performed on the mathematical properties of a new 
 Third, new recurrence relations for three- and four-electron integrals as well as their fundamental integrals and upper bounds will are discussed.
 In particular, our strategy to bound rigorously and efficiently these many-electron integrals is presented.
 
-[Functionals, Integrals, Spheres & Cusps](https://github.com/pfloos/WEB_LOOS/tree/master/static/pub/HDR.pdf) defended on 25th Jan 2018.  
-Slides of my HDR defense [A curvy view on electronic correlation](https://github.com/pfloos/WEB_LOOS/tree/master/static/pub/slides-hdr.pdf)
+* [Functionals, Integrals, Spheres & Cusps](/pub/HDR.pdf) defended on 25th Jan 2018.  
+* Slides of my HDR defense [A curvy view on electronic correlation](/pub/slides-hdr.pdf)
 
 ***
 
@@ -54,5 +54,5 @@ Slides of my HDR defense [A curvy view on electronic correlation](https://github
 In a nutshell, my PhD work deals with excited electronic states of macromolecules, such as proteins, enzymes and DNA fragments, as well as the development of QM/MM methods which combine quantum mechanics and molecular mechanics methods.
 Martin Karplus, Micheal Levitt and Arieh Warshel have been awarded the 2013 Nobel Prize in Chemistry for the seminal development of these methods.
 
-[Develoment of a quantum chemistry method mixing several level of theory: applications to the study of electronic states in macromolecular systems](https://github.com/pfloos/WEB_LOOS/tree/master/static/pub/thesis.pdf) defended on 13th June 2008.  
-[Slides of my PhD defense](https://github.com/pfloos/WEB_LOOS/tree/master/static/pub/slides-thesis.pdf)
+* [Develoment of a quantum chemistry method mixing several level of theory: applications to the study of electronic states in macromolecular systems](/pub/thesis.pdf) defended on 13th June 2008.  
+* [Slides of my PhD defense](/pub/slides-thesis.pdf)
