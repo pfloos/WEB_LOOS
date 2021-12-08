@@ -53,7 +53,6 @@ Full paper can be found [here](/pub/71.pdf).
 
 ***
 
-Our group has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481)
-
 {{< figure src="/img/ERC.jpg" >}}
+Our group has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481)
 
