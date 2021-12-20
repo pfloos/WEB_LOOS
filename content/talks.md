@@ -6,6 +6,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o48.pdf">48. Higher roots of the Schroedinger equation,</a><br>
+University of New Brunswick, Department of Chemistry (December 2021).<br><br>
+
 * <a href="/talks/o47.pdf">47. Higher roots of the Schroedinger equation,</a><br>
 NHISS 2021: Light-Matter Interaction: Theory meets Experiment (November 2021).<br><br>
 
