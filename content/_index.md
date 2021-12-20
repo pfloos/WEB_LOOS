@@ -16,6 +16,7 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 
 # NEWS
 
+* **Dec 2021:** Mika Veril has successfully defended his PhD. Congrats Mika!
 * **Dec 2021:** New website is up and running!
 * **Sep 2021:** Mika Veril has submitted his PhD dissertation entitled *"Electronic transitions, statistics and digital tools for quantum chemistry"*. Congratulations Mika!
 * **Mar 2021:** Raul Quintero-Monsebaiz is going to join the group in a few weeks as a postdoctoral fellow. Welcome Raul!
