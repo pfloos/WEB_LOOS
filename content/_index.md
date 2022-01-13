@@ -16,6 +16,7 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 
 # NEWS
 
+* **Jan 2022:** We are organizing the 2nd general meeting of the [GDR NBODY](https://lcpq.github.io/gdr_nbody_2021). Please, join us online!
 * **Dec 2021:** Mika Veril has successfully defended his PhD. Congrats Mika!
 * **Dec 2021:** New website is up and running!
 * **Sep 2021:** Mika Veril has submitted his PhD dissertation entitled *"Electronic transitions, statistics and digital tools for quantum chemistry"*. Congratulations Mika!
