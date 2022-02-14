@@ -29,7 +29,7 @@ P. F. Loos and D. Jacquemin.<br>
 
 ### 2022
 
-* <a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf">111. Static and dynamic Bethe-Salpeter equations in the <I>T</I>-matrix approximation,<br></a>
+* <a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf"> 111. Static and dynamic Bethe-Salpeter equations in the T-matrix approximation,<br></a>
 P. F. Loos and P. Romaniellp.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
