@@ -18,7 +18,7 @@ E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
 <I> J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
 * 112. Transient uniform electron gases,
-P. F. Loos, P. Gori-Giorgi, and M. Seidl.<br>
+P. F. Loos and M. Seidl.<br>
 <I> J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
 * 111. A mountaineering strategy to excited states: exploring the CC4 couloir,<br></a>
