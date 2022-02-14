@@ -29,6 +29,10 @@ P. F. Loos and D. Jacquemin.<br>
 
 ### 2022
 
+* 111. Static and dynamic Bethe-Salpeter equations in the T-matrix approximation,<br>
+P. F. Loos and P. Romaniellp.<br>
+<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+
 * <a href="https://arxiv.org/pdf/2111.15386.pdf"> 110. Assessing the performances of CASPT2 and NEVPT2 for vertical excitation energies,<br></a>
 R. Sarka, P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
