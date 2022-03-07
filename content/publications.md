@@ -33,7 +33,7 @@ F. Kossoski, Y. Damour, and P. F. Loos.<br>
 
 ### 2022
 
-* 113. Transient uniform electron gases,
+* 113. Transient uniform electron gases,<br>
 P. F. Loos and M. Seidl.<br>
 <I>Mol. Phys.</I><B></B> (submitted). <br><br>
 
