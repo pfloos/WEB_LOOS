@@ -13,21 +13,29 @@ G. M. J. Barca, P. F. Loos and P. M. W. Gill.<br>
 A. Scemama, M. Caffarel, D. P. Tew and P. F. Loos. <br>
 <I> J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
-* 113. Reference energies for cyclobutadiene,
-E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
-<I> J. Chem. Phys.</I><B></B> (submitted). <br><br>
+* 117. Assesing CASPT3 for vertical excitation energies,<br></a>
+M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* 112. Transient uniform electron gases,
-P. F. Loos and M. Seidl.<br>
-<I> J. Chem. Phys.</I><B></B> (submitted). <br><br>
-
-* 111. A mountaineering strategy to excited states: exploring the CC4 couloir,<br></a>
+* 116. A mountaineering strategy to excited states: exploring the CC4 couloir,<br></a>
 P. F. Loos and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
+
+* 115. Reference energies for cyclobutadiene,<br></a>
+E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
+<I>J. Phys. Chem. A </I><B></B> (submitted). <br><br>
+
+* 114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
+F. Kossoski, Y. Damour, and P. F. Loos.<br>
+<I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
 
 -->
 
 ### 2022
+
+* 113. Transient uniform electron gases,
+P. F. Loos and M. Seidl.<br>
+<I>Mol. Phys.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2202.11589.pdf"> 112. Unphysical discontinuities, intruder States and regularization in GW methods,<br></a>
 E. Monino and P. F. Loos.<br>
