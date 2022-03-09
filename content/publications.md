@@ -25,15 +25,16 @@ P. F. Loos and D. Jacquemin.<br>
 E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Phys. Chem. A </I><B></B> (submitted). <br><br>
 
-* 114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
-F. Kossoski, Y. Damour, and P. F. Loos.<br>
-<I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
-
 -->
 
 ### 2022
 
-* <a href="https://arxiv.org/pdf/.pdf">113. Transient uniform electron gases,<br></a>
+
+* <a href="">114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
+F. Kossoski, Y. Damour, and P. F. Loos.<br>
+<I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
+
+* <a href="">113. Transient uniform electron gases,<br></a>
 P. F. Loos and M. Seidl.<br>
 <I>Mol. Phys.</I><B></B> (submitted). <br><br>
 
