@@ -34,7 +34,7 @@ E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
 F. Kossoski, Y. Damour, and P. F. Loos.<br>
 <I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
 
-* <a href="">113. Transient uniform electron gases,<br></a>
+* <a href="https://arxiv.org/pdf/2203.05246.pdf">113. Transient uniform electron gases,<br></a>
 P. F. Loos and M. Seidl.<br>
 <I>Mol. Phys.</I><B></B> (submitted). <br><br>
 
