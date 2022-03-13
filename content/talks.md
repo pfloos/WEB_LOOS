@@ -6,6 +6,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o49.pdf">49. Higher roots of the Schroedinger equation,</a><br>
+NanoX-FeRMI days 2022, Toulouse (March 2022).<br><br>
+
 * <a href="/talks/o48.pdf">48. Higher roots of the Schroedinger equation,</a><br>
 University of New Brunswick, Department of Chemistry (December 2021).<br><br>
 
