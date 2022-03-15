@@ -30,7 +30,7 @@ E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
 ### 2022
 
 
-* <a href="">114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
+* <a href="https://arxiv.org/pdf/2203.06154.pdf">114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
 F. Kossoski, Y. Damour, and P. F. Loos.<br>
 <I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
 
