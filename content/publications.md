@@ -36,7 +36,7 @@ F. Kossoski, Y. Damour, and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2203.05246.pdf">113. Transient uniform electron gases,<br></a>
 P. F. Loos and M. Seidl.<br>
-<I>Mol. Phys.</I><B></B> (submitted). <br><br>
+<I>Mol. Phys.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2202.11589.pdf"> 112. Unphysical discontinuities, intruder states and regularization in GW methods,<br></a>
 E. Monino and P. F. Loos.<br>
