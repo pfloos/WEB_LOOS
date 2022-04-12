@@ -29,7 +29,7 @@ P. F. Loos and D. Jacquemin.<br>
 M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">115. Reference energies for cyclobutadiene: automerization and excited states,<br></a>
+* <a href="https://arxiv.org/pdf/2204.05098.pdf">115. Reference energies for cyclobutadiene: automerization and excited states,<br></a>
 E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Phys. Chem. A </I><B></B> (submitted). <br><br>
 
