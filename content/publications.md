@@ -49,9 +49,9 @@ E. Monino and P. F. Loos.<br>
 P. F. Loos and P. Romaniello.<br>
 <I>J. Chem. Phys.</I><B></B> (in press). <br><br>
 
-* <a href="https://arxiv.org/pdf/2111.15386.pdf"> 110. Assessing the performances of CASPT2 and NEVPT2 for vertical excitation energies,<br></a>
+* <a href="/pub/110.pdf"> 110. Assessing the performances of CASPT2 and NEVPT2 for vertical excitation energies,<br></a>
 R. Sarka, P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput.</I><B> 18</B>, 2418 (2022). <br><br>
 
 ### 2021
 
