@@ -35,7 +35,7 @@ E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2203.06154.pdf">114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
 F. Kossoski, Y. Damour, and P. F. Loos.<br>
-<I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
+<I>J. Phys. Chem. Lett.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2203.05246.pdf">113. Transient uniform electron gases,<br></a>
 P. F. Loos and M. Seidl.<br>
