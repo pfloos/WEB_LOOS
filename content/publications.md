@@ -5,19 +5,7 @@ draft: false
 ---
 
 <!--
-* 90. Many-electron integrals over Gaussian basis functions. II. Upper bounds,<br>
-G. M. J. Barca, P. F. Loos and P. M. W. Gill.<br>
-<I> J. Chem. Theory Comput.</I><B> </B> (submitted). <br><br>
-
-* 89. Dressing the configuration interaction matrix with explicit correlation
-A. Scemama, M. Caffarel, D. P. Tew and P. F. Loos. <br>
-<I> J. Chem. Phys.</I><B></B> (submitted). <br><br>
-
-* 117. Assesing CASPT3 for vertical excitation energies,<br></a>
-M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
-* 116. A mountaineering strategy to excited states: exploring the CC4 couloir,<br></a>
+* 117. A mountaineering strategy to excited states: exploring the CC4 couloir,<br></a>
 P. F. Loos and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
@@ -25,7 +13,7 @@ P. F. Loos and D. Jacquemin.<br>
 
 ### 2022
 
-* <a href="">116. Benchmarking CASPT3 vertical excitation energies,<br></a>
+* <a href="https://arxiv.org/pdf/2204.06480.pdf">116. Benchmarking CASPT3 vertical excitation energies,<br></a>
 M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
