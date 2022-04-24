@@ -5,13 +5,14 @@ draft: false
 ---
 
 <!--
-* 117. A mountaineering strategy to excited states: exploring the CC4 couloir,<br></a>
-P. F. Loos and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
 -->
 
 ### 2022
+
+* <a href="">117. A mountaineering strategy to excited states: exploring the EOM-CC4 pathway,<br></a>
+P. F. Loos, F. Lipparini, D. A. Matthews, A. Blondel, and D. Jacquemin.<br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2204.06480.pdf">116. Benchmarking CASPT3 vertical excitation energies,<br></a>
 M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
