@@ -10,7 +10,7 @@ draft: false
 
 ### 2022
 
-* <a href="">117. A mountaineering strategy to excited states: exploring the EOM-CC4 pathway,<br></a>
+* <a href="">117. A mountaineering strategy to excited states: revising reference values with EOM-CC4,<br></a>
 P. F. Loos, F. Lipparini, D. A. Matthews, A. Blondel, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
