@@ -34,7 +34,7 @@ P. F. Loos and M. Seidl.<br>
 E. Monino and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2202.07936.pdf"> 111. Static and dynamic Bethe-Salpeter equations in the T-matrix approximation,<br></a>
+* <a href="/pub/111.pdf"> 111. Static and dynamic Bethe-Salpeter equations in the T-matrix approximation,<br></a>
 P. F. Loos and P. Romaniello.<br>
 <I>J. Chem. Phys.</I><B></B> (in press). <br><br>
 
