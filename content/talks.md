@@ -6,6 +6,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o50.pdf">50. Unphysical Discontinuities, Intruder States and Regularization in GW Methods,</a><br>
+Discussion meeting on correlation (GDR REST), Palaiseau (April 2022).<br><br>
+
 * <a href="/talks/o49.pdf">49. Higher roots of the Schroedinger equation,</a><br>
 NanoX-FeRMI days 2022, Toulouse (March 2022).<br><br>
 
