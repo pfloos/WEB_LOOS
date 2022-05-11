@@ -22,9 +22,9 @@ M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
 E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Phys. Chem. A </I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2203.06154.pdf">114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
+* <a href="/pub/114.pdf">114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
 F. Kossoski, Y. Damour, and P. F. Loos.<br>
-<I>J. Phys. Chem. Lett.</I><B></B> (in press). <br><br>
+<I>J. Phys. Chem. Lett. (Open Access)</I><B> 13</B>, 4342 (2022). <br><br>
 
 * <a href="https://arxiv.org/pdf/2203.05246.pdf">113. Transient uniform electron gases,<br></a>
 P. F. Loos and M. Seidl.<br>
@@ -36,7 +36,7 @@ E. Monino and P. F. Loos.<br>
 
 * <a href="/pub/111.pdf"> 111. Static and dynamic Bethe-Salpeter equations in the T-matrix approximation,<br></a>
 P. F. Loos and P. Romaniello.<br>
-<I>J. Chem. Phys.</I><B></B> (in press). <br><br>
+<I>J. Chem. Phys. (Open Access)</I><B> 156</B>, 164101 (2022). <br><br>
 
 * <a href="/pub/110.pdf"> 110. Assessing the performances of CASPT2 and NEVPT2 for vertical excitation energies,<br></a>
 R. Sarka, P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
