@@ -6,20 +6,23 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o51.pdf">50. Systèmes quantiques simples pour mieux comprendre la physique et chimie des systèmes complexes,</a><br>
+Seminaire SFP Midi-Pyrénées, Toulouse, France (May 2022).<br><br>
+
 * <a href="/talks/o50.pdf">50. Unphysical Discontinuities, Intruder States and Regularization in GW Methods,</a><br>
-Discussion meeting on correlation (GDR REST), Palaiseau (April 2022).<br><br>
+Discussion meeting on correlation (GDR REST), Palaiseau, France (April 2022).<br><br>
 
 * <a href="/talks/o49.pdf">49. Higher roots of the Schroedinger equation,</a><br>
-NanoX-FeRMI days 2022, Toulouse (March 2022).<br><br>
+NanoX-FeRMI days 2022, Toulouse, France (March 2022).<br><br>
 
 * <a href="/talks/o48.pdf">48. Higher roots of the Schroedinger equation,</a><br>
-University of New Brunswick, Department of Chemistry (December 2021).<br><br>
+University of New Brunswick, Department of Chemistry, online (December 2021).<br><br>
 
 * <a href="/talks/o47.pdf">47. Higher roots of the Schroedinger equation,</a><br>
-NHISS 2021: Light-Matter Interaction: Theory meets Experiment (November 2021).<br><br>
+NHISS 2021: Light-Matter Interaction: Theory meets Experiment, online (November 2021).<br><br>
 
 * <a href="/talks/o46.pdf">46. Hartree-Fock and post-Hartree-Fock methods,</a><br>
-Ecole Normale Superieure de Lyon (October 2021).<br><br>
+Ecole Normale Superieure de Lyon, Lyon, France (October 2021).<br><br>
 
 * <a href="/talks/o45.pdf">45. The Hartree-Fock approximation,</a><br>
 European Master in Theoretical Chemistry and Computational Modelling (TCCM), online (September 2021).<br><br>
@@ -37,10 +40,10 @@ International summer School in electronic structure Theory: electron correlation
 Workshop on wave-function methods in quantum chemistry and nuclear physics, online (February 2021).<br><br>
 
 * <a href="/talks/o40.pdf">40. Higher roots of the Schroedinger equation,</a><br>
-Journee "Theorie, Modelisation et Simulation", online (November 2020).<br><br>
+Journée "Théorie, Modélisation et Simulation", online (November 2020).<br><br>
 
 * <a href="/talks/o39.pdf">39. Weight dependence of local exchange-correlation functionals in ensemble density-functional theory: double excitations in two-electron systems,</a><br>
-New horizons in density-functional theory, Faraday Discussion, Cambridge, UK (September 2020).<br><br>
+New horizons in density-functional theory, Faraday Discussion, online (September 2020).<br><br>
 
 * <a href="/talks/o38.pdf">38. GW, BSE, eDFT, RPA, and pina colada,</a><br>
 Vrije Universiteit, Amsterdam, The Netherlands (March 2020).<br><br>
