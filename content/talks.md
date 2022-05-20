@@ -6,7 +6,7 @@ draft: false
 
 # Oral communications
 
-* <a href="/talks/o51.pdf">50. Systèmes quantiques simples pour mieux comprendre la physique et chimie des systèmes complexes,</a><br>
+* <a href="/talks/o51.pdf">51. Systèmes quantiques simples pour mieux comprendre la physique et chimie des systèmes complexes,</a><br>
 Seminaire SFP Midi-Pyrénées, Toulouse, France (May 2022).<br><br>
 
 * <a href="/talks/o50.pdf">50. Unphysical Discontinuities, Intruder States and Regularization in GW Methods,</a><br>
