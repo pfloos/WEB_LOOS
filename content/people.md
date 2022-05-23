@@ -48,10 +48,8 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Yann Damour]() (PhD student, ERC)
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
-<!-- 
-* [Antoine Marie]() (Master student, ENS Lyon) 
+* [Antoine Marie]() (PhD student, ERC) 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
--->
 
 ***
 
