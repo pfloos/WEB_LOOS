@@ -32,7 +32,7 @@ P. F. Loos and M. Seidl.<br>
 
 * <a href="https://arxiv.org/pdf/2202.11589.pdf"> 112. Unphysical discontinuities, intruder states and regularization in GW methods,<br></a>
 E. Monino and P. F. Loos.<br>
-<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys.</I><B></B> (in press). <br><br>
 
 * <a href="/pub/111.pdf"> 111. Static and dynamic Bethe-Salpeter equations in the T-matrix approximation,<br></a>
 P. F. Loos and P. Romaniello.<br>
