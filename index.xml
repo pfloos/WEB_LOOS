@@ -60,13 +60,12 @@ E-mail: loos@irsamc.ups-tlse.fr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/talks/</guid>
-      <description>Oral communications   52. Benchmarking multiconfigurational methods for vertical excitation energies,
-10th OpenMolcas Developers&amp;rsquo; meeting, Upssala, Sweden, jointly with Martial Boggio-Pasqua (June 2022).
-  51. Systèmes quantiques simples pour mieux comprendre la physique et chimie des systèmes complexes,
-Seminaire SFP Midi-Pyrénées, Toulouse, France (May 2022).
-  50. Unphysical Discontinuities, Intruder States and Regularization in GW Methods,
-Discussion meeting on correlation (GDR REST), Palaiseau, France (April 2022).
-  49.</description>
+      <description>Oral communications   57. Selected configuration interaction, coupled cluster, Green&amp;rsquo;s function, and density-functional methods for excited states,,
+WATOC 2022, Vancouver, Canada (July 2022).
+  56. The elephant in the room of Green&amp;rsquo;s function methods,
+Theoretical Chemist Meeting, Bordeaux, France (June 2022).
+  55. GW/BSE methods in chemistry: Computational aspects,
+International summer School in electronic structure Theory: electron correlation in Physics and Chemistry (ISTPC), Aussois, France (June 2022).</description>
     </item>
     
   </channel>
