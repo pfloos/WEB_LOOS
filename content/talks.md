@@ -6,6 +6,22 @@ draft: false
 
 # Oral communications
 
+
+* <a href="/talks/o57.pdf">57. Selected configuration interaction, coupled cluster, Green's function, and density-functional methods for excited states,</a>,<br>
+WATOC 2022, Vancouver, Canada (July 2022).<br><br>
+
+* <a href="/talks/o56.pdf">56. The elephant in the room of Green's function methods</a>,<br>
+Theoretical Chemist Meeting, Bordeaux, France (June 2022).<br><br>
+
+* <a href="/talks/o55.pdf">55. GW/BSE methods in chemistry: Computational aspects,</a><br>
+International summer School in electronic structure Theory: electron correlation in Physics and Chemistry (ISTPC), Aussois, France (June 2022).<br><br>
+
+* <a href="/talks/o54.pdf">54. Hartree-Fock and post-Hartree-Fock methods: Computational aspects,</a><br>
+International summer School in electronic structure Theory: electron correlation in Physics and Chemistry (ISTPC), Aussois, France (June 2022).<br><br>
+
+* <a href="/talks/o53.pdf">53. Accurate FCI correlation energies and reduced density matrices,</a><br>
+Internaltional Conference on reduced density matrix theory for quantum many-fermion systems, San Sebastian, Spain (June 2022).<br><br>
+
 * <a href="/talks/o52.pdf">52. Benchmarking multiconfigurational methods for vertical excitation energies,</a><br>
 10th OpenMolcas Developers' meeting, Upssala, Sweden, jointly with Martial Boggio-Pasqua (June 2022).<br><br>
 
