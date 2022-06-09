@@ -6,6 +6,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o52.pdf">52. Benchmarking multiconfigurational methods for vertical excitation energies,</a><br>
+10th OpenMolcas Developers' meeting, Upssala, Sweden, jointly with Martial Boggio-Pasqua (June 2022).<br><br>
+
 * <a href="/talks/o51.pdf">51. Systèmes quantiques simples pour mieux comprendre la physique et chimie des systèmes complexes,</a><br>
 Seminaire SFP Midi-Pyrénées, Toulouse, France (May 2022).<br><br>
 
