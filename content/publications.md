@@ -20,7 +20,7 @@ P. F. Loos, F. Lipparini, D. A. Matthews, A. Blondel, and D. Jacquemin.<br>
 
 * <a href="https://arxiv.org/pdf/2204.06480.pdf">116. Benchmarking CASPT3 vertical excitation energies,<br></a>
 M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2204.05098.pdf">115. Reference energies for cyclobutadiene: automerization and excited states,<br></a>
 E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
