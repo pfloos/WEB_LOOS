@@ -20,7 +20,7 @@ International summer School in electronic structure Theory: electron correlation
 International summer School in electronic structure Theory: electron correlation in Physics and Chemistry (ISTPC), Aussois, France (June 2022).<br><br>
 
 * <a href="/talks/o53.pdf">53. Accurate FCI correlation energies and reduced density matrices,</a><br>
-Internaltional Conference on reduced density matrix theory for quantum many-fermion systems, San Sebastian, Spain (June 2022).<br><br>
+International Conference on reduced density matrix theory for quantum many-fermion systems, San Sebastian, Spain (June 2022).<br><br>
 
 * <a href="/talks/o52.pdf">52. Benchmarking multiconfigurational methods for vertical excitation energies,</a><br>
 10th OpenMolcas Developers' meeting, Upssala, Sweden, jointly with Martial Boggio-Pasqua (June 2022).<br><br>
