@@ -34,7 +34,7 @@ F. Kossoski, Y. Damour, and P. F. Loos.<br>
 P. F. Loos and M. Seidl.<br>
 <I>Mol. Phys.</I><B></B> (in press). <br><br>
 
-* <a href="/pdf/112.pdf"> 112. Unphysical discontinuities, intruder states and regularization in GW methods,<br></a>
+* <a href="/pub/112.pdf"> 112. Unphysical discontinuities, intruder states and regularization in GW methods,<br></a>
 E. Monino and P. F. Loos.<br>
 <I>J. Chem. Phys. (Open Access)</I><B> 156</B>, 231101 (2022). <br><br>
 
