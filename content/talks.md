@@ -13,7 +13,7 @@ WATOC 2022, Vancouver, Canada (July 2022).<br><br>
 * <a href="/talks/o56.pdf">56. The elephant in the room of Green's function methods</a>,<br>
 Theoretical Chemist Meeting, Bordeaux, France (June 2022).<br><br>
 
-* <a href="/talks/o55.pdf">55. GW/BSE methods in chemistry: Computational aspects,</a><br>
+* <a href="/talks/o55.pdf">55. Green's function-based methods in chemistry,</a><br>
 International summer School in electronic structure Theory: electron correlation in Physics and Chemistry (ISTPC), Aussois, France (June 2022).<br><br>
 
 * <a href="/talks/o54.pdf">54. Hartree-Fock and post-Hartree-Fock methods: Computational aspects,</a><br>
