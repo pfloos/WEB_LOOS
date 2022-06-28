@@ -14,7 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/funding/</guid>
-      <description>          ERC    CNRS    LCPQ    FERMI    NEXT    NanoX    UPS        </description>
+      <description> ERC CNRS LCPQ FERMI NEXT NanoX UPS </description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/people/</guid>
-      <description>Group Members img.photo { height: 250px; border-radius: 50%; }   Pierre-Francois Loos (group leader, CV)  Follow @TitouLoos
+      <description>Group Members Pierre-Francois Loos (group leader, CV) Follow @TitouLoos
 Directeur de recherche (HDR)
 Laboratoire de Chimie et Physique Quantiques
 Université de Toulouse, CNRS, UPS, France
@@ -31,7 +31,8 @@ Researcher ID: A-1103-2010
 ORCID: 0000-0003-0598-7425
 Telephone: +33 5 6155 7339
 E-mail: loos@irsamc.ups-tlse.fr
-  Fabris Kossoski (Postdoc, ERC)   Raul Quintero-Monsebaiz (Postdoc, ERC)   Mickael Veril (PhD student, UPS)   Clotilde Marut (PhD student, UPS)   Enzo Monino (PhD student, ERC)   Roberto Orlando (PhD student, 80|PRIME)</description>
+Fabris Kossoski (Postdoc, ERC) Raul Quintero-Monsebaiz (Postdoc, ERC) Mickael Veril (PhD student, UPS) Clotilde Marut (PhD student, UPS) Enzo Monino (PhD student, ERC) Roberto Orlando (PhD student, 80|PRIME)
+Yann Damour (PhD student, ERC) Antoine Marie (PhD student, ERC) Collaborators Anthony Scemama</description>
     </item>
     
     <item>
@@ -40,8 +41,8 @@ E-mail: loos@irsamc.ups-tlse.fr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/publications/</guid>
-      <description>2022   118. DFT exchange: sharing perspectives on the workhorse of quantum chemistry and materials science,
- A. M. Teale, T. Helgaker, A. Savin, C. Adamo, B. Aradi, A. V. Arbuznikov, P. W. Ayers, E. J. Baerends, V. Barone, P. Calaminici, E. Cancès, E. A. Carter, P. K. Chattaraj, H. Chermette, I. Ciofini, T. D. Crawford, F. De Proft, J. F. Dobson, C. Draxl, T. Frauenheim, E. Fromager, P. Fuentealba, L.</description>
+      <description>2022 118. DFT exchange: sharing perspectives on the workhorse of quantum chemistry and materials science,
+A. M. Teale, T. Helgaker, A. Savin, C. Adamo, B. Aradi, A. V. Arbuznikov, P. W. Ayers, E. J. Baerends, V. Barone, P. Calaminici, E. Cancès, E. A. Carter, P. K. Chattaraj, H. Chermette, I. Ciofini, T. D. Crawford, F. De Proft, J. F. Dobson, C. Draxl, T. Frauenheim, E. Fromager, P. Fuentealba, L. Gagliardi, G.</description>
     </item>
     
     <item>
@@ -51,7 +52,7 @@ E-mail: loos@irsamc.ups-tlse.fr
       <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/research/</guid>
       <description>Research interest I am currently a full-time CNRS senior researcher at the Universite Paul Sabatier (Toulouse, France). I am part of the Laboratoire de Chimie et Physique Quantiques (UMR5626) within the THEO group.
- ERC Consolidator grant (No. 863481): Processes related to electronically excited states are central in chemistry, physics, and biology, playing a key role in ubiquitous processes such as photochemistry, catalysis, and solar cell technology. However, defining an effective method that reliably provides accurate excited-state energies remains a major challenge in theoretical chemistry.</description>
+ERC Consolidator grant (No. 863481): Processes related to electronically excited states are central in chemistry, physics, and biology, playing a key role in ubiquitous processes such as photochemistry, catalysis, and solar cell technology. However, defining an effective method that reliably provides accurate excited-state energies remains a major challenge in theoretical chemistry.</description>
     </item>
     
     <item>
@@ -60,13 +61,13 @@ E-mail: loos@irsamc.ups-tlse.fr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/talks/</guid>
-      <description>Oral communications   57. Selected configuration interaction, coupled cluster, Green&amp;rsquo;s function, and density-functional methods for excited states,,
+      <description>Oral communications 57. Selected configuration interaction, coupled cluster, Green&amp;rsquo;s function, and density-functional methods for excited states,,
 WATOC 2022, Vancouver, Canada (July 2022).
-  56. The elephant in the room of Green&amp;rsquo;s function methods,
+56. The elephant in the room of Green&amp;rsquo;s function methods,
 Theoretical Chemist Meeting, Bordeaux, France (June 2022).
-  55. Green&amp;rsquo;s function-based methods in chemistry,
+55. Green&amp;rsquo;s function-based methods in chemistry,
 International summer School in electronic structure Theory: electron correlation in Physics and Chemistry (ISTPC), Aussois, France (June 2022).
-  54.</description>
+54. Hartree-Fock and post-Hartree-Fock methods: Computational aspects,</description>
     </item>
     
   </channel>
