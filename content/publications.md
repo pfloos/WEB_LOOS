@@ -24,7 +24,7 @@ M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2204.05098.pdf">115. Reference energies for cyclobutadiene: automerization and excited states,<br></a>
 E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
-<I>J. Phys. Chem. A </I><B></B> (submitted). <br><br>
+<I>J. Phys. Chem. A </I><B></B> (in press). <br><br>
 
 * <a href="/pub/114.pdf">114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
 F. Kossoski, Y. Damour, and P. F. Loos.<br>
