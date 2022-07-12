@@ -7,7 +7,7 @@ draft: false
 # Oral communications
 
 
-* <a href="/talks/o57.pdf">57. Selected configuration interaction, coupled cluster, Green's function, and density-functional methods for excited states,</a>,<br>
+* <a href="/talks/o57.pdf">57. State-specific coupled cluster for excited states,</a>,<br>
 WATOC 2022, Vancouver, Canada (July 2022).<br><br>
 
 * <a href="/talks/o56.pdf">56. The elephant in the room of Green's function methods</a>,<br>
