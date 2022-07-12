@@ -16,7 +16,7 @@ A. M. Teale, T. Helgaker, A. Savin, C. Adamo, B. Aradi, A. V. Arbuznikov, P. W. 
 
 * <a href="/pub/117.pdf">117. A mountaineering strategy to excited states: revising reference values with EOM-CC4,<br></a>
 P. F. Loos, F. Lipparini, D. A. Matthews, A. Blondel, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput.</I><B> 18</B>, 4418 (2022). <br><br>
 
 * <a href="/pub/116.pdf">116. Benchmarking CASPT3 vertical excitation energies,<br></a>
 M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
