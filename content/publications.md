@@ -14,7 +14,7 @@ draft: false
 A. M. Teale, T. Helgaker, A. Savin, C. Adamo, B. Aradi, A. V. Arbuznikov, P. W. Ayers, E. J. Baerends, V. Barone, P. Calaminici, E. Cancès, E. A. Carter, P. K. Chattaraj, H. Chermette, I. Ciofini, T. D. Crawford, F. De Proft, J. F. Dobson, C. Draxl, T. Frauenheim, E. Fromager, P. Fuentealba, L. Gagliardi, G. Galli, J. Gao, P. Geerlings, N. Gidopoulos, P. M. W. Gill, P. Gori-Giorgi, A. Görling, T. Gould, S. Grimme, O. Gritsenko, H. J. A. Jensen, E. R. Johnson, R. O. Jones, M. Kaupp, A. M. Köster, L. Kronik, A. I. Krylov, S. Kvaal, A. Laestadius, M. Levy, M. Lewin, S. Liu, P. F. Loos, N. T. Maitra, F. Neese, J. P. Perdew, K. Pernal, P. Pernot, P. Piecuch, E. Rebolini, L. Reining, P. Romaniello, A. Ruzsinszky, D. R. Salahub, M. Scheffler, P. Schwerdtfeger, V. N. Staroverov, J. Sun, E. Tellgren, D. J. Tozer, S. B. Trickey, C. A. Ullrich, A. Vela, G. Vignale, T. A. Wesolowski, W. Yang, and X. Xu.<br>
 <I>Phys. Chem. Chem. Phys.</I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2204.11658.pdf">117. A mountaineering strategy to excited states: revising reference values with EOM-CC4,<br></a>
+* <a href="/pub/117.pdf">117. A mountaineering strategy to excited states: revising reference values with EOM-CC4,<br></a>
 P. F. Loos, F. Lipparini, D. A. Matthews, A. Blondel, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
 
