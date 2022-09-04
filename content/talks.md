@@ -13,7 +13,7 @@ MES 2022, Monastir, Tunisia (September 2022).<br><br>
 * <a href="/talks/o57.pdf">57. State-specific coupled cluster for excited states,</a><br>
 WATOC 2022, Vancouver, Canada (July 2022).<br><br>
 
-* <a href="/talks/o56.pdf">56. The elephant in the room of Green's function methods</a><br>
+* <a href="/talks/o56.pdf">56. The elephant in the room of Green's function methods,</a><br>
 Theoretical Chemist Meeting, Bordeaux, France (June 2022).<br><br>
 
 * <a href="/talks/o55.pdf">55. Green's function-based methods in chemistry,</a><br>
@@ -31,7 +31,7 @@ International Conference on reduced density matrix theory for quantum many-fermi
 * <a href="/talks/o51.pdf">51. Systèmes quantiques simples pour mieux comprendre la physique et chimie des systèmes complexes,</a><br>
 Seminaire SFP Midi-Pyrénées, Toulouse, France (May 2022).<br><br>
 
-* <a href="/talks/o50.pdf">50. Unphysical Discontinuities, Intruder States and Regularization in GW Methods,</a><br>
+* <a href="/talks/o50.pdf">50. Unphysical discontinuities, intruder states and regularization in GW methods,</a><br>
 Discussion meeting on correlation (GDR REST), Palaiseau, France (April 2022).<br><br>
 
 * <a href="/talks/o49.pdf">49. Higher roots of the Schroedinger equation,</a><br>
