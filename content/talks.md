@@ -7,6 +7,9 @@ draft: false
 # Oral communications
 
 
+* <a href="/talks/o58.pdf">58. Hierarchy configuration interaction and state-specific approaches for excited states,</a><br>
+MES 2022, Monastir, Tunisia (September 2022).<br><br>
+
 * <a href="/talks/o57.pdf">57. State-specific coupled cluster for excited states,</a><br>
 WATOC 2022, Vancouver, Canada (July 2022).<br><br>
 
