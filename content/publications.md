@@ -6,6 +6,10 @@ draft: false
 
 <!--
 
+* <a href="">119. Diffusion Monte Carlo using domains in configuration space,<br></a>
+R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<br>
+<I>Phys. Rev. B</I><B></B> (submitted). <br><br>
+
 -->
 
 ### 2022
