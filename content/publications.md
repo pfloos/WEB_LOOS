@@ -10,6 +10,10 @@ draft: false
 
 ### 2022
 
+* <a href="">119. Connections between many-body perturbation and coupled-cluster theories,<br></a>
+R. Quintero-Monsebaiz, E. Monino, A. Marie, and P. F. Loos.<br>
+<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+
 * <a href="https://pubs.rsc.org/en/content/articlepdf/2022/cp/d2cp02827a">118. DFT exchange: sharing perspectives on the workhorse of quantum chemistry and materials science,<br></a>
 A. M. Teale, T. Helgaker, A. Savin, C. Adamo, B. Aradi, A. V. Arbuznikov, P. W. Ayers, E. J. Baerends, V. Barone, P. Calaminici, E. Cancès, E. A. Carter, P. K. Chattaraj, H. Chermette, I. Ciofini, T. D. Crawford, F. De Proft, J. F. Dobson, C. Draxl, T. Frauenheim, E. Fromager, P. Fuentealba, L. Gagliardi, G. Galli, J. Gao, P. Geerlings, N. Gidopoulos, P. M. W. Gill, P. Gori-Giorgi, A. Görling, T. Gould, S. Grimme, O. Gritsenko, H. J. A. Jensen, E. R. Johnson, R. O. Jones, M. Kaupp, A. M. Köster, L. Kronik, A. I. Krylov, S. Kvaal, A. Laestadius, M. Levy, M. Lewin, S. Liu, P. F. Loos, N. T. Maitra, F. Neese, J. P. Perdew, K. Pernal, P. Pernot, P. Piecuch, E. Rebolini, L. Reining, P. Romaniello, A. Ruzsinszky, D. R. Salahub, M. Scheffler, P. Schwerdtfeger, V. N. Staroverov, J. Sun, E. Tellgren, D. J. Tozer, S. B. Trickey, C. A. Ullrich, A. Vela, G. Vignale, T. A. Wesolowski, W. Yang, and X. Xu.<br>
 <I>Phys. Chem. Chem. Phys.</I><B></B> (in press). <br><br>
@@ -24,7 +28,7 @@ M. Boggio-Pasqua, D. Jacquemin, and P. F. Loos.<br>
 
 * <a href="/pub/115.pdf">115. Reference energies for cyclobutadiene: automerization and excited states,<br></a>
 E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
-<I>J. Phys. Chem. A </I><B> 126</B>, 4664 (2022). <br><br>
+<I>J. Phys. Chem. A</I><B> 126</B>, 4664 (2022). <br><br>
 
 * <a href="/pub/114.pdf">114. Hierarchy configuration interaction: combining seniority number and excitation degree,<br></a>
 F. Kossoski, Y. Damour, and P. F. Loos.<br>

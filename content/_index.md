@@ -16,9 +16,12 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 
 # NEWS
 
+* **Oct 2022:** Our group is organizing the mid-term PTEROSOR workshop on emerging electronic structure methods for excited states in April 2023. More info [here](https://pfloos.github.io/PTEROSOR_midterm_workshop/).
+* **Oct 2022:** Antoine Marie has joined the group as a PhD student. Welcome (back) Antoine!
 * **Jan 2022:** We are organizing the 2nd general meeting of the [GDR NBODY](https://lcpq.github.io/gdr_nbody_2021). Please, join us online!
 * **Dec 2021:** Mika Veril has successfully defended his PhD. Congrats Mika!
 * **Dec 2021:** New website is up and running!
+* **Oct 2021:** Yann Damour has joined the group as a PhD student. Welcome Yann!
 * **Sep 2021:** Mika Veril has submitted his PhD dissertation entitled *"Electronic transitions, statistics and digital tools for quantum chemistry"*. Congratulations Mika!
 * **Mar 2021:** Raul Quintero-Monsebaiz is going to join the group in a few weeks as a postdoctoral fellow. Welcome Raul!
 * **Dec 2020:** The website of the [PTEROSOR](https://lcpq.github.io/PTEROSOR) project is up and running!
