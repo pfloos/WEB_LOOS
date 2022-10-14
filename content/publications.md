@@ -6,7 +6,7 @@ draft: false
 
 <!--
 
-* <a href="">119. Diffusion Monte Carlo using domains in configuration space,<br></a>
+* <a href="">120. Diffusion Monte Carlo using domains in configuration space,<br></a>
 R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<br>
 <I>Phys. Rev. B</I><B></B> (submitted). <br><br>
 
@@ -14,7 +14,7 @@ R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<b
 
 ### 2022
 
-* <a href="">119. Connections between many-body perturbation and coupled-cluster theories,<br></a>
+* <a href="https://arxiv.org/pdf/2210.07043.pdf">119. Connections between many-body perturbation and coupled-cluster theories,<br></a>
 R. Quintero-Monsebaiz, E. Monino, A. Marie, and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
