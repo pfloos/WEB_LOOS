@@ -6,17 +6,17 @@ draft: false
 
 <!--
 
-* <a href="/pub/122.pdf"> 122. Ground- and Excited-state dipole moments and oscillator strengths of full configuration interaction quality,<br></a>
+-->
+
+### 2022
+
+* <a href="/pub/122.pdf"> 122. Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality,<br></a>
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
-<I> J. Chem. Phys.</I><B> 155</B>, 134104 (2021). <br><br>
+<I> J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
 * <a href="">121. State-specific configuration interaction for excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
 <I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
-
--->
-
-### 2022
 
 * <a href="https://arxiv.org/pdf/2210.11824.pdf">120. Diffusion Monte Carlo using domains in configuration space,<br></a>
 R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<br>
