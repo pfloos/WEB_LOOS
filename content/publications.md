@@ -14,7 +14,7 @@ draft: false
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
 <I> J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
-* <a href="">121. State-specific configuration interaction for excited states,<br></a>
+* <a href="https://arxiv.org/pdf/2211.03048.pdf">121. State-specific configuration interaction for excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
 <I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
 
