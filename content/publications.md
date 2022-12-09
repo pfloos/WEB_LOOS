@@ -12,7 +12,7 @@ draft: false
 
 * <a href="/pub/122.pdf"> 122. Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality,<br></a>
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
-<I> J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
+<I> J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2211.03048.pdf">121. State-specific configuration interaction for excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
@@ -24,11 +24,11 @@ R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<b
 
 * <a href="https://arxiv.org/pdf/2210.07043.pdf">119. Connections between many-body perturbation and coupled-cluster theories,<br></a>
 R. Quintero-Monsebaiz, E. Monino, A. Marie, and P. F. Loos.<br>
-<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys.</I><B></B> (in press). <br><br>
 
 * <a href="/pub/118.pdf">118. DFT exchange: sharing perspectives on the workhorse of quantum chemistry and materials science,<br></a>
 A. M. Teale, T. Helgaker, A. Savin, C. Adamo, B. Aradi, A. V. Arbuznikov, P. W. Ayers, E. J. Baerends, V. Barone, P. Calaminici, E. Cancès, E. A. Carter, P. K. Chattaraj, H. Chermette, I. Ciofini, T. D. Crawford, F. De Proft, J. F. Dobson, C. Draxl, T. Frauenheim, E. Fromager, P. Fuentealba, L. Gagliardi, G. Galli, J. Gao, P. Geerlings, N. Gidopoulos, P. M. W. Gill, P. Gori-Giorgi, A. Görling, T. Gould, S. Grimme, O. Gritsenko, H. J. A. Jensen, E. R. Johnson, R. O. Jones, M. Kaupp, A. M. Köster, L. Kronik, A. I. Krylov, S. Kvaal, A. Laestadius, M. Levy, M. Lewin, S. Liu, P. F. Loos, N. T. Maitra, F. Neese, J. P. Perdew, K. Pernal, P. Pernot, P. Piecuch, E. Rebolini, L. Reining, P. Romaniello, A. Ruzsinszky, D. R. Salahub, M. Scheffler, P. Schwerdtfeger, V. N. Staroverov, J. Sun, E. Tellgren, D. J. Tozer, S. B. Trickey, C. A. Ullrich, A. Vela, G. Vignale, T. A. Wesolowski, W. Yang, and X. Xu.<br>
-<I>Phys. Chem. Chem. Phys. (Open Access)</I><B> 24</B>, Advance Article (2022) [Hot article]. <br><br>
+<I>Phys. Chem. Chem. Phys. (Open Access)</I><B> 24</B>, 28700 (2022) [Hot article]. <br><br>
 
 * <a href="/pub/117.pdf">117. A mountaineering strategy to excited states: revising reference values with EOM-CC4,<br></a>
 P. F. Loos, F. Lipparini, D. A. Matthews, A. Blondel, and D. Jacquemin.<br>
