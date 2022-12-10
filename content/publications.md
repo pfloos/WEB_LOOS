@@ -6,9 +6,25 @@ draft: false
 
 <!--
 
+* <a href="">126. Derivative discontinuities in Gross–Oliveira–Kohn density-functional theory for excited states: An N-centered ensemble perspective,<br></a>
+F. Cernatic, C. Marut, P. F. Loos, B. Senjean, and E. Fromager.<br>
+<I>Phys. Rev. A</I><B></B> (submitted). <br><br>
+
+* <a href="">125. Connections between Green's function methods for charged and neutral excitations,<br></a>
+E. Monino and P. F. Loos.<br>
+<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+
+* <a href="">124. A Similarity Renormalization Group Approach to GW,<br></a>
+A. Marie and P. F. Loos.<br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
+
+* <a href="">123. Equation generator for equation-of-motion coupled cluster,<br></a>
+R. Quintero-Monsebaiz and P. F. Loos.<br>
+<I>Adv. Quantum Chem.</I><B></B> (submitted). <br><br>
+
 -->
 
-### 2022
+### 2023
 
 * <a href="https://arxiv.org/pdf/2211.04120.pdf"> 122. Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality,<br></a>
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
@@ -16,11 +32,13 @@ Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Sce
 
 * <a href="https://arxiv.org/pdf/2211.03048.pdf">121. State-specific configuration interaction for excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
-<I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2210.11824.pdf">120. Diffusion Monte Carlo using domains in configuration space,<br></a>
 R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<br>
 <I>Phys. Rev. B</I><B></B> (submitted). <br><br>
+
+### 2022
 
 * <a href="https://arxiv.org/pdf/2210.07043.pdf">119. Connections between many-body perturbation and coupled-cluster theories,<br></a>
 R. Quintero-Monsebaiz, E. Monino, A. Marie, and P. F. Loos.<br>
