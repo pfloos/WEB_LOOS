@@ -7,6 +7,12 @@ draft: false
 # Oral communications
 
 
+* <a href="/talks/o60.pdf">60. Many-body perturbation theory à la coupled cluster,</a><br>
+NHISS 2022, Jeju island, South Korea (December 2022).<br><br>
+
+* <a href="/talks/o59.pdf">59. The electron correlation problem,</a><br>
+Ecole Normale Superieure de Lyon, Lyon, France (November & December 2022).<br><br>
+
 * <a href="/talks/o58.pdf">58. Hierarchy configuration interaction and state-specific approaches for excited states,</a><br>
 MES 2022, Monastir, Tunisia (September 2022).<br><br>
 
