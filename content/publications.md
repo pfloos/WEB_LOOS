@@ -36,7 +36,7 @@ F. Kossoski and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2210.11824.pdf">120. Diffusion Monte Carlo using domains in configuration space,<br></a>
 R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<br>
-<I>Phys. Rev. B</I><B></B> (submitted). <br><br>
+<I>Phys. Rev. B</I><B></B> (in press). <br><br>
 
 ### 2022
 
