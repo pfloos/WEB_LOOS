@@ -40,7 +40,7 @@ R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<b
 
 ### 2022
 
-* <a href="https://arxiv.org/pdf/2210.07043.pdf">119. Connections between many-body perturbation and coupled-cluster theories,<br></a>
+* <a href="/pub/119.pdf">119. Connections between many-body perturbation and coupled-cluster theories,<br></a>
 R. Quintero-Monsebaiz, E. Monino, A. Marie, and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B> 157</B>, 231102 (2022). <br><br>
 
