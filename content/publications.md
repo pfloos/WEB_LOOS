@@ -26,6 +26,12 @@ R. Quintero-Monsebaiz and P. F. Loos.<br>
 
 ### 2023
 
+
+* <a href="">123. Exploring new exchange-correlation kernels in the Bethe-Salpeter equation: a study of the
+asymmetric Hubbard dimer,<br></a>
+R. Orlando, P. Romaniello, and P. F. Loos.<br>
+<I>Adv. Quantum Chem.</I><B></B> (submitted). <br><br>
+
 * <a href="https://arxiv.org/pdf/2211.04120.pdf"> 122. Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality,<br></a>
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
 <I> J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
