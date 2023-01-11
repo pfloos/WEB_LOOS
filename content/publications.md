@@ -32,7 +32,7 @@ asymmetric Hubbard dimer,<br></a>
 R. Orlando, P. Romaniello, and P. F. Loos.<br>
 <I>Adv. Quantum Chem.</I><B></B> (submitted). <br><br>
 
-* <a href="/pub/123.pdf"> 122. Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality,<br></a>
+* <a href="/pub/122.pdf"> 122. Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality,<br></a>
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
 <I> J. Chem. Theory Comput.</I><B> 19</B>, 221 (2023). <br><br>
 
