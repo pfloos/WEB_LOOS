@@ -40,9 +40,9 @@ Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Sce
 F. Kossoski and P. F. Loos.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2210.11824.pdf">120. Diffusion Monte Carlo using domains in configuration space,<br></a>
+* <a href="/pub/120.pdf">120. Diffusion Monte Carlo using domains in configuration space,<br></a>
 R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<br>
-<I>Phys. Rev. B</I><B></B> (in press). <br><br>
+<I>Phys. Rev. B</I><B> 107</B>, 035130 (2023). <br><br>
 
 ### 2022
 
