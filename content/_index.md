@@ -16,6 +16,7 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 
 # NEWS
 
+* **Feb 2023:** Sara Giarrusso has joined the group as a postdoc. Welcome Sara!
 * **Oct 2022:** Our group is organizing the mid-term PTEROSOR workshop on emerging electronic structure methods for excited states in April 2023. More info [here](https://pfloos.github.io/PTEROSOR_midterm_workshop/).
 * **Oct 2022:** Antoine Marie has joined the group as a PhD student. Welcome (back) Antoine!
 * **Jan 2022:** We are organizing the 2nd general meeting of the [GDR NBODY](https://lcpq.github.io/gdr_nbody_2021). Please, join us online!
