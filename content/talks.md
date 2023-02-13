@@ -7,6 +7,9 @@ draft: false
 # Oral communications
 
 
+* <a href="/talks/o61.pdf">61. A similarity renormalization group (SRG) approach to GW,</a><br>
+62nd Sanibel symposium 2023, St Augustine Beach, Florida, US (February 2023).<br><br>
+
 * <a href="/talks/o60.pdf">60. Many-body perturbation theory à la coupled cluster,</a><br>
 NHISS 2022, Jeju island, South Korea (December 2022).<br><br>
 
