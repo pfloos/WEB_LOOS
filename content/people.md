@@ -37,9 +37,6 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Sara Giarrusso](https://scholar.google.com/citations?user=Sf-pfv4AAAAJ&hl=en) (Postdoc, ERC)
 <img class="photo" src="/img/SGiarrusso.jpg" alt="Sara" />
 
-* [Clotilde Marut](https://www.researchgate.net/profile/Clotilde_Marut) (PhD student, UPS)
-<img class="photo" src="/img/CMarut.jpg" alt="Clotilde" />
-
 * [Enzo Monino]() (PhD student, ERC)
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
 

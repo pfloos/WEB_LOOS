@@ -36,7 +36,6 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 * **Jun 2019:** Come and join us in June 2020 at the 3rd edition of [ISTPC](https://quantique.u-strasbg.fr/ISTPC/doku.php).
 * **Jun 2019:** Stefano di Sabatino will join the group in September for a one-year postdoc position to work with Pina Romaniello and myself on a new multireference GW method.
 * **Jul 2019:** I've been granted an early-career fellowship from the ANR.
-* **May 2019:** Clotilde Marut secured a PhD scholarship and will join the group in September. Welcome Clotilde!
 * **May 2019:** Thomas Colle has joined us for a Master 1 project on conical intersections.
 * **Nov 2018:** Come and join us at [TCCM Winter School LTTC](http://www.irsamc.ups-tlse.fr/lttc/#portfolioModal5) in Luchon!
 * **Oct 2018:** [Peter Gill](http://localhost) from the Australian National University will be visiting our group in October next year!
