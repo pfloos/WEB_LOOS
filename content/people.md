@@ -73,7 +73,7 @@ CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, 
 * [Pina Romaniello](http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en)  
 CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
-* [Arjan berger](https://www.lcpq.ups-tlse.fr/berger)  
+* [Arjan Berger](https://www.lcpq.ups-tlse.fr/berger)  
 Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 * [Paola Gori-Girogi](https://www.paolagorigiorgi.org)  
