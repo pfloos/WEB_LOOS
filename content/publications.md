@@ -22,14 +22,13 @@ R. Quintero-Monsebaiz and P. F. Loos.<br>
 F. Kossoski, Y. Damour, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">124. A similarity renormalization group approach to Green's function methods,<br></a>
-A. Marie and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
-
 -->
 
 ### 2023
 
+* <a href="">124. A similarity renormalization group approach to Green's function methods,<br></a>
+A. Marie and P. F. Loos.<br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2302.06679.pdf">123. Exploring new exchange-correlation kernels in the Bethe-Salpeter equation: a study of the
 asymmetric Hubbard dimer,<br></a>
