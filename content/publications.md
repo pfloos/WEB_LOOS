@@ -26,7 +26,7 @@ F. Kossoski, Y. Damour, and P. F. Loos.<br>
 
 ### 2023
 
-* <a href="https://arxiv.org/abs/2303.05984">124. A similarity renormalization group approach to Green's function methods,<br></a>
+* <a href="https://arxiv.org/pdf/2303.05984.pdf">124. A similarity renormalization group approach to Green's function methods,<br></a>
 A. Marie and P. F. Loos.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
