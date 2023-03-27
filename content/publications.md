@@ -19,12 +19,16 @@ R. Quintero-Monsebaiz and P. F. Loos.<br>
 <I>Adv. Quantum Chem.</I><B></B> (submitted). <br><br>
 
 * <a href="">125. Hierarchy configuration interaction for open-shell systems,<br></a>
-F. Kossoski, Y. Damour, and P. F. Loos.<br>
+F. Kossoski and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 -->
 
 ### 2023
+
+* <a href="">125. Exact excited-state functionals of the asymmetric Hubbard dimer,<br></a>
+S. Giarrusso and P. F. Loos.<br>
+<I>Phys. Rev. Lett.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2303.05984.pdf">124. A similarity renormalization group approach to Green's function methods,<br></a>
 A. Marie and P. F. Loos.<br>
