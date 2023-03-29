@@ -26,7 +26,7 @@ F. Kossoski and P. F. Loos.<br>
 
 ### 2023
 
-* <a href="">125. Exact excited-state functionals of the asymmetric Hubbard dimer,<br></a>
+* <a href="https://arxiv.org/pdf/2303.15084.pdf">125. Exact excited-state functionals of the asymmetric Hubbard dimer,<br></a>
 S. Giarrusso and P. F. Loos.<br>
 <I>Phys. Rev. Lett.</I><B></B> (submitted). <br><br>
 
