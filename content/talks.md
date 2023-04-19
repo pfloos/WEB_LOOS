@@ -7,6 +7,9 @@ draft: false
 # Oral communications
 
 
+* <a href="/talks/o62.pdf">62. CIPSI: selected configuration interaction methods for ground and excited states,</a><br>
+TREX workshop on electronic structure methods for strong correlation, Lodz, Poland (April 2023).<br><br>
+
 * <a href="/talks/o61.pdf">61. A similarity renormalization group (SRG) approach to GW,</a><br>
 62nd Sanibel symposium 2023, St Augustine Beach, Florida, US (February 2023).<br><br>
 
