@@ -28,7 +28,7 @@ ORCID: [0000-0003-0598-7425](https://orcid.org/0000-0003-0598-7425)
 Telephone: +33 5 6155 7339   
 E-mail: loos@irsamc.ups-tlse.fr  
 
-* [Fabris Kossoski](https://www.researchgate.net/profile/Fabris_Kossoski) (Postdoc, ERC)
+* [Fabris Kossoski](https://kossoski.github.io) (Postdoc, ERC)
 <img class="photo" src="/img/FKossoski.png" alt="Fabris" />
 
 * [Raul Quintero-Monsebaiz](https://www.researchgate.net/profile/Raul-Quintero-Monsebaiz) (Postdoc, ERC)
