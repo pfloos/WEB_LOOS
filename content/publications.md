@@ -43,9 +43,9 @@ R. Orlando, P. Romaniello, and P. F. Loos.<br>
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
 <I> J. Chem. Theory Comput.</I><B> 19</B>, 221 (2023). <br><br>
 
-* <a href="https://arxiv.org/pdf/2211.03048.pdf">121. State-specific configuration interaction for excited states,<br></a>
+* <a href="/pub/121.pdf">121. State-specific configuration interaction for excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput.</I><B> 19</B>, 2258 (2023). <br><br>
 
 * <a href="/pub/120.pdf">120. Diffusion Monte Carlo using domains in configuration space,<br></a>
 R. Assaraf, E. Giner, V. G. Chilkuri, P. F. Loos, A. Scemama, and M. Caffarel.<br>
