@@ -18,6 +18,18 @@ R. Quintero-Monsebaiz and P. F. Loos.<br>
 F. Kossoski and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
+* <a href="">125. Reference Vertical Excitation Energies For Transition Metal Compounds,<br></a>
+P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="">125. Reference Energies for Double Excitations: Improvements & Extension,<br></a>
+P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="">125. Reference Energies for Satellite Transitions,<br></a>
+A. Marie, D. Jacquemin, and P. F. Loos.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
 -->
 
 ### 2023
