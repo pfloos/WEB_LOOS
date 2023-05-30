@@ -5,7 +5,7 @@
     <link>https://pfloos.github.io/WEB_LOOS/</link>
     <description>Recent content in Home on Pierre-Francois Loos&#39; research webpage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <managingEditor>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</managingEditor>
     <webMaster>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</webMaster><atom:link href="https://pfloos.github.io/WEB_LOOS/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -41,13 +41,13 @@ Yann Damour (PhD student, ERC) Antoine Marie (PhD student, ERC) Collaborators An
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/publications/</guid>
-      <description>2023 126. Connections and performances of Green&amp;rsquo;s function methods for charged and neutral excitations,
+      <description>2023 127. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,
+R. Quintero-Monsebaiz and P. F. Loos.
+J. Chem. Phys. (submitted). 126. Connections and performances of Green&amp;rsquo;s function methods for charged and neutral excitations,
 E. Monino and P. F. Loos.
 J. Chem. Phys. (submitted). 125. Exact excited-state functionals of the asymmetric Hubbard dimer,
 S. Giarrusso and P. F. Loos.
-Phys. Rev. Lett. (submitted). 124. A similarity renormalization group approach to Green&amp;rsquo;s function methods,
-A. Marie and P. F. Loos.
-J. Chem. Theory Comput. (in press). 123. Exploring new exchange-correlation kernels in the Bethe-Salpeter equation: a study of the asymmetric Hubbard dimer,</description>
+Phys. Rev. Lett. (submitted). 124. A similarity renormalization group approach to Green&amp;rsquo;s function methods,</description>
     </item>
     
     <item>
