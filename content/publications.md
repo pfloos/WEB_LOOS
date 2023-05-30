@@ -30,7 +30,7 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 ### 2023
 
-* <a href="">126. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,<br></a>
+* <a href="">127. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,<br></a>
 R. Quintero-Monsebaiz and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
