@@ -6,25 +6,26 @@ draft: false
 
 <!--
 
-* <a href="">128. Derivative discontinuities in Gross–Oliveira–Kohn density-functional theory for excited states: An N-centered ensemble perspective,<br></a>
+* <a href="">132. Exact ensemble density functional theory of neutral electronic excitations revisited: An extended N-centered approach to exchange-correlation derivative discontinuities,<br></a>
 F. Cernatic, C. Marut, P. F. Loos, B. Senjean, and E. Fromager.<br>
 <I>Phys. Rev. A</I><B></B> (submitted). <br><br>
 
-* <a href="">125. Hierarchy configuration interaction for open-shell systems,<br></a>
+* <a href="">131. Reference Energies for Double Excitations: Improvements & Extension,<br></a>
+P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="">130. Reference Energies for Valence Ionizations and Satellite Transitions,<br></a>
+A. Marie, D. Jacquemin, and P. F. Loos.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="">129. Reference Vertical Excitation Energies For Transition Metal Compounds,<br></a>
+P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="">128. Seniority and hierarchy configuration interaction for radicals and excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">125. Reference Vertical Excitation Energies For Transition Metal Compounds,<br></a>
-P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
-* <a href="">125. Reference Energies for Double Excitations: Improvements & Extension,<br></a>
-P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
-* <a href="">125. Reference Energies for Satellite Transitions,<br></a>
-A. Marie, D. Jacquemin, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 -->
 
