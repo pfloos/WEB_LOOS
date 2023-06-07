@@ -31,9 +31,6 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Fabris Kossoski](https://kossoski.github.io) (Postdoc, ERC)
 <img class="photo" src="/img/FKossoski.png" alt="Fabris" />
 
-* [Raul Quintero-Monsebaiz](https://www.researchgate.net/profile/Raul-Quintero-Monsebaiz) (Postdoc, ERC)
-<img class="photo" src="/img/RQuintero.jpg" alt="Raul" />
-
 * [Sara Giarrusso](https://scholar.google.com/citations?user=Sf-pfv4AAAAJ&hl=en) (Postdoc, ERC)
 <img class="photo" src="/img/SGiarrusso.jpg" alt="Sara" />
 
@@ -83,6 +80,7 @@ Professor (Vrije Universiteit, Amsterdam, Netherland)
 
 # Past Members
 
+* Raul Quintero-Monsebaiz (2022-2023)
 * Maia Courtiel (2021)
 * Juliette Authier, Pierre Racine, and Stefano di Sabatino (2020)
 * Thomas Colle (2019)
