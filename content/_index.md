@@ -16,6 +16,7 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 
 # NEWS
 
+* **Jun 2023:** Enzo Monino has submitted his PhD thesis.
 * **May 2023:** Raul Quintero-Monsebaiz has left the group. Good luck for the future Raul!
 * **Feb 2023:** Sara Giarrusso has joined the group as a postdoc. Welcome Sara!
 * **Oct 2022:** Our group is organizing the mid-term PTEROSOR workshop on emerging electronic structure methods for excited states in April 2023. More info [here](https://pfloos.github.io/PTEROSOR_midterm_workshop/).
