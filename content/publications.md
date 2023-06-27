@@ -37,7 +37,7 @@ R. Quintero-Monsebaiz and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2305.16959.pdf">126. Connections and performances of Green's function methods for charged and neutral excitations,<br></a>
 E. Monino and P. F. Loos.<br>
-<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2303.15084.pdf">125. Exact excited-state functionals of the asymmetric Hubbard dimer,<br></a>
 S. Giarrusso and P. F. Loos.<br>
