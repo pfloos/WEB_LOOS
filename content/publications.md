@@ -30,6 +30,10 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 ### 2023
 
+* <a href="/pub/128.pdf">128. Introduction to the Peter M. W. Gill special issue,<br></a>
+M. Head-Gordon, A. T. B. Gilbert, P. F. Loos, and L. Radom.<br>
+<I>Mol. Phys.</I><B> 121</B>, e2219934 (2023). <br><br>
+
 * <a href="">127. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,<br></a>
 R. Quintero-Monsebaiz and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
@@ -89,9 +93,9 @@ E. Monino, M. Boggio-Pasqua, A. Scemama, D. Jacquemin, and P. F. Loos.<br>
 F. Kossoski, Y. Damour, and P. F. Loos.<br>
 <I>J. Phys. Chem. Lett. (Open Access)</I><B> 13</B>, 4342 (2022). <br><br>
 
-* <a href="https://arxiv.org/pdf/2203.05246.pdf">113. Transient uniform electron gases,<br></a>
+* <a href="/pub/113.pdf">113. Transient uniform electron gases,<br></a>
 P. F. Loos and M. Seidl.<br>
-<I>Mol. Phys.</I><B></B> (in press). <br><br>
+<I>Mol. Phys.</I><B> 121</B>, e2061388 (2023). <br><br>
 
 * <a href="/pub/112.pdf"> 112. Unphysical discontinuities, intruder states and regularization in GW methods,<br></a>
 E. Monino and P. F. Loos.<br>
