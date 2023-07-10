@@ -6,25 +6,26 @@ draft: false
 
 <!--
 
-* <a href="">128. Derivative discontinuities in Gross–Oliveira–Kohn density-functional theory for excited states: An N-centered ensemble perspective,<br></a>
+* <a href="">132. Exact ensemble density functional theory of neutral electronic excitations revisited: An extended N-centered approach to exchange-correlation derivative discontinuities,<br></a>
 F. Cernatic, C. Marut, P. F. Loos, B. Senjean, and E. Fromager.<br>
 <I>Phys. Rev. A</I><B></B> (submitted). <br><br>
 
-* <a href="">125. Hierarchy configuration interaction for open-shell systems,<br></a>
+* <a href="">131. Reference Energies for Double Excitations: Improvements & Extension,<br></a>
+P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="">130. Reference Energies for Valence Ionizations and Satellite Transitions,<br></a>
+A. Marie, D. Jacquemin, and P. F. Loos.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="">129. Reference Vertical Excitation Energies For Transition Metal Compounds,<br></a>
+P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="">128. Seniority and hierarchy configuration interaction for radicals and excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">125. Reference Vertical Excitation Energies For Transition Metal Compounds,<br></a>
-P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
-* <a href="">125. Reference Energies for Double Excitations: Improvements & Extension,<br></a>
-P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
-* <a href="">125. Reference Energies for Satellite Transitions,<br></a>
-A. Marie, D. Jacquemin, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 -->
 
@@ -34,21 +35,21 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 M. Head-Gordon, A. T. B. Gilbert, P. F. Loos, and L. Radom.<br>
 <I>Mol. Phys.</I><B> 121</B>, e2219934 (2023). <br><br>
 
-* <a href="">127. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,<br></a>
+* <a href="https://arxiv.org/pdf/2306.01573.pdf">127. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,<br></a>
 R. Quintero-Monsebaiz and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2305.16959.pdf">126. Connections and performances of Green's function methods for charged and neutral excitations,<br></a>
 E. Monino and P. F. Loos.<br>
-<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2303.15084.pdf">125. Exact excited-state functionals of the asymmetric Hubbard dimer,<br></a>
 S. Giarrusso and P. F. Loos.<br>
 <I>Phys. Rev. Lett.</I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2303.05984.pdf">124. A similarity renormalization group approach to Green's function methods,<br></a>
+* <a href="/pub/124.pdf">124. A similarity renormalization group approach to Green's function methods,<br></a>
 A. Marie and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput.</I><B></B> (ASAP article). <br><br>
 
 * <a href="https://arxiv.org/pdf/2302.06679.pdf">123. Exploring new exchange-correlation kernels in the Bethe-Salpeter equation: a study of the
 asymmetric Hubbard dimer,<br></a>
