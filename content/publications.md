@@ -37,7 +37,7 @@ M. Head-Gordon, A. T. B. Gilbert, P. F. Loos, and L. Radom.<br>
 
 * <a href="https://arxiv.org/pdf/2306.01573.pdf">127. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,<br></a>
 R. Quintero-Monsebaiz and P. F. Loos.<br>
-<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+<I>AIP Adv.</I><B></B> (in press). <br><br>
 
 * <a href="/pub/126.pdf">126. Connections and performances of Green's function methods for charged and neutral excitations,<br></a>
 E. Monino and P. F. Loos.<br>
