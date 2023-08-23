@@ -22,14 +22,14 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">128. Seniority and hierarchy configuration interaction for radicals and excited states,<br></a>
-F. Kossoski and P. F. Loos.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
-
 
 -->
 
 ### 2023
+
+* <a href="">129. Seniority and hierarchy configuration interaction for radicals and excited states,<br></a>
+F. Kossoski and P. F. Loos.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="/pub/128.pdf">128. Introduction to the Peter M. W. Gill special issue,<br></a>
 M. Head-Gordon, A. T. B. Gilbert, P. F. Loos, and L. Radom.<br>
