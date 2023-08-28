@@ -31,7 +31,6 @@ P. F. Loos, M. Boggio-Pasqua, and D. Jacquemin.<br>
 E. Monino, A. Marie, and P. F. Loos.<br>
 <I>arXiv </I><B></B> (2023). <br><br>
 
-
 * <a href="">129. Seniority and hierarchy configuration interaction for radicals and excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
