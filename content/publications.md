@@ -53,7 +53,7 @@ S. Giarrusso and P. F. Loos.<br>
 
 * <a href="/pub/124.pdf">124. A similarity renormalization group approach to Green's function methods,<br></a>
 A. Marie and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B> 19</B>, 3943 (2023). <br><br>
+<I>J. Chem. Theory Comput. (Open Access)</I><B> 19</B>, 3943 (2023). <br><br>
 
 * <a href="https://arxiv.org/pdf/2302.06679.pdf">123. Exploring new exchange-correlation kernels in the Bethe-Salpeter equation: a study of the
 asymmetric Hubbard dimer,<br></a>
