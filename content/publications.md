@@ -39,9 +39,9 @@ F. Kossoski and P. F. Loos.<br>
 M. Head-Gordon, A. T. B. Gilbert, P. F. Loos, and L. Radom.<br>
 <I>Mol. Phys.</I><B> 121</B>, e2219934 (2023). <br><br>
 
-* <a href="https://arxiv.org/pdf/2306.01573.pdf">127. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,<br></a>
+* <a href="/pub/127.pdf">127. Equation generator for equation-of-motion coupled cluster assisted by computer algebra system,<br></a>
 R. Quintero-Monsebaiz and P. F. Loos.<br>
-<I>AIP Adv.</I><B></B> (in press). <br><br>
+<I>AIP Adv.</I><B> 13</B>, 085035 (2023). <br><br>
 
 * <a href="/pub/126.pdf">126. Connections and performances of Green's function methods for charged and neutral excitations,<br></a>
 E. Monino and P. F. Loos.<br>
