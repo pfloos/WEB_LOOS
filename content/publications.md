@@ -49,7 +49,7 @@ E. Monino and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2303.15084.pdf">125. Exact excited-state functionals of the asymmetric Hubbard dimer,<br></a>
 S. Giarrusso and P. F. Loos.<br>
-<I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
+<I>J. Phys. Chem. Lett.</I><B></B> (in press). <br><br>
 
 * <a href="/pub/124.pdf">124. A similarity renormalization group approach to Green's function methods,<br></a>
 A. Marie and P. F. Loos.<br>
