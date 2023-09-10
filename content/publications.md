@@ -6,6 +6,10 @@ draft: false
 
 <!--
 
+* <a href="">138. State-specific coupled-cluster methods for excited states,<br></a>
+Y. Damour, F. Kossoski. A. Scemama, and P. F. Loos.<br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
+
 * <a href="">137. Revisiting the derivative discontinuities of Gross-Oliveira-Kohn density-functional theory: An extended <I>N</I>-centered ensemble approach to neutral excitations,<br></a>
 F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
 <I>Phys. Rev. A</I><B></B> (submitted). <br><br>
