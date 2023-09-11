@@ -38,7 +38,7 @@ D. Jacquemin, F. Kossoski, M. Boggio-Pasqua, and P. F. Loos.<br>
 
 ### 2023
 
-* <a href="">131. The three channels of many-body perturbation theory: <I>GW</I>, particle-particle, and electron-hole <I>T</I>-matrix self-energies,<br></a>
+* <a href="https://arxiv.org/pdf/2309.04167.pdf">131. The three channels of many-body perturbation theory: <I>GW</I>, particle-particle, and electron-hole <I>T</I>-matrix self-energies,<br></a>
 R. Orlando, P. Romaniello, and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
