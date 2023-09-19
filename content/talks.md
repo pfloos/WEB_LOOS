@@ -6,6 +6,8 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o64.pdf">64. CIPSI: selected configuration interaction methods for ground and excited states,</a><br>
+IQTC meeting 2023, Barcelona, Spain (September 2023).<br><br>
 
 * <a href="/talks/o63.pdf">63. A similarity renormalization group (SRG) approach to GW,</a><br>
 3rd Quantum International Frontiers 2023, Lodz, Poland (June 2023).<br><br>
