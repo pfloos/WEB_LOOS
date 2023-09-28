@@ -7,7 +7,7 @@ draft: false
 <!--
 
 * <a href="">138. State-specific coupled-cluster methods for excited states,<br></a>
-Y. Damour, F. Kossoski. A. Scemama, and P. F. Loos.<br>
+Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
 * <a href="">137. Revisiting the derivative discontinuities of Gross-Oliveira-Kohn density-functional theory: An extended <I>N</I>-centered ensemble approach to neutral excitations,<br></a>
@@ -30,13 +30,14 @@ A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 A. Marie, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">132. Reference vertical excitation energies for transition metal compounds,<br></a>
-D. Jacquemin, F. Kossoski, M. Boggio-Pasqua, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 -->
 
 ### 2023
+
+* <a href="">132. Reference vertical excitation energies for transition metal compounds,<br></a>
+D. Jacquemin, F. Kossoski, Franck Gam, M. Boggio-Pasqua, and P. F. Loos.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2309.04167.pdf">131. The three channels of many-body perturbation theory: <I>GW</I>, particle-particle, and electron-hole <I>T</I>-matrix self-energies,<br></a>
 R. Orlando, P. Romaniello, and P. F. Loos.<br>
