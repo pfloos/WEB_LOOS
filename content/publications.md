@@ -35,15 +35,15 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 ### 2023
 
-* <a href="">132. Reference vertical excitation energies for transition metal compounds,<br></a>
+* <a href="">131. Reference vertical excitation energies for transition metal compounds,<br></a>
 D. Jacquemin, F. Kossoski, Franck Gam, M. Boggio-Pasqua, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2309.04167.pdf">131. The three channels of many-body perturbation theory: <I>GW</I>, particle-particle, and electron-hole <I>T</I>-matrix self-energies,<br></a>
+* <a href="https://arxiv.org/pdf/2309.04167.pdf">130. The three channels of many-body perturbation theory: <I>GW</I>, particle-particle, and electron-hole <I>T</I>-matrix self-energies,<br></a>
 R. Orlando, P. Romaniello, and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2308.14890.pdf">130. QCMATH: Mathematica modules for electronic structure calculations,<br></a>
+* <a href="https://arxiv.org/pdf/2308.14890.pdf">XXX. QCMATH: Mathematica modules for electronic structure calculations,<br></a>
 E. Monino, A. Marie, and P. F. Loos.<br>
 <I>arXiv</I><B></B>, 2308.14890 [physics.chem-p] (2023). <br><br>
 
