@@ -36,7 +36,7 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 ### 2023
 
 * <a href="">131. Reference vertical excitation energies for transition metal compounds,<br></a>
-D. Jacquemin, F. Kossoski, Franck Gam, M. Boggio-Pasqua, and P. F. Loos.<br>
+D. Jacquemin, F. Kossoski, F. Gam, M. Boggio-Pasqua, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2309.04167.pdf">130. The three channels of many-body perturbation theory: <I>GW</I>, particle-particle, and electron-hole <I>T</I>-matrix self-energies,<br></a>
