@@ -6,7 +6,6 @@ draft: false
 
 # Group Members
 
-
 <style type="text/css">
 img.photo {
   height: 250px;
@@ -59,7 +58,7 @@ Research fellow (University of Oxford, Oxford, UK)
 Professor (University of Nantes, Nantes, France)
 
 * [Xavier Blase](http://perso.neel.cnrs.fr/xavier.blase)  
-CNRS senior researcher (NEEL institute, Grenoble, France)
+CNRS senior researcher (NEEL Institute, Grenoble, France)
 
 * [Martial Boggio-Pasqua](https://www.lcpq.ups-tlse.fr/spip.php?rubrique313&lang=fr)  
 CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
