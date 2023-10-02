@@ -16,6 +16,8 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 
 # NEWS
 
+* **Oct 2022:** THE GDR NBODY is organizing a two-day workshop on model systems in quantum mechanics ([MSQM](https://lcpq.github.io/MSQM/)) on Jan 11-12th 2024 in Toulouse.
+* **Oct 2023:** Sara Giarrusso has left the group. Good luck for the future Sara!
 * **Jul 2023:** Sara Giarrusso has been awarded a [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2023) and will leave us at the end of September. Congratulations Sara!
 * **Jun 2023:** Enzo Monino has submitted his PhD dissertation entitled *"Green's function methods for charged and neutral excitations"*. Congratulations Enzo!
 * **May 2023:** Raul Quintero-Monsebaiz has left the group. Good luck for the future Raul!
