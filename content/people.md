@@ -31,10 +31,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Fabris Kossoski](https://kossoski.github.io) (Postdoc, ERC)
 <img class="photo" src="/img/FKossoski.png" alt="Fabris" />
 
-* [Sara Giarrusso](https://scholar.google.com/citations?user=Sf-pfv4AAAAJ&hl=en) (Postdoc, ERC)
-<img class="photo" src="/img/SGiarrusso.jpg" alt="Sara" />
-
-* [Enzo Monino]() (PhD student, ERC)
+* [Enzo Monino](https://enzomonino.github.io) (PhD student, ERC)
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
 
 * [Roberto Orlando]() (PhD student, 80|PRIME)
@@ -80,6 +77,7 @@ Professor (Vrije Universiteit, Amsterdam, Netherland)
 
 # Past Members
 
+* Sara Giarrusso (2023)
 * Raul Quintero-Monsebaiz (2022-2023)
 * Maia Courtiel (2021)
 * Juliette Authier, Pierre Racine, and Stefano di Sabatino (2020)
