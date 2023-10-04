@@ -35,7 +35,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 
 * [Roberto Orlando]() (PhD student, 80|PRIME)
 
-* [Yann Damour](https://www.researchgate.net/profile/Yann-Damour) (PhD student, ERC)
+* [Yann Damour](https://ydrnan.github.io/damour.github.io/) (PhD student, ERC)
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
 * [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
