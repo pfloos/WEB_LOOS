@@ -63,18 +63,18 @@ R. Quintero-Monsebaiz and P. F. Loos.<br>
 E. Monino and P. F. Loos.<br>
 <I>J. Chem. Phys.</I><B> 159</B>, 034105 (2023). <br><br>
 
-* <a href="https://arxiv.org/pdf/2303.15084.pdf">125. Exact excited-state functionals of the asymmetric Hubbard dimer,<br></a>
+* <a href="/pub/125.pdf">125. Exact excited-state functionals of the asymmetric Hubbard dimer,<br></a>
 S. Giarrusso and P. F. Loos.<br>
-<I>J. Phys. Chem. Lett.</I><B></B> (in press). <br><br>
+<I>J. Phys. Chem. Lett. (Open Access)</I><B> 14</B>, 8780 (2023). <br><br>
 
 * <a href="/pub/124.pdf">124. A similarity renormalization group approach to Green's function methods,<br></a>
 A. Marie and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. (Open Access)</I><B> 19</B>, 3943 (2023). <br><br>
 
-* <a href="https://arxiv.org/pdf/2302.06679.pdf">123. Exploring new exchange-correlation kernels in the Bethe-Salpeter equation: a study of the
+* <a href="/pub/123.pdf">123. Exploring new exchange-correlation kernels in the Bethe-Salpeter equation: a study of the
 asymmetric Hubbard dimer,<br></a>
 R. Orlando, P. Romaniello, and P. F. Loos.<br>
-<I>Adv. Quantum Chem.</I><B></B> (in press). <br><br>
+<I>Adv. Quantum Chem.</I><B> 88</B>, 183 (2023). <br><br>
 
 * <a href="/pub/122.pdf"> 122. Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality,<br></a>
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
