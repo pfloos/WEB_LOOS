@@ -7,7 +7,7 @@ draft: false
 # Welcome to the group webpage
 
 The aim of our research group is to tackle fundamental problems in Chemistry and Physics using Mathematical techniques with a specific emphasis on excited states in molecular systems.
-The group's interest lies at the interface between Physics and Chemistry, and mainly focus on developing highly-accurate electronic structure methods as well as simple approximations that are accurate enough to have chemical and physical usefulness. 
+The group's interest lies at the interface between Physics and Chemistry, and mainly focuses on developing highly-accurate electronic structure methods as well as simple approximations that are accurate enough to have chemical and physical usefulness. 
 I am actively collaborating with my colleagues and nonetheless friends [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io).
 
 **If you would like to discuss joining the group or working on a project, please email [me](mailto:loos@irsamc.ups-tlse.fr).**
@@ -16,7 +16,8 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 
 # NEWS
 
-* **Oct 2023:** Enzo Monino has succesfully defended his PhD dissertation entitled *"Green's function methods for charged and neutral excitations"*. Congratulations Dr Monino and good luck for the future!
+* **Oct 2023:** Roberto Orlando has submitted his PhD dissertation entitled *"Exploring new exchange-correlation kernels in the Bethe-Salpeter equation"*. Congratulations Roberto!
+* **Oct 2023:** Enzo Monino has successfully defended his PhD dissertation entitled *"Green's function methods for charged and neutral excitations"*. Congratulations Dr Monino and good luck for the future!
 * **Oct 2023:** The [GDR NBODY](https://lcpq.github.io/gdr_nbody_2021) is organizing a two-day workshop on model systems in quantum mechanics ([MSQM](https://lcpq.github.io/MSQM/)) on Jan 11-12th 2024 in Toulouse.
 * **Sep 2023:** Sara Giarrusso has left the group. Good luck for the future Sara!
 * **Jul 2023:** Sara Giarrusso has been awarded a [MSCA postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2023) and will leave us at the end of September. Congratulations Sara!
@@ -33,7 +34,7 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 * **Dec 2020:** The website of the [PTEROSOR](https://lcpq.github.io/PTEROSOR) project is up and running!
 * **Dec 2020:** The [QUEST](https://lcpq.github.io/QUESTDB_website) website is officially online and the corresponding publication submitted!
 * **Sep 2020:** Fabris Kossoski is going to join the group as a postdoctoral fellow from Oct. Welcome Fabris!
-* **Jun 2020:** The ERC PTEROSOR project has officialy started!
+* **Jun 2020:** The ERC PTEROSOR project has officially started!
 * **Apr 2020:** Two new PhD students (Enzo Monino and Roberto Orlando) will join the group in September to start their PhD.
 * **Feb 2020:** Great news again! Pina Romaniello and I secured a 80|Prime fellowship from the MITI to work on ensemble/multireference GW methods.
 * **Dec 2019:** `Good news alert`: the [PTEROSOR](https://erc.europa.eu/news/another-17-researchers-awarded-erc-consolidator-grants) project has been funded by the ERC and will be running for the next 5 years.
