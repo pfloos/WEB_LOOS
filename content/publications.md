@@ -41,7 +41,7 @@ D. Jacquemin, F. Kossoski, F. Gam, M. Boggio-Pasqua, and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2309.04167.pdf">130. The three channels of many-body perturbation theory: <I>GW</I>, particle-particle, and electron-hole <I>T</I>-matrix self-energies,<br></a>
 R. Orlando, P. Romaniello, and P. F. Loos.<br>
-<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2308.14890.pdf">XXX. QCMATH: Mathematica modules for electronic structure calculations,<br></a>
 E. Monino, A. Marie, and P. F. Loos.<br>
