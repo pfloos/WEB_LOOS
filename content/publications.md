@@ -31,7 +31,7 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 ### 2023
 
-* <a href="">132. Heptazine, cyclazine, and related compounds: chemically-accurate estimates of the inverted singlet-triplet gap
+* <a href="https://arxiv.org/pdf/2310.19768.pdf">132. Heptazine, cyclazine, and related compounds: chemically-accurate estimates of the inverted singlet-triplet gap
 ,<br></a>
 P. F. Loos, F. Lipparini, and D. Jacquemin.<br>
 <I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
