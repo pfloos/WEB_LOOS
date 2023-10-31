@@ -7,21 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</managingEditor>
-    <webMaster>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</webMaster><atom:link href="https://pfloos.github.io/WEB_LOOS/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</webMaster>
+    <atom:link href="https://pfloos.github.io/WEB_LOOS/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Funding</title>
       <link>https://pfloos.github.io/WEB_LOOS/funding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/funding/</guid>
       <description> ERC CNRS LCPQ FERMI NEXT NanoX UPS </description>
     </item>
-    
     <item>
       <title>People</title>
       <link>https://pfloos.github.io/WEB_LOOS/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/people/</guid>
       <description>Group Members Pierre-Francois Loos (group leader, CV) Follow @TitouLoos
 Directeur de recherche (HDR)
@@ -35,12 +33,10 @@ Fabris Kossoski (Postdoc, ERC) Roberto Orlando (PhD student, 80|PRIME)
 Yann Damour (PhD student, ERC) Antoine Marie (PhD student, ERC) Collaborators Anthony Scemama
 CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://pfloos.github.io/WEB_LOOS/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/publications/</guid>
       <description>2023 132. Heptazine, cyclazine, and related compounds: chemically-accurate estimates of the inverted singlet-triplet gap ,
 P. F. Loos, F. Lipparini, and D. Jacquemin.
@@ -48,22 +44,18 @@ J. Phys. Chem. Lett. (submitted). 131. Reference vertical excitation energies fo
 D. Jacquemin, F. Kossoski, F. Gam, M. Boggio-Pasqua, and P. F. Loos.
 J. Chem. Theory Comput. (in press). 130. The three channels of many-body perturbation theory: GW, particle-particle, and electron-hole T-matrix self-energies,</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://pfloos.github.io/WEB_LOOS/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/research/</guid>
       <description>Research interest I am currently a full-time CNRS senior researcher at the Universite Paul Sabatier (Toulouse, France). I am part of the Laboratoire de Chimie et Physique Quantiques (UMR5626) within the THEO group.
 ERC Consolidator grant (No. 863481): Processes related to electronically excited states are central in chemistry, physics, and biology, playing a key role in ubiquitous processes such as photochemistry, catalysis, and solar cell technology. However, defining an effective method that reliably provides accurate excited-state energies remains a major challenge in theoretical chemistry.</description>
     </item>
-    
     <item>
       <title>Talks</title>
       <link>https://pfloos.github.io/WEB_LOOS/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (Pierre-Francois Loos)</author>
       <guid>https://pfloos.github.io/WEB_LOOS/talks/</guid>
       <description>Oral communications 64. CIPSI: selected configuration interaction methods for ground and excited states,
 IQTC meeting 2023, Barcelona, Spain (September 2023).
@@ -73,6 +65,5 @@ IQTC meeting 2023, Barcelona, Spain (September 2023).
 TREX workshop on electronic structure methods for strong correlation, Lodz, Poland (April 2023).
 61. A similarity renormalization group (SRG) approach to GW,</description>
     </item>
-    
   </channel>
 </rss>
