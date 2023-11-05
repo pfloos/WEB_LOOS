@@ -18,11 +18,11 @@ F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
 P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">134. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
+* <a href="">135. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">133. Reference energies for valence ionizations and satellite transitions,<br></a>
+* <a href="">134. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
@@ -30,6 +30,10 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 -->
 
 ### 2023
+
+* <a href="">133. The GW approximation: a quantum chemistry perspective,<br></a>
+A. Marie, A. Ammar, and P. F. Loos.<br>
+<I>Adv. Quantum Chem. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2310.19768.pdf">132. Heptazine, cyclazine, and related compounds: chemically-accurate estimates of the inverted singlet-triplet gap
 ,<br></a>
