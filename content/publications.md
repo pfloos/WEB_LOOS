@@ -31,7 +31,7 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 ### 2023
 
-* <a href="">133. The GW approximation: a quantum chemistry perspective,<br></a>
+* <a href="https://arxiv.org/pdf/2311.05351.pdf">133. The GW approximation: a quantum chemistry perspective,<br></a>
 A. Marie, A. Ammar, and P. F. Loos.<br>
 <I>Adv. Quantum Chem. </I><B></B> (submitted). <br><br>
 
