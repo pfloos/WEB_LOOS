@@ -16,7 +16,7 @@ I am actively collaborating with my colleagues and nonetheless friends [Michel C
 
 # NEWS
 
-* **Oct 2023:** Roberto Orlando has submitted his PhD dissertation entitled *"Exploring new exchange-correlation kernels in the Bethe-Salpeter equation"*. Congratulations Roberto!
+* **Dec 2023:** Roberto Orlando has successfully defended his PhD dissertation entitled *"Exploring new exchange-correlation kernels in the Bethe-Salpeter equation"*. Congratulations Dr Oralndo!
 * **Oct 2023:** Enzo Monino has successfully defended his PhD dissertation entitled *"Green's function methods for charged and neutral excitations"*. Congratulations Dr Monino and good luck for the future!
 * **Oct 2023:** The [GDR NBODY](https://lcpq.github.io/gdr_nbody_2021) is organizing a two-day workshop on model systems in quantum mechanics ([MSQM](https://lcpq.github.io/MSQM/)) on Jan 11-12th 2024 in Toulouse.
 * **Sep 2023:** Sara Giarrusso has left the group. Good luck for the future Sara!
