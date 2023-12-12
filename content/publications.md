@@ -39,9 +39,9 @@ A. Marie, A. Ammar, and P. F. Loos.<br>
 P. F. Loos, F. Lipparini, and D. Jacquemin.<br>
 <I>J. Phys. Chem. Lett. </I><B></B> (in press). <br><br>
 
-* <a href="https://arxiv.org/pdf/2309.17311.pdf">131. Reference vertical excitation energies for transition metal compounds,<br></a>
+* <a href="/pub/131.pdf">131. Reference vertical excitation energies for transition metal compounds,<br></a>
 D. Jacquemin, F. Kossoski, F. Gam, M. Boggio-Pasqua, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput. </I><B> 19</B>, 8782 (2023). <br><br>
 
 * <a href="/pub/130.pdf">130. The three channels of many-body perturbation theory: GW, particle-particle, and electron-hole T-matrix self-energies,<br></a>
 R. Orlando, P. Romaniello, and P. F. Loos.<br>
@@ -51,9 +51,9 @@ R. Orlando, P. Romaniello, and P. F. Loos.<br>
 E. Monino, A. Marie, and P. F. Loos.<br>
 <I>arXiv</I><B></B>, 2308.14890 [physics.chem-p] (2023). <br><br>
 
-* <a href="https://arxiv.org/pdf/2308.14618.pdf">129. Seniority and hierarchy configuration interaction for radicals and excited states,<br></a>
+* <a href="/pub/129.pdf">129. Seniority and hierarchy configuration interaction for radicals and excited states,<br></a>
 F. Kossoski and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput.</I><B> 19</B>, 8654 (2023). <br><br>
 
 * <a href="/pub/128.pdf">128. Introduction to the Peter M. W. Gill special issue,<br></a>
 M. Head-Gordon, A. T. B. Gilbert, P. F. Loos, and L. Radom.<br>
