@@ -29,11 +29,13 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 -->
 
-### 2023
+### 2024
 
 * <a href="https://arxiv.org/pdf/2311.05351.pdf">133. The GW approximation: a quantum chemistry perspective,<br></a>
 A. Marie, A. Ammar, and P. F. Loos.<br>
-<I>Adv. Quantum Chem. </I><B></B> (submitted). <br><br>
+<I>Adv. Quantum Chem. </I><B></B> (submitted). <br><be>
+
+### 2023
 
 * <a href="https://arxiv.org/pdf/2310.19768.pdf">132. Heptazine, cyclazine, and related compounds: chemically-accurate estimates of the inverted singlet-triplet gap,<br></a>
 P. F. Loos, F. Lipparini, and D. Jacquemin.<br>
