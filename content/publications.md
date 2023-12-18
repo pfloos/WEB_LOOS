@@ -37,9 +37,9 @@ A. Marie, A. Ammar, and P. F. Loos.<br>
 
 ### 2023
 
-* <a href="https://arxiv.org/pdf/2310.19768.pdf">132. Heptazine, cyclazine, and related compounds: chemically-accurate estimates of the inverted singlet-triplet gap,<br></a>
+* <a href="/pub/132.pdf">132. Heptazine, cyclazine, and related compounds: chemically-accurate estimates of the inverted singlet-triplet gap,<br></a>
 P. F. Loos, F. Lipparini, and D. Jacquemin.<br>
-<I>J. Phys. Chem. Lett. </I><B></B> (in press). <br><br>
+<I>J. Phys. Chem. Lett. </I><B> 14</B>, 11069 (2023). <br><br>
 
 * <a href="/pub/131.pdf">131. Reference vertical excitation energies for transition metal compounds,<br></a>
 D. Jacquemin, F. Kossoski, F. Gam, M. Boggio-Pasqua, and P. F. Loos.<br>
