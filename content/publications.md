@@ -6,10 +6,6 @@ draft: false
 
 <!--
 
-* <a href="">138. State-specific coupled-cluster methods for excited states,<br></a>
-Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
-
 * <a href="">137. Revisiting the derivative discontinuities of Gross-Oliveira-Kohn density-functional theory: An extended <I>N</I>-centered ensemble approach to neutral excitations,<br></a>
 F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
 <I>Phys. Rev. A</I><B></B> (submitted). <br><br>
@@ -26,7 +22,17 @@ A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 A. Marie, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
+* <a href="">135. State-specific coupled-cluster methods for excited states,<br></a>
+Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
+* <a href="">134. Can GW handle multireference systems?,<br></a>
+A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
+* <a href="">134. Extrapolation procedure for selected configuration interaction from first principles,<br></a>
+H. G. A. Burton and P. F. Loos.<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 -->
 
 ### 2024
