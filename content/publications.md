@@ -36,11 +36,11 @@ A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2312.12530.pdf">134. Rationale for the extrapolation procedure in selected configuration interaction,<br></a>
 H. G. A. Burton and P. F. Loos.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><be>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2311.05351.pdf">133. The GW approximation: a quantum chemistry perspective,<br></a>
 A. Marie, A. Ammar, and P. F. Loos.<br>
-<I>Adv. Quantum Chem. </I><B></B> (submitted). <br><be>
+<I>Adv. Quantum Chem. </I><B></B> (submitted). <br><br>
 
 ### 2023
 
