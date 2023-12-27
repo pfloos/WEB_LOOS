@@ -30,8 +30,6 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Fabris Kossoski](https://kossoski.github.io) (Postdoc, ERC)
 <img class="photo" src="/img/FKossoski.png" alt="Fabris" />
 
-* [Roberto Orlando]() (PhD student, 80|PRIME)
-
 * [Yann Damour](https://ydrnan.github.io/damour.github.io/) (PhD student, ERC)
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
@@ -49,7 +47,7 @@ CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, 
 CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 * [Hugh Burton](https://www.hughburton.com)  
-Research fellow (University of Oxford, Oxford, UK)
+Research fellow (University of Cambridge, Cambridge, UK)
 
 * [Denis Jacquemin](https://www.univ-nantes.fr/denis-jacquemin)  
 Professor (University of Nantes, Nantes, France)
@@ -61,7 +59,7 @@ CNRS senior researcher (NEEL Institute, Grenoble, France)
 CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 * [Pina Romaniello](http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en)  
-CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
+CNRS senior researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
 * [Arjan Berger](https://www.lcpq.ups-tlse.fr/berger)  
 Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
@@ -73,6 +71,7 @@ Professor (Vrije Universiteit, Amsterdam, Netherland)
 
 # Past Members
 
+* Roberto Orlando (2020-2023)
 * Enzo Monino (2020-2023)
 * Sara Giarrusso (2023)
 * Raul Quintero-Monsebaiz (2022-2023)
