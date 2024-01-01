@@ -18,15 +18,15 @@ P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">134. Reference energies for valence ionizations and satellite transitions,<br></a>
+* <a href="">137. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">135. State-specific coupled-cluster methods for excited states,<br></a>
+* <a href="">136. State-specific coupled-cluster methods for excited states,<br></a>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
-* <a href="">134. Can GW handle multireference systems?,<br></a>
+* <a href="">135. Can GW handle multireference systems?,<br></a>
 A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
