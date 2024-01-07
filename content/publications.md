@@ -6,9 +6,6 @@ draft: false
 
 <!--
 
-* <a href="">137. Revisiting the derivative discontinuities of Gross-Oliveira-Kohn density-functional theory: An extended <I>N</I>-centered ensemble approach to neutral excitations,<br></a>
-F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
-<I>Phys. Rev. A</I><B></B> (submitted). <br><br>
 
 * <a href="">136. Reference energies for double excitations: improvements & extension,<br></a>
 P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
@@ -22,9 +19,13 @@ A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 A. Marie, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">136. State-specific coupled-cluster methods for excited states,<br></a>
+* <a href="">137. State-specific coupled-cluster methods for excited states,<br></a>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><be>
+
+* <a href="">136. Neutral electronic excitations and derivative discontinuities: An extended N-centered ensemble density functional theory perspective,<br></a>
+F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
+<I>Phys. Rev. B</I><B></B> (submitted). <br><br>
 
 * <a href="">135. Can GW handle multireference systems?,<br></a>
 A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
