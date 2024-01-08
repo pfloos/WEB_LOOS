@@ -27,13 +27,15 @@ Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
 F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
 <I>Phys. Rev. B</I><B></B> (submitted). <br><br>
 
-* <a href="">135. Can GW handle multireference systems?,<br></a>
-A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
 
 -->
 
 ### 2024
+
+* <a href="">135. Can GW handle multireference systems?,<br></a>
+A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><be>
 
 * <a href="https://arxiv.org/pdf/2312.12530.pdf">134. Rationale for the extrapolation procedure in selected configuration interaction,<br></a>
 H. G. A. Burton and P. F. Loos.<br>
