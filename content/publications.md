@@ -33,7 +33,7 @@ F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
 
 ### 2024
 
-* <a href="">135. Can GW handle multireference systems?,<br></a>
+* <a href="https://arxiv.org/pdf/2401.03745.pdf">135. Can GW handle multireference systems?,<br></a>
 A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
