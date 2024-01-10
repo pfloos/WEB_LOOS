@@ -30,7 +30,7 @@ Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
 
 ### 2024
 
-* <a href="">136. Neutral electronic excitations and derivative discontinuities: An extended N-centered ensemble density functional theory perspective,<br></a>
+* <a href="https://arxiv.org/pdf/2401.04685.pdf">136. Neutral electronic excitations and derivative discontinuities: An extended N-centered ensemble density functional theory perspective,<br></a>
 F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
 <I>Phys. Rev. B</I><B></B> (submitted). <br><be>
 
