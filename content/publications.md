@@ -6,33 +6,29 @@ draft: false
 
 <!--
 
+* <a href="">135. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
+A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="">136. Reference energies for double excitations: improvements & extension,<br></a>
 P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">135. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
-A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
-
 * <a href="">137. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie, D. Jacquemin, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
-* <a href="">137. State-specific coupled-cluster methods for excited states,<br></a>
-Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
-
-
-
 
 -->
 
 ### 2024
 
+* <a href="">137. State-specific coupled-cluster methods for excited states,<br></a>
+Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
+
 * <a href="https://arxiv.org/pdf/2401.04685.pdf">136. Neutral electronic excitations and derivative discontinuities: An extended N-centered ensemble density functional theory perspective,<br></a>
 F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
-<I>Phys. Rev. B</I><B></B> (submitted). <br><be>
+<I>Phys. Rev. B</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2401.03745.pdf">135. Can GW handle multireference systems?,<br></a>
 A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
