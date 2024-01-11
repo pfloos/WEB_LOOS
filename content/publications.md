@@ -22,7 +22,7 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 ### 2024
 
-* <a href="">137. State-specific coupled-cluster methods for excited states,<br></a>
+* <a href="https://arxiv.org/pdf/2401.05048.pdf">137. State-specific coupled-cluster methods for excited states,<br></a>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
