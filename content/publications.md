@@ -8,32 +8,32 @@ draft: false
 
 * <a href="">143. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><be>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="">142. A Mountaineering strategy to excited states: EOM-CC3 transition energies for organic chromophores,<br></a>
 P. F. Loos and D. Jacquemin<br>
-<I>J. Comput. Chem. </I><B></B> (submitted). <br><be>
+<I>J. Comput. Chem. </I><B></B> (submitted). <br><br>
 
 * <a href="">141. Reference energies for double excitations: improvements & extension,<br></a>
 P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><be>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="">140. Cumulant Greens’s function method for molecules,<br></a>
 A. Marie, A. Ammar, and P. F. Loos.<br>
-<I>Faraday Discuss. </I><B></B> (submitted). <br><be>
+<I>Faraday Discuss. </I><B></B> (submitted). <br><br>
 
 * <a href="">139. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie, D. Jacquemin, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><be>
-
-* <a href="">138. A Mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
-P. F. Loos and D. Jacquemin<br>
-<I>J. Comput. Chem. </I><B></B> (submitted). <br><be>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 -->
 
 
 ### 2024
+
+* <a href="">138. A Mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
+P. F. Loos and D. Jacquemin<br>
+<I>J. Comput. Chem. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2401.05048.pdf">137. State-specific coupled-cluster methods for excited states,<br></a>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
