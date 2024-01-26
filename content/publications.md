@@ -31,7 +31,7 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 ### 2024
 
-* <a href="">138. A Mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
+* <a href="https://arxiv.org/pdf/2401.13809.pdf">138. A Mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
 P. F. Loos and D. Jacquemin<br>
 <I>J. Comput. Chem. </I><B></B> (submitted). <br><br>
 
