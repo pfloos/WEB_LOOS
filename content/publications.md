@@ -33,7 +33,7 @@ A. Marie, D. Jacquemin, and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2401.13809.pdf">138. A Mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
 P. F. Loos and D. Jacquemin<br>
-<I>J. Comput. Chem. </I><B></B> (submitted). <br><br>
+<I>J. Comput. Chem. </I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2401.05048.pdf">137. State-specific coupled-cluster methods for excited states,<br></a>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
