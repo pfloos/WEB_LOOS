@@ -20,7 +20,6 @@ P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
 
 -->
 
-
 ### 2024
 
 * <a href="">141. Go green: selected configuration interaction as a more sustainable alternative for high accuracy,<br></a>
