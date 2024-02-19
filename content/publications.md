@@ -26,7 +26,7 @@ P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
 P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, and A. Scemama.<br>
 <I>J. Phys. Chem. A </I><B></B> (submitted). <br><br>
 
-* <a href="">140. Cumulant Greens’s function methods for molecules,<br></a>
+* <a href="">140. Cumulant Greens's function methods for molecules,<br></a>
 A. Marie, A. Ammar, and P. F. Loos.<br>
 <I>Faraday Discuss. </I><B></B> (submitted). <br><br>
 
