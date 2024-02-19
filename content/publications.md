@@ -25,7 +25,7 @@ P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
 
 * <a href="">141. Go green: selected configuration interaction as a more sustainable alternative for high accuracy,<br></a>
 P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, and A. Scemama.<br>
-<I>J. Phys. Chem. A </I><B></B> (submitted). <br><be>
+<I>J. Phys. Chem. A </I><B></B> (submitted). <br><br>
 
 * <a href="">140. Cumulant Greens’s function methods for molecules,<br></a>
 A. Marie, A. Ammar, and P. F. Loos.<br>
@@ -33,7 +33,7 @@ A. Marie, A. Ammar, and P. F. Loos.<br>
 
 * <a href="">139. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie and P. F. Loos.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><be>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2401.13809.pdf">138. A mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
 P. F. Loos and D. Jacquemin<br>
