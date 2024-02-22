@@ -26,7 +26,7 @@ P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
 P. F. Loos, A. Marie, and A. Ammar.<br>
 <I>Faraday Discuss. </I><B></B> (submitted). <br><br>
 
-* <a href="">140. Reference energies for valence ionizations and satellite transitions,<br></a>
+* <a href="https://arxiv.org/pdf/2402.13877.pdf">140. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie and P. F. Loos.<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
