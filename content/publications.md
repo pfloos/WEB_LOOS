@@ -22,7 +22,7 @@ P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
 
 ### 2024
 
-* <a href="">141. Cumulant Green's function methods for molecules,<br></a>
+* <a href="https://arxiv.org/pdf/2402.16414.pdf">141. Cumulant Green's function methods for molecules,<br></a>
 P. F. Loos, A. Marie, and A. Ammar.<br>
 <I>Faraday Discuss. </I><B></B> (submitted). <br><br>
 
