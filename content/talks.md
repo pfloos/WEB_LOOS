@@ -6,6 +6,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o65.pdf">65. New Electronic Structure Methodologies for Electronic Excited States,</a><br>
+Prospective Meeting on Excited States, Rennes, France (March 2024).<br><br>
+
 * <a href="/talks/o64.pdf">64. CIPSI: selected configuration interaction methods for ground and excited states,</a><br>
 IQTC meeting 2023, Barcelona, Spain (September 2023).<br><br>
 
