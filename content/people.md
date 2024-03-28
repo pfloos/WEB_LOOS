@@ -30,6 +30,9 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Fabris Kossoski](https://kossoski.github.io) (Postdoc, ERC)
 <img class="photo" src="/img/FKossoski.png" alt="Fabris" />
 
+* [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en) (Postdoc, ERC)
+<img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
+
 * [Yann Damour](https://ydrnan.github.io/damour.github.io/) (PhD student, ERC)
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
