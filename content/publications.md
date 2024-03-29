@@ -14,13 +14,13 @@ A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 P. F. Loos and D. Jacquemin<br>
 <I>J. Comput. Chem. </I><B></B> (submitted). <br><br>
 
-* <a href="">141. Reference energies for double excitations: improvements & extension,<br></a>
-P. F. Loos, F. Kossoski, M. Boggio-Pasqua, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
 -->
 
 ### 2024
+
+* <a href="https://arxiv.org/pdf/2403.19597.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
+F. Kossoski, M. Boggio-Pasqua, P. F. Loos, and D. Jacquemin.<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2402.16414.pdf">141. Cumulant Green's function methods for molecules,<br></a>
 P. F. Loos, A. Marie, and A. Ammar.<br>
