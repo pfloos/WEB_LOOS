@@ -6,13 +6,30 @@ draft: false
 
 <!--
 
-* <a href="">143. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
+* <a href="">148. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">142. A Mountaineering strategy to excited states: EOM-CC3 transition energies for organic chromophores,<br></a>
+* <a href="">147. A mountaineering strategy to excited states: EOM-CC3 transition energies for organic chromophores,<br></a>
 P. F. Loos and D. Jacquemin<br>
 <I>J. Comput. Chem. </I><B></B> (submitted). <br><br>
+
+* <a href="">146. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
+A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
+* <a href="">145. Compactification of determinant expansions via transcorrelation,<br></a>
+A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br><br>
+<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
+
+* <a href="">144. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
+A. Marie and P. F. Loos.<br>
+<I>Phys. Rev. B</I><B></B> (submitted). <br><br>
+
+* <a href="">143. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures
+,<br></a>
+T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Scemama, S. F. Ung, J. Zhang, F. D. Malone, and J. Lee.<br>
+<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
 -->
 
@@ -20,19 +37,19 @@ P. F. Loos and D. Jacquemin<br>
 
 * <a href="https://arxiv.org/pdf/2403.19597.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
 F. Kossoski, M. Boggio-Pasqua, P. F. Loos, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2402.16414.pdf">141. Cumulant Green's function methods for molecules,<br></a>
 P. F. Loos, A. Marie, and A. Ammar.<br>
-<I>Faraday Discuss. </I><B></B> (in press). <br><br>
+<I>Faraday Discuss.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2402.13877.pdf">140. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie and P. F. Loos.<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2402.13111.pdf">139. Go green: selected configuration interaction as a more sustainable alternative for high accuracy,<br></a>
 P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, and A. Scemama.<br>
-<I>J. Phys. Chem. A </I><B></B> (submitted). <br><br>
+<I>J. Phys. Chem. A</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2401.13809.pdf">138. A mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
 P. F. Loos and D. Jacquemin<br>
