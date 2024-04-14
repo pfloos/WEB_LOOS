@@ -8,7 +8,6 @@ draft: false
 
 The aim of our research group is to tackle fundamental problems in Chemistry and Physics using Mathematical techniques with a specific emphasis on excited states in molecular systems.
 The group's interest lies at the interface between Physics and Chemistry, and mainly focuses on developing highly-accurate electronic structure methods as well as simple approximations that are accurate enough to have chemical and physical usefulness. 
-I am actively collaborating with my colleagues and nonetheless friends [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel) and [Anthony Scemama](http://scemama.github.io).
 
 **If you would like to discuss joining the group or working on a project, please email [me](mailto:loos@irsamc.ups-tlse.fr).**
 
