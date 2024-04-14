@@ -39,6 +39,7 @@ The group's interest lies at the interface between Physics and Chemistry, and ma
 * **Apr 2020:** Two new PhD students (Enzo Monino and Roberto Orlando) will join the group in September to start their PhD.
 * **Feb 2020:** Great news again! Pina Romaniello and I secured a 80|Prime fellowship from the MITI to work on ensemble/multireference GW methods.
 * **Dec 2019:** `Good news alert`: the [PTEROSOR](https://erc.europa.eu/news/another-17-researchers-awarded-erc-consolidator-grants) project has been funded by the ERC and will be running for the next 5 years.
+<!--
 * **Aug 2019:** Our paper on PT symmetry in Hartree-Fock theory has made it to the [cover of JCTC](https://pubs.acs.org/toc/jctcce/15/8)!!
 * **Jun 2019:** Come and join us in June 2020 at the 3rd edition of [ISTPC](https://quantique.u-strasbg.fr/ISTPC/doku.php).
 * **Jun 2019:** Stefano di Sabatino will join the group in September for a one-year postdoc position to work with Pina Romaniello and myself on a new multireference GW method.
@@ -52,6 +53,7 @@ The group's interest lies at the interface between Physics and Chemistry, and ma
 * **Jan 2018:** Mika has joined the group for a Master project.
 * **Feb 2017:** Sebastian Sitkiewicz (Master student) from Valencia has joined the group for a 3-month stay. He will work on the non-linear optic properties of model systems.
 * **Dec 2016:** I am moving back to France (University Paul Sabatier in Toulouse) on a CNRS research position.
+-->
 
 ***
 
