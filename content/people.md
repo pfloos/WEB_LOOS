@@ -39,6 +39,10 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
+* Noam Mandin (M1 Student)
+
+* Loris Burth (M1 Student)
+
 ***
 
 # Collaborators
@@ -64,11 +68,8 @@ CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, 
 * [Pina Romaniello](http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en)  
 CNRS senior researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
-* [Arjan Berger](https://www.lcpq.ups-tlse.fr/berger)  
-Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
-
-* [Paola Gori-Girogi](https://www.paolagorigiorgi.org)  
-Professor (Vrije Universiteit, Amsterdam, Netherland)
+* [Emmanuel Fromager](https://lcqs.unistra.fr/staff-members/emmanuel-fromager/)  
+Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
 
 ***
 
