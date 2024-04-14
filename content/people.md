@@ -39,9 +39,9 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
-* Noam Mandin (1st-year Master Student)
+* Noam Mandin (1st-year Master student)
 
-* Loris Burth (1st-year Master Student)
+* Loris Burth (1st-year Master student)
 
 ***
 
