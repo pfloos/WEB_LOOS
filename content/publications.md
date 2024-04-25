@@ -651,10 +651,7 @@ A. Fornili, P. F. Loos, X. Assfeld, and M. Sironi.<br>
 
 ### 2004
 
-* <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between 
-cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer 
-hybrid local self-consistent field/molecular mechanics/self-consistent 
-reaction field method</a>,<br>
+* <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P. F. Loos, and X. Assfeld.<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
 

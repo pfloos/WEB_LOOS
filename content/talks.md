@@ -137,7 +137,7 @@ WATOC 2017, Munich, Germany (August 2017).<br><br>
 University of Aix-Marseille, Marseille, France (June 2017).<br><br>
 
 * <a href="/talks/o22.pdf">22. Density-functional theory using finite uniform electron gases</a>,<br>
-Workshop on ``Theory and applications of RPA and beyond in physics and chemistry'', Pierre et Marie Curie University, Paris, France (May 2017).<br><br>
+Workshop on "Theory and applications of RPA and beyond in physics and chemistry", Pierre et Marie Curie University, Paris, France (May 2017).<br><br>
 
 * <a href="/talks/o21.pdf">21. Density-functional theory using finite uniform electron gases</a>,<br>
 University of Nantes, Nantes, France (March 2017).<br><br>
