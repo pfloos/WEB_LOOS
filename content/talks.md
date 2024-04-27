@@ -6,6 +6,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o66.pdf">66. New Electronic Structure Methodologies for Electronic Excited States,</a><br>
+Department of Chemistry, University of Fribourg, Fribourg, Switzerland (April 2024).<br><br>
+
 * <a href="/talks/o65.pdf">65. New Electronic Structure Methodologies for Electronic Excited States,</a><br>
 Prospective Meeting on Excited States, Rennes, France (March 2024).<br><br>
 
