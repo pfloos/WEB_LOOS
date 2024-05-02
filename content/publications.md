@@ -6,24 +6,23 @@ draft: false
 
 <!--
 
-* <a href="">148. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
-A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
-
-* <a href="">147. A mountaineering strategy to excited states: EOM-CC3 transition energies for organic chromophores,<br></a>
+* <a href="">148. A mountaineering strategy to excited states: EOM-CC3 transition energies for organic chromophores,<br></a>
 P. F. Loos and D. Jacquemin<br>
 <I>J. Comput. Chem. </I><B></B> (submitted). <br><br>
 
-* <a href="">146. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
+* <a href="">147. The particle-particle channel of the Bethe-Salpeter equation,<br></a>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
+* <a href="">146. Extending selected configuration interaction to electronic resonances,<br></a>
+Y. Damour, A. Scemama, F. Kossoski, and P. F. Loos.<br>
+<I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
 
-* <a href="">144. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
+* <a href="">145. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
 A. Marie and P. F. Loos.<br>
 <I>Phys. Rev. B</I><B></B> (submitted). <br><br>
 
-* <a href="">143. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures
+* <a href="">144. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures
 ,<br></a>
 T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Scemama, S. F. Ung, J. Zhang, F. D. Malone, and J. Lee.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
@@ -35,7 +34,7 @@ T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Sc
 
 * <a href="">143. Compactification of determinant expansions via transcorrelation,<br></a>
 A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br><br>
-<I>J. Chem. Phys.</I><B></B> (submitted). <br><be>
+<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2403.19597.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
 F. Kossoski, M. Boggio-Pasqua, P. F. Loos, and D. Jacquemin.<br>
