@@ -18,9 +18,6 @@ P. F. Loos and D. Jacquemin<br>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">145. Compactification of determinant expansions via transcorrelation,<br></a>
-A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br><br>
-<I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
 * <a href="">144. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
 A. Marie and P. F. Loos.<br>
@@ -34,6 +31,11 @@ T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Sc
 -->
 
 ### 2024
+
+
+* <a href="">143. Compactification of determinant expansions via transcorrelation,<br></a>
+A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br><br>
+<I>J. Chem. Phys.</I><B></B> (submitted). <br><be>
 
 * <a href="https://arxiv.org/pdf/2403.19597.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
 F. Kossoski, M. Boggio-Pasqua, P. F. Loos, and D. Jacquemin.<br>
