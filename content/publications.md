@@ -33,7 +33,7 @@ T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Sc
 
 
 * <a href="">143. Compactification of determinant expansions via transcorrelation,<br></a>
-A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br><br>
+A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2403.19597.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
