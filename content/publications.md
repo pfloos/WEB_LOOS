@@ -50,7 +50,7 @@ A. Marie and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2402.13111.pdf">139. Go green: selected configuration interaction as a more sustainable alternative for high accuracy,<br></a>
 P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, and A. Scemama.<br>
-<I>J. Phys. Chem. A</I><B></B> (submitted). <br><br>
+<I>arXiv</I><B></B> 2402.13111 (2024). <br><br>
 
 * <a href="https://arxiv.org/pdf/2401.13809.pdf">138. A mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
 P. F. Loos and D. Jacquemin<br>
