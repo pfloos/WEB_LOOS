@@ -32,7 +32,7 @@ T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Sc
 ### 2024
 
 
-* <a href="">143. Compactification of determinant expansions via transcorrelation,<br></a>
+* <a href="https://arxiv.org/pdf/2405.02640">143. Compactification of determinant expansions via transcorrelation,<br></a>
 A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
