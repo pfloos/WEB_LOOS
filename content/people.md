@@ -33,7 +33,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en) (Postdoc, ERC)
 <img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
 
-* [Yann Damour](https://ydrnan.github.io/damour.github.io/) (PhD student, ERC)
+* [Yann Damour](https://ydrnan.github.io/damour/) (PhD student, ERC)
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
 * [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
