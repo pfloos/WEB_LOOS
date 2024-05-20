@@ -38,7 +38,7 @@ A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br>
 
 * <a href="https://arxiv.org/pdf/2403.19597.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
 F. Kossoski, M. Boggio-Pasqua, P. F. Loos, and D. Jacquemin.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (submitted). <br><br>
+<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2402.16414.pdf">141. Cumulant Green's function methods for molecules,<br></a>
 P. F. Loos, A. Marie, and A. Ammar.<br>
@@ -62,7 +62,7 @@ Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2401.04685.pdf">136. Neutral electronic excitations and derivative discontinuities: An extended N-centered ensemble density functional theory perspective,<br></a>
 F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
-<I>Phys. Rev. B</I><B></B> (submitted). <br><br>
+<I>Phys. Rev. B</I><B></B> (in press). <br><br>
 
 * <a href="/pub/135.pdf">135. Can GW handle multireference systems?,<br></a>
 A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
