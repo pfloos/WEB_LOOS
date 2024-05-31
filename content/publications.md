@@ -56,9 +56,9 @@ P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, and A. Scemama.<br>
 P. F. Loos and D. Jacquemin<br>
 <I>J. Comput. Chem. </I><B></B> (in press). <br><br>
 
-* <a href="https://arxiv.org/pdf/2401.05048.pdf">137. State-specific coupled-cluster methods for excited states,<br></a>
+* <a href="/pub/137.pdf">137. State-specific coupled-cluster methods for excited states,<br></a>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput.</I><B> 20</B>, 4129 (2024). <br><br>
 
 * <a href="https://arxiv.org/pdf/2401.04685.pdf">136. Neutral electronic excitations and derivative discontinuities: An extended N-centered ensemble density functional theory perspective,<br></a>
 F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
