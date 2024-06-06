@@ -60,9 +60,9 @@ P. F. Loos and D. Jacquemin<br>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
 <I>J. Chem. Theory Comput.</I><B> 20</B>, 4129 (2024). <br><br>
 
-* <a href="https://arxiv.org/pdf/2401.04685.pdf">136. Neutral electronic excitations and derivative discontinuities: An extended N-centered ensemble density functional theory perspective,<br></a>
+* <a href="/pub/136.pdf">136. Neutral electronic excitations and derivative discontinuities: An extended N-centered ensemble density functional theory perspective,<br></a>
 F. Cernatic, P. F. Loos, B. Senjean, and E. Fromager.<br>
-<I>Phys. Rev. B</I><B></B> (in press). <br><br>
+<I>Phys. Rev. B</I><B> 109</B>, 235113 (2024). <br><br>
 
 * <a href="/pub/135.pdf">135. Can GW handle multireference systems?,<br></a>
 A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
