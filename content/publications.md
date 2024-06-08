@@ -72,7 +72,7 @@ A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.<br>
 H. G. A. Burton and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B> 160</B>, 104102 (2024). <br><br>
 
-* <a href="https://arxiv.org/pdf/2311.05351.pdf">133. The GW approximation: a quantum chemistry perspective,<br></a>
+* <a href="/pub/133.pdf">133. The GW approximation: a quantum chemistry perspective,<br></a>
 A. Marie, A. Ammar, and P. F. Loos.<br>
 <I>Adv. Quantum Chem. </I><B></B> (in press). <br><br>
 
