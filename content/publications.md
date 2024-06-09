@@ -18,11 +18,8 @@ Y. Damour, A. Scemama, F. Kossoski, and P. F. Loos.<br>
 P. F. Loos, F. Lipparini, A. Blondel, and D. Jacquemin<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">145. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
-A. Marie, P. Romaniello, and P. F. Loos.<br>
-<I>Phys. Rev. B</I><B></B> (submitted). <br><br>
 
-* <a href="">144. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures
+* <a href="">145. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures
 ,<br></a>
 T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Scemama, S. F. Ung, J. Zhang, F. D. Malone, and J. Lee.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
@@ -31,6 +28,9 @@ T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Sc
 
 ### 2024
 
+* <a href="">144. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
+A. Marie, P. Romaniello, and P. F. Loos.<br>
+<I>Phys. Rev. B</I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2405.02640">143. Compactification of determinant expansions via transcorrelation,<br></a>
 A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br>
