@@ -28,7 +28,7 @@ T. Jiang, M. K. A. Baumgarten, Y. Huang, P. F. Loos, D. Lv, A. V. Mahajan, A. Sc
 
 ### 2024
 
-* <a href="">144. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
+* <a href="https://arxiv.org/pdf/2406.07062">144. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
 A. Marie, P. Romaniello, and P. F. Loos.<br>
 <I>Phys. Rev. B</I><B></B> (submitted). <br><br>
 
