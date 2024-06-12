@@ -44,9 +44,9 @@ F. Kossoski, M. Boggio-Pasqua, P. F. Loos, and D. Jacquemin.<br>
 P. F. Loos, A. Marie, and A. Ammar.<br>
 <I>Faraday Discuss.</I><B></B> (in press). <br><br>
 
-* <a href="https://arxiv.org/pdf/2402.13877.pdf">140. Reference energies for valence ionizations and satellite transitions,<br></a>
+* <a href="/pub/140.pdf">140. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie and P. F. Loos.<br>
-<I>J. Chem. Theory Comput.</I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput.</I><B> 20</B>, 4751 (2024). <br><br>
 
 * <a href="https://arxiv.org/pdf/2402.13111.pdf">139. Go green: selected configuration interaction as a more sustainable alternative for high accuracy,<br></a>
 P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, and A. Scemama.<br>
