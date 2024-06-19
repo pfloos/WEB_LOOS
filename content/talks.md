@@ -6,6 +6,12 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o68.pdf">68. Green's function methods in quantum chemistry,</a><br>
+ISTPC summer school, Aussois, France (June 2024).<br><br>
+
+* <a href="/talks/o67.pdf">67. Post-Hartree-Fock methods,</a><br>
+ISTPC summer school, Aussois, France (June 2024).<br><br>
+
 * <a href="/talks/o66.pdf">66. New Electronic Structure Methodologies for Electronic Excited States,</a><br>
 Department of Chemistry, University of Fribourg, Fribourg, Switzerland (April 2024).<br><br>
 
