@@ -517,7 +517,7 @@ P. M. W. Gill and P. F. Loos.<br>
 
 ### 2011
 
-* <a href="/pub/31.pdf">31.Thinking outside the box: the uniform electron gas on a hypersphere</a>,<br>
+* <a href="/pub/31.pdf">31. Thinking outside the box: the uniform electron gas on a hypersphere</a>,<br>
 P. F. Loos and P. M. W. Gill.<br>
 <I> J. Chem. Phys.</I><B> 135</B>, 214111 (2011). <br><br>
 
