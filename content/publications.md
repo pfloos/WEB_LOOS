@@ -52,9 +52,9 @@ A. Marie and P. F. Loos.<br>
 P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, and A. Scemama.<br>
 <I>arXiv</I><B></B>, 2402.13111 [physics.chem-p] (2024). <br><br>
 
-* <a href="https://arxiv.org/pdf/2401.13809.pdf">138. A mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
+* <a href="/pub/138.pdf">138. A mountaineering strategy to excited states: accurate vertical transition energies and benchmarks for substituted benzenes,<br></a>
 P. F. Loos and D. Jacquemin<br>
-<I>J. Comput. Chem. </I><B></B> (in press). <br><br>
+<I>J. Comput. Chem. </I><B> 45</B> 1791 (2024). <br><br>
 
 * <a href="/pub/137.pdf">137. State-specific coupled-cluster methods for excited states,<br></a>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
