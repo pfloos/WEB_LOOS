@@ -22,7 +22,7 @@ P. F. Loos, F. Lipparini, A. Blondel, and D. Jacquemin<br>
 
 ### 2024
 
-* <a href="">145. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures
+* <a href="https://arxiv.org/pdf/2406.16238">145. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures
 ,<br></a>
 T. Jiang, M. K. A. Baumgarten, P. F. Loos, A. Mahajan, A. Scemama, J. Zhang, F. D. Malone, and J. Lee.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
