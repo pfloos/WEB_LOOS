@@ -6,6 +6,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o69.pdf">69. New Electronic Structure Methodologies for Electronic Excited States,</a><br>
+ESCMQC 2024, Copenhagen, Denmark (June 2024).<br><br>
+
 * <a href="/talks/o68.pdf">68. Green's function methods in quantum chemistry,</a><br>
 ISTPC summer school, Aussois, France (June 2024).<br><br>
 
