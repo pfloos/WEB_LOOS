@@ -34,7 +34,7 @@ A. Marie, P. Romaniello, and P. F. Loos.<br>
 A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2403.19597.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
+* <a href="/pub/142.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
 F. Kossoski, M. Boggio-Pasqua, P. F. Loos, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput.</I><B> 20</B>, 5655 (2024). <br><br>
 
