@@ -18,7 +18,7 @@ A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 I. Knysh, F. Lipparini, I. Duchemin, X. Blase, P. F. Loos, and D. Jacquemin<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">146. Selected configuration interaction for resonances,<br></a>
+* <a href="https://arxiv.org/pdf/2407.08576">146. Selected configuration interaction for resonances,<br></a>
 Y. Damour, A. Scemama, F. Kossoski, and P. F. Loos.<br>
 <I>J. Phys. Chem. Lett.</I><B></B> (submitted). <br><br>
 
