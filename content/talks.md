@@ -6,6 +6,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o70.pdf">70. Cumulant Green's function methods for molecules,</a><br>
+Faraday Discussion on Correlated Electronic Structure, London, UK (July 2024).<br><br>
+
 * <a href="/talks/o69.pdf">69. New Electronic Structure Methodologies for Electronic Excited States,</a><br>
 ESCMQC 2024, Copenhagen, Denmark (June 2024).<br><br>
 
