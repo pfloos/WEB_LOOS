@@ -14,7 +14,7 @@ A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 
 ### 2024
 
-* <a href="">147. Reference CC3 excitation energies for organic chromophores: benchmarking TD-DFT, BSE/GW and wave function methods,<br></a>
+* <a href="https://arxiv.org/pdf/2407.09060">147. Reference CC3 excitation energies for organic chromophores: benchmarking TD-DFT, BSE/GW and wave function methods,<br></a>
 I. Knysh, F. Lipparini, I. Duchemin, X. Blase, P. F. Loos, and D. Jacquemin<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
