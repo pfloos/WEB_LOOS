@@ -18,9 +18,9 @@ A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 I. Knysh, F. Lipparini, I. Duchemin, X. Blase, P. F. Loos, and D. Jacquemin<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2407.08576">146. Selected configuration interaction for resonances,<br></a>
+* <a href="/pub/146.pdf">146. Selected configuration interaction for resonances,<br></a>
 Y. Damour, A. Scemama, F. Kossoski, and P. F. Loos.<br>
-<I>J. Phys. Chem. Lett.</I><B></B> (in press). <br><br>
+<I>J. Phys. Chem. Lett.</I><B> 15</B>, 8296 (2024). <br><br>
 
 * <a href="https://arxiv.org/pdf/2406.16238">145. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures,<br></a>
 T. Jiang, M. K. A. Baumgarten, P. F. Loos, A. Mahajan, A. Scemama, J. Zhang, F. D. Malone, and J. Lee.<br>
