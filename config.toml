@@ -17,7 +17,7 @@ title = "Pierre-Francois Loos' research webpage"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
- [Author]
+ [params.author]
    name = "Pierre-Francois Loos"
    email = "loos@irsamc.ups-tlse.fr"
    github = "pfloos"
