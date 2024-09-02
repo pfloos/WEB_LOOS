@@ -39,9 +39,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
-* Noam Mandin (1st-year Master student)
-
-* Loris Burth (1st-year Master student)
+* Janina Vohdin (ERASMUS+ 2nd-year Master student)
 
 ***
 
@@ -75,7 +73,8 @@ Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
 
 # Past Members
 
-* Roberto Orlando (2020-2023)
+* Loris Burth and Loris Burth (2024)
+* * Roberto Orlando (2020-2023)
 * Enzo Monino (2020-2023)
 * Sara Giarrusso (2023)
 * Raul Quintero-Monsebaiz (2022-2023)
