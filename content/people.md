@@ -73,8 +73,8 @@ Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
 
 # Past Members
 
-* Loris Burth and Loris Burth (2024)
-* * Roberto Orlando (2020-2023)
+* Loris Burth and Noam Mandin (2024)
+* Roberto Orlando (2020-2023)
 * Enzo Monino (2020-2023)
 * Sara Giarrusso (2023)
 * Raul Quintero-Monsebaiz (2022-2023)
