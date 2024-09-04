@@ -72,7 +72,7 @@ H. G. A. Burton and P. F. Loos.<br>
 
 * <a href="/pub/133.pdf">133. The GW approximation: a quantum chemistry perspective,<br></a>
 A. Marie, A. Ammar, and P. F. Loos.<br>
-<I>Adv. Quantum Chem. </I><B></B> (in press). <br><br>
+<I>Adv. Quantum Chem. </I><B> 90</B>, 157 (2024). <br><br>
 
 ### 2023
 
