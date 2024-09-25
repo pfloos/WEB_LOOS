@@ -16,7 +16,7 @@ A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 
 * <a href="https://arxiv.org/pdf/2407.09060">147. Reference CC3 excitation energies for organic chromophores: benchmarking TD-DFT, BSE/GW and wave function methods,<br></a>
 I. Knysh, F. Lipparini, I. Duchemin, X. Blase, P. F. Loos, and D. Jacquemin<br>
-<I>J. Chem. Theory Comput. </I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput. </I><B> 20</B>, 8152 (2024). <br><br>
 
 * <a href="/pub/146.pdf">146. Selected configuration interaction for resonances,<br></a>
 Y. Damour, A. Scemama, F. Kossoski, and P. F. Loos.<br>
