@@ -15,6 +15,8 @@ The group's interest lies at the interface between Physics and Chemistry, and ma
 
 # NEWS
 
+* **Sep 2024:** Yann Damour has submitted his PhD manuscript. Congrats Yann!
+* **Jul 2024:** Fabris Kossoski secured a permanent CNRS position. Congrats Fabris!
 * **Apr 2024:** Our group is organizing the end-of-term PTEROSOR workshop on emerging electronic structure methods for excited states in April 2025. More info [here](https://lcpq.github.io/PTEROSOR_endofterm_workshop/).
 * **Apr 2024:** Abdallah Ammar has joined the group as a postdoc. Welcome Abdallah!
 * **Dec 2023:** Roberto Orlando has successfully defended his PhD dissertation entitled *"Exploring new exchange-correlation kernels in the Bethe-Salpeter equation"*. Congratulations Dr Orlando!
