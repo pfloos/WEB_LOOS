@@ -26,9 +26,9 @@ Y. Damour, A. Scemama, F. Kossoski, and P. F. Loos.<br>
 T. Jiang, M. K. A. Baumgarten, P. F. Loos, A. Mahajan, A. Scemama, J. Zhang, F. D. Malone, and J. Lee.<br>
 <I>J. Chem. Phys.</I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2406.07062">144. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
+* <a href="/pub/144.pdf">144. Anomalous propagators and the particle-particle channel: Hedin’s equations,<br></a>
 A. Marie, P. Romaniello, and P. F. Loos.<br>
-<I>Phys. Rev. B</I><B></B> (in press). <br><br>
+<I>Phys. Rev. B</I><B> 110</B>, 115155 (2024). <br><br>
 
 * <a href="/pub/143.pdf">143. Compactification of determinant expansions via transcorrelation,<br></a>
 A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br>
