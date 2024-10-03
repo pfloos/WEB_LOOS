@@ -1,6 +1,5 @@
 ---
 title: "Funding"
-date: 2020-12-02 09:05
 draft: false
 ---
 

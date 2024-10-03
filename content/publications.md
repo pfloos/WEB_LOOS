@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-date: 2020-12-02 09:03
 draft: false
 ---
 
