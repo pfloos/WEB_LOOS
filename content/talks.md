@@ -5,6 +5,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o71.pdf">71. Green's function methods for quantum chemistry,</a><br>
+Workshop on New Developments in Quantum Chemistry, Karlsruhe, Germany (Oct 2024).<br><br>
+
 * <a href="/talks/o70.pdf">70. Cumulant Green's function methods for molecules,</a><br>
 Faraday Discussion on Correlated Electronic Structure, London, UK (July 2024).<br><br>
 
