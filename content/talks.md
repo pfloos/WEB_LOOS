@@ -5,6 +5,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o72.pdf">72. Green's function methods for quantum chemistry,</a><br>
+11th Triennial Congress of the International Society for Theoretical Chemical Physics, Qingdao, China (Oct 2024).<br><br>
+
 * <a href="/talks/o71.pdf">71. Green's function methods for quantum chemistry,</a><br>
 Workshop on New Developments in Quantum Chemistry, Karlsruhe, Germany (Oct 2024).<br><br>
 
