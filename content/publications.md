@@ -25,7 +25,7 @@ I. Knysh, F. Lipparini, I. Duchemin, X. Blase, P. F. Loos, and D. Jacquemin<br>
 Y. Damour, A. Scemama, F. Kossoski, and P. F. Loos.<br>
 <I>J. Phys. Chem. Lett.</I><B> 15</B>, 8296 (2024). <br><br>
 
-* <a href="https://arxiv.org/pdf/2406.16238">145. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures,<br></a>
+* <a href="/pub/145.pdf">145. Improved modularity and new features in ipie: towards even larger AFQMC calculations on CPUs and GPUs at zero and finite temperatures,<br></a>
 T. Jiang, M. K. A. Baumgarten, P. F. Loos, A. Mahajan, A. Scemama, J. Zhang, F. D. Malone, and J. Lee.<br>
 <I>J. Chem. Phys.</I><B> 161</B>, 162502 (2024). <br><br>
 
