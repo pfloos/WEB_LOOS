@@ -26,11 +26,10 @@ ORCID: [0000-0003-0598-7425](https://orcid.org/0000-0003-0598-7425)
 Telephone: +33 5 6155 7339   
 E-mail: loos@irsamc.ups-tlse.fr  
 
-* [Fabris Kossoski](https://kossoski.github.io) (Postdoc, ERC)
-<img class="photo" src="/img/FKossoski.png" alt="Fabris" />
-
 * [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en) (Postdoc, ERC)
 <img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
+
+* Marios Petros Kitsaras (Postdoc)
 
 * [Yann Damour](https://ydrnan.github.io/damour/) (PhD student, ERC)
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
@@ -72,12 +71,13 @@ Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
 
 # Past Members
 
+* [Fabris Kossoski](https://kossoski.github.io) (2020-2024)
 * Loris Burth and Noam Mandin (2024)
 * Roberto Orlando (2020-2023)
-* Enzo Monino (2020-2023)
-* Sara Giarrusso (2023)
+* [Enzo Monino](https://enzomonino.github.io) (2020-2023)
+* [Sara Giarrusso](https://scholar.google.com/citations?user=r6hYvFsAAAAJ&hl=it) (2023)
 * Raul Quintero-Monsebaiz (2022-2023)
-* Mika Veril (2017-2021)
+* [Mika Veril](https://scholar.google.com/citations?user=0egOZs4AAAAJ&hl=fr) (2017-2021)
 * Maia Courtiel (2021)
 * Juliette Authier, Pierre Racine, and Stefano di Sabatino (2020)
 * Thomas Colle (2019)
