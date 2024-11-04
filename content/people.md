@@ -30,6 +30,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 <img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
 
 * Marios Petros Kitsaras (Postdoc)
+<img class="photo" src="/img/PKitsaras.jpg" alt="Petros" />
 
 * [Yann Damour](https://ydrnan.github.io/damour/) (PhD student, ERC)
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
