@@ -14,6 +14,7 @@ The group's interest lies at the interface between Physics and Chemistry, and ma
 
 # NEWS
 
+* **Nov 2024:** Marios Petros Kitsaras has joined the group as a postdoc. Welcome Petros!
 * **Oct 2024:** Yann Damour has successfully defended his PhD dissertation entitled *"Highly Accurate Computational Strategies for Molecular
 Electronic States"*. Congratulations Dr Damour!
 * **Sep 2024:** Yann Damour has submitted his PhD manuscript. Congrats Yann!
