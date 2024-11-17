@@ -46,9 +46,9 @@ A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br>
 F. Kossoski, M. Boggio-Pasqua, P. F. Loos, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput.</I><B> 20</B>, 5655 (2024). <br><br>
 
-* <a href="https://arxiv.org/pdf/2402.16414.pdf">141. Cumulant Green's function methods for molecules,<br></a>
+* <a href="/pub/141.pdf">141. Cumulant Green's function methods for molecules,<br></a>
 P. F. Loos, A. Marie, and A. Ammar.<br>
-<I>Faraday Discuss.</I><B></B> (in press). <br><br>
+<I>Faraday Discuss.</I><B> 254</B> 240 (2024). <br><br>
 
 * <a href="/pub/140.pdf">140. Reference energies for valence ionizations and satellite transitions,<br></a>
 A. Marie and P. F. Loos.<br>
