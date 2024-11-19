@@ -10,13 +10,15 @@ draft: false
 S. Giarrusso and P. F. Loos.<br>
 <I>J. Phys. Chem. Lett. (Open Access)</I><B> 14</B>, 8780 (2023). <br><br>
 
-* <a href="">149. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation,<br></a>
-A. Marie, N. Mandin, P. Romaniello, X. Blase, and P. F. Loos.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
 
 -->
 
 ### 2024
+
+* <a href="">149. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation,<br></a>
+A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2410.03620">148. Time-reversal symmetry in RDMFT and pCCD with complex-valued orbitals,<br></a>
 M. Rodriguez-Mayorga, P. F. Loos, F. Bruneval, and L. Visscher<br>
