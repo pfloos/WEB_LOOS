@@ -16,7 +16,7 @@ S. Giarrusso and P. F. Loos.<br>
 
 ### 2024
 
-* <a href="">149. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation,<br></a>
+* <a href="https://arxiv.org/pdf/2411.13167">149. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation,<br></a>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
