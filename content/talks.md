@@ -5,6 +5,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o73.pdf">73. Excited-state-specific functionals of the asymmetric Hubbard dimer,</a><br>
+Workshop on Quantum Theory: Foundations and Extensions of Density-Functional Theory, Oslo, Norway (Dev 2024).<br><br>
+
 * <a href="/talks/o72.pdf">72. Green's function methods for quantum chemistry,</a><br>
 11th Triennial Congress of the International Society for Theoretical Chemical Physics, Qingdao, China (Oct 2024).<br><br>
 
