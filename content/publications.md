@@ -5,27 +5,26 @@ draft: false
 
 <!--
 
-
-* <a href="">150. Excited-state specific functionals of the asymmetric Hubbard dimer,<br></a>
-S. Giarrusso and P. F. Loos.<br>
-<I>J. Phys. Chem. Lett. (Open Access)</I><B> 14</B>, 8780 (2023). <br><br>
-
-
+* <a href="">150. Excited state specific functionals of the asymmetric Hubbard dimer,<br></a>
+P. F. Loos and S. Giarrusso.<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 -->
 
-### 2024
+### 2025
 
 * <a href="https://arxiv.org/pdf/2411.13167">149. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation,<br></a>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2410.03620">148. Time-reversal symmetry in RDMFT and pCCD with complex-valued orbitals,<br></a>
-M. Rodriguez-Mayorga, P. F. Loos, F. Bruneval, and L. Visscher<br>
+M. Rodriguez-Mayorga, P. F. Loos, F. Bruneval, and L. Visscher.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
+### 2024
+
 * <a href="/pub/147.pdf">147. Reference CC3 excitation energies for organic chromophores: benchmarking TD-DFT, BSE/GW and wave function methods,<br></a>
-I. Knysh, F. Lipparini, I. Duchemin, X. Blase, P. F. Loos, and D. Jacquemin<br>
+I. Knysh, F. Lipparini, I. Duchemin, X. Blase, P. F. Loos, and D. Jacquemin.<br>
 <I>J. Chem. Theory Comput. </I><B> 20</B>, 8152 (2024). <br><br>
 
 * <a href="/pub/146.pdf">146. Selected configuration interaction for resonances,<br></a>
@@ -41,7 +40,7 @@ A. Marie, P. Romaniello, and P. F. Loos.<br>
 <I>Phys. Rev. B</I><B> 110</B>, 115155 (2024). <br><br>
 
 * <a href="/pub/143.pdf">143. Compactification of determinant expansions via transcorrelation,<br></a>
-A. Ammar, A. Scemama, P. F. Loos and E. Giner,<br>
+A. Ammar, A. Scemama, P. F. Loos and E. Giner.<br>
 <I>J. Chem. Phys.</I><B> 161</B>, 084104 (2024). <br><br>
 
 * <a href="/pub/142.pdf">142. Reference energies for double excitations: improvement & extension,<br></a>
