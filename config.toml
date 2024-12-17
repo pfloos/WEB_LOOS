@@ -11,7 +11,7 @@ title = "Pierre-Francois Loos' research webpage"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/group.jpg"
-  desc = "Extended (PTEROSOR + T-REX) group picture (May 2022)"
+  desc = "PTEROSOR group picture (Oct 2024)"
 
 [markup]
   [markup.goldmark]
