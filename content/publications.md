@@ -5,13 +5,13 @@ draft: false
 
 <!--
 
-* <a href="">150. Excited state specific functionals of the asymmetric Hubbard dimer,<br></a>
-P. F. Loos and S. Giarrusso.<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
-
 -->
 
 ### 2025
+
+* <a href="">150. Excited state specific functionals of the asymmetric Hubbard dimer,<br></a>
+P. F. Loos and S. Giarrusso.<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2411.13167">149. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation,<br></a>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos.<br>
