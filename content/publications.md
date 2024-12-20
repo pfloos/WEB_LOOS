@@ -9,7 +9,7 @@ draft: false
 
 ### 2025
 
-* <a href="">150. Excited-state-specific Kohn-Sham formalism for the asymmetric Hubbard dimer,<br></a>
+* <a href="https://arxiv.org/pdf/2412.14945">150. Excited-state-specific Kohn-Sham formalism for the asymmetric Hubbard dimer,<br></a>
 P. F. Loos and S. Giarrusso.<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
