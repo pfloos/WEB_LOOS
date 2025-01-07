@@ -32,8 +32,8 @@ E-mail: loos@irsamc.ups-tlse.fr
 * Marios Petros Kitsaras (Postdoc)
 <img class="photo" src="/img/PKitsaras.png" alt="Petros" />
 
-* [Yann Damour](https://ydrnan.github.io/damour/) (PhD student, ERC)
-<img class="photo" src="/img/YDamour.jpg" alt="Yann" />
+* Mauricio Rodríguez-Mayorga (Postdoc)
+<img class="photo" src="/img/MRodriguez.png" alt="Mauricio" />
 
 * [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
@@ -72,6 +72,8 @@ Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
 
 # Past Members
 
+* Janina Vohdin (2024)
+* [Yann Damour](https://ydrnan.github.io/damour/) (2021-2024)
 * [Fabris Kossoski](https://kossoski.github.io) (2020-2024)
 * Loris Burth and Noam Mandin (2024)
 * Roberto Orlando (2020-2023)
