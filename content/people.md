@@ -26,9 +26,6 @@ ORCID: [0000-0003-0598-7425](https://orcid.org/0000-0003-0598-7425)
 Telephone: +33 5 6155 7339   
 E-mail: loos@irsamc.ups-tlse.fr  
 
-* [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en) (Postdoc, ERC)
-<img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
-
 * Marios Petros Kitsaras (Postdoc)
 <img class="photo" src="/img/PKitsaras.png" alt="Petros" />
 
@@ -38,7 +35,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
-* Janina Vohdin (ERASMUS+ 2nd-year Master student)
+* Loris Burth (2nd-year Master)
 
 ***
 
@@ -73,6 +70,7 @@ Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
 # Past Members
 
 * Janina Vohdin (2024)
+* [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en) (2024)
 * [Yann Damour](https://ydrnan.github.io/damour/) (2021-2024)
 * [Fabris Kossoski](https://kossoski.github.io) (2020-2024)
 * Loris Burth and Noam Mandin (2024)
