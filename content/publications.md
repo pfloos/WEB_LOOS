@@ -11,8 +11,11 @@ draft: false
 
 ### 2025
 
-* <a href="">151. Excited-state absorption: Reference oscillator
-strengths, wavefunction and TD-DFT benchmarks,<br></a>
+* <a href="">152. Excited states of the uniform electron gas,<br></a>
+P. F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
+* <a href="">151. Excited-state absorption: Reference oscillator strengths, wavefunction and TD-DFT benchmarks,<br></a>
 J. Širůček, B. Le Guennic, Y. Damour, P. F. Loos, and D. Jacquemin,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
@@ -24,9 +27,9 @@ P. F. Loos and S. Giarrusso,<br>
 A. Marie, P. Romaniello, X. Blase, and P. F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2410.03620">148. Time-reversal symmetry in RDMFT and pCCD with complex-valued orbitals,<br></a>
+* <a href="/pub/148.pdf">148. Time-reversal symmetry in RDMFT and pCCD with complex-valued orbitals,<br></a>
 M. Rodriguez-Mayorga, P. F. Loos, F. Bruneval, and L. Visscher,<br>
-<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
+<I>J. Chem. Phys. </I><B> 162</B>, 054716 (2025). <br><br>
 
 ### 2024
 
