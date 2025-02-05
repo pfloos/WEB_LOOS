@@ -11,7 +11,7 @@ draft: false
 
 ### 2025
 
-* <a href="">152. Excited states of the uniform electron gas,<br></a>
+* <a href="https://arxiv.org/pdf/2502.02378">152. Excited states of the uniform electron gas,<br></a>
 P. F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
