@@ -15,7 +15,7 @@ draft: false
 P. F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">151. Excited-state absorption: Reference oscillator strengths, wavefunction and TD-DFT benchmarks,<br></a>
+* <a href="https://arxiv.org/pdf/2501.17114">151. Excited-state absorption: Reference oscillator strengths, wavefunction and TD-DFT benchmarks,<br></a>
 J. Širůček, B. Le Guennic, Y. Damour, P. F. Loos, and D. Jacquemin,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
