@@ -13,7 +13,7 @@ draft: false
 
 * <a href="https://arxiv.org/pdf/2502.02378">152. Excited states of the uniform electron gas,<br></a>
 P. F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2501.17114">151. Excited-state absorption: Reference oscillator strengths, wavefunction and TD-DFT benchmarks,<br></a>
 J. Širůček, B. Le Guennic, Y. Damour, P. F. Loos, and D. Jacquemin,<br>
