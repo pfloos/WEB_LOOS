@@ -37,6 +37,8 @@ E-mail: loos@irsamc.ups-tlse.fr
 
 * Loris Burth (M2 student)
 
+* Gabriel Nyembo (M1 student)
+
 ***
 
 # Collaborators
