@@ -1,6 +1,6 @@
-# WEB_LOOS
+# Pierre-Francois Loos' Research Webpage
 
-This repository hosts the source code for the personal academic website of [Pierre-François Loos](https://pfloos.github.io), CNRS researcher in theoretical and computational chemistry.
+This repository hosts the source code for the personal academic website of [Pierre-François Loos](https://pfloos.github.io), CNRS researcher in theoretical and computational chemistry (Toulouse, France).
 
 The website provides information about current research, publications, teaching activities, collaborations, and other academic interests.
 
