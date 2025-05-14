@@ -25,11 +25,9 @@ M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
 J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
 <I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
-* <a href="">154. Connections between Richardson-Gaudin States, Perfect-Pairing, and Pair Coupled-Cluster Theory,<br>>/a>
+* <a href="">154. Connections between Richardson-Gaudin states, perfect-pairing, and pair coupled-cluster theory,<br>>/a>
 P. A. Johnson, C.-E Fecteau, and P.-F. Loos,<br>
-<I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
-
-
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="">153. The QUEST database of highly-accurate excitation energies,<br></a>
 P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
