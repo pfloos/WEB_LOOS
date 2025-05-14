@@ -1,4 +1,4 @@
-# Pierre-Francois Loos' Research Webpage
+# 🧑‍🏫 Pierre-Francois (Titou) Loos' Research Webpage 🎓
 
 This repository contains the source code for the personal academic website of [Pierre-François Loos](https://pfloos.github.io), a CNRS researcher specializing in theoretical and computational chemistry (Toulouse, France).
 
