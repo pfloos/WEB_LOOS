@@ -37,9 +37,9 @@ P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
 
 ### 2025
 
-* <a href="https://arxiv.org/pdf/2502.02378">152. Excited states of the uniform electron gas,<br></a>
+* <a href="/pub/152.pdf">152. Excited states of the uniform electron gas,<br></a>
 P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
+<I>J. Chem. Phys. </I><B> 162</B>, 204105 (2025). <br><br>
 
 * <a href="/pub/151.pdf">151. Excited-state absorption: Reference oscillator strengths, wavefunction and TD-DFT benchmarks,<br></a>
 J. Širůček, B. Le Guennic, Y. Damour, P.-F. Loos, and D. Jacquemin,<br>
