@@ -29,13 +29,13 @@ P. A. Johnson, C.-E Fecteau, and P.-F. Loos,<br>
 J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
 <I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
-* <a href="">153. The QUEST database of highly-accurate excitation energies,<br></a>
-P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
 -->
 
 ### 2025
+
+* <a href="">153. The QUEST database of highly-accurate excitation energies,<br></a>
+P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="/pub/152.pdf">152. Excited states of the uniform electron gas,<br></a>
 P.-F. Loos,<br>
