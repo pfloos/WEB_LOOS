@@ -17,11 +17,11 @@ A. Marie, L. Burth, and P.-F. Loos,<br>
 L. Burth, F. Kossoski, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">156. Analytic $G_0W_0$ gradients: An IP/EA-EOM-λ-rCCD reformulation,<br>>/a>
+* <a href="">156. Analytic $G_0W_0$ gradients: An IP/EA-EOM-λ-rCCD reformulation,<br></a>
 M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">155. Connections between Richardson-Gaudin states, perfect-pairing, and pair coupled-cluster theory,<br>>/a>
+* <a href="">155. Connections between Richardson-Gaudin states, perfect-pairing, and pair coupled-cluster theory,<br></a>
 P. A. Johnson, C.-E Fecteau, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
@@ -30,7 +30,7 @@ P. A. Johnson, C.-E Fecteau, and P.-F. Loos,<br>
 
 ### 2025
 
-* <a href="">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br>>/a>
+* <a href="">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br></a>
 J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
 <I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
