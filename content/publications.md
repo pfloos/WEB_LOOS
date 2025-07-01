@@ -25,13 +25,14 @@ M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
 P. A. Johnson, C.-E Fecteau, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">154. Fully analytic Bethe-Salpeter gradients,<br>>/a>
-J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
-<I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
 -->
 
 ### 2025
+
+* <a href="">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br>>/a>
+J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
+<I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2506.11590">153. The QUEST database of highly-accurate excitation energies,<br></a>
 P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
