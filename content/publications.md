@@ -30,7 +30,7 @@ P. A. Johnson, C.-E Fecteau, and P.-F. Loos,<br>
 L. Burth, F. Kossoski, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br></a>
+* <a href="https://arxiv.org/pdf/2507.02160">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br></a>
 J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
 <I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
