@@ -26,7 +26,7 @@ P. A. Johnson, C.-E Fecteau, and P.-F. Loos,<br>
 
 ### 2025
 
-* <a href="">155. Complex absorbing potential Green’s function methods for resonances,<br></a>
+* <a href="https://arxiv.org/pdf/2507.03496">155. Complex absorbing potential Green’s function methods for resonances,<br></a>
 L. Burth, F. Kossoski, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
