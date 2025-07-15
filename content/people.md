@@ -37,8 +37,6 @@ E-mail: loos@irsamc.ups-tlse.fr
 
 * Loris Burth (M2 student)
 
-* Gabriel Nyembo (M1 student)
-
 ***
 
 # Collaborators
@@ -71,6 +69,7 @@ Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
 
 # Past Members
 
+* Gabriel Nyembo (2025)
 * Janina Vohdin (2024)
 * [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en) (2024)
 * [Yann Damour](https://ydrnan.github.io/damour/) (2021-2024)
