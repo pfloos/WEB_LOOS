@@ -230,7 +230,7 @@ Applied Theoretical Chemistry Group, Namur, Belgium (September 2006).<br><br>
 
 # Posters
 
-* <a href="/talks/p5.pdf">4. Excited states of the uniform electron gas</a>,<br>
+* <a href="/talks/p5.pdf">5. Excited states of the uniform electron gas</a>,<br>
 3rd general meeting of the GDR NBODY, Nancy, France (June 2025).<br><br>
 
 * <a href="/talks/p4.pdf">4. A tale of two electrons: correlation at high density</a>,<br>
