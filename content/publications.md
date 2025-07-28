@@ -36,7 +36,7 @@ J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
 
 * <a href="https://arxiv.org/pdf/2506.11590">153. The QUEST database of highly-accurate excitation energies,<br></a>
 P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Theory Comput. </I><B></B> (in press). <br><br>
 
 * <a href="/pub/152.pdf">152. Excited states of the uniform electron gas,<br></a>
 P.-F. Loos,<br>
