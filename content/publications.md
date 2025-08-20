@@ -5,22 +5,23 @@ draft: false
 
 <!--
 
-* <a href="">159. Parquet approximation for molecules,<br></a>
-A. Marie and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">158. Reference energies for non-relativistic core electron binding energies,<br></a>
+* <a href="">159. Reference energies for non-relativistic core electron binding energies,<br></a>
 A. Marie, L. Burth, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">156. Analytic $G_0W_0$ gradients: An IP/EA-EOM-λ-rCCD reformulation,<br></a>
+* <a href="">158. Analytic $G_0W_0$ gradients: An IP/EA-EOM-λ-rCCD reformulation,<br></a>
 M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">155. Connections between Richardson-Gaudin states, perfect-pairing, and pair coupled-cluster theory,<br></a>
-P. A. Johnson, C.-E Fecteau, and P.-F. Loos,<br>
+* <a href="">157. Connections between Richardson-Gaudin states, perfect-pairing, and pair coupled-cluster theory,<br></a>
+P. A. Johnson, C.-E Fecteau, M. Rodriguez-Mayorga, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
+* <a href="">156. Parquet theory for molecular systems. I. Formalism and static kernel parquet
+approximation,<br></a>
+A. Marie and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 -->
 
@@ -700,3 +701,4 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
