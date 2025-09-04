@@ -22,7 +22,7 @@ P. A. Johnson, C.-E Fecteau, M. Rodriguez-Mayorga, and P.-F. Loos,<br>
 
 ### 2025
 
-* <a href="">156. Parquet theory for molecular systems. I. Formalism and static kernel parquet
+* <a href="https://arxiv.org/pdf/2509.03253">156. Parquet theory for molecular systems. I. Formalism and static kernel parquet
 approximation,<br></a>
 A. Marie and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
@@ -701,5 +701,6 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
