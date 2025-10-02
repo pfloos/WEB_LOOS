@@ -14,6 +14,8 @@ The group's interest lies at the interface between Physics and Chemistry, and ma
 
 # NEWS
 
+* **Oct 2025:** Loris Burth has joined the group as a PhD student. Welcome Loris!
+* **Sep 2025:** Antoine Marie has succesfully defended his PhD entitled *"Many-body perturbation theory in quantum chemistry."*. Congratulations Dr Marie!
 * **Jan 2025:** Mauricio Rodríguez-Mayorga has joined the group as a postdoc. Welcome Mauricio!
 * **Dec 2024:** Abdallah Ammar has secured a permanent CNRS research engineer position. Congrats Abdallah!
 * **Nov 2024:** Marios Petros Kitsaras has joined the group as a postdoc. Welcome Petros!
