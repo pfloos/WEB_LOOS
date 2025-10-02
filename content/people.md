@@ -35,7 +35,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
-* Loris Burth (M2 student)
+* Loris Burth (PhD student)
 
 ***
 
