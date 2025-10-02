@@ -5,6 +5,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o75.pdf">74. Green's function methods for quantum chemistry,</a><br>
+QVEST XXV, Ringberg castle, Germany (Sep 2025).<br><br>
+
 * <a href="/talks/o74.pdf">74. Green's function methods for quantum chemistry,</a><br>
 Technical University of Denmark, Department of Chemistry, Copenhagen, Denmark (Dec 2024).<br><br>
 
