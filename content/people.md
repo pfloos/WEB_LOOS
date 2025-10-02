@@ -36,6 +36,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
 * Loris Burth (PhD student)
+<img class="photo" src="/img/LBurth.jpg" alt="Loris" />
 
 ***
 
