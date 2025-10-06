@@ -33,7 +33,7 @@ L. Burth, F. Kossoski, and P.-F. Loos,<br>
 
 * <a href="https://arxiv.org/pdf/2507.02160">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br></a>
 J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
-<I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
+<I>J. Phys. Chem. Lett. </I><B></B> (in press). <br><br>
 
 * <a href="/pub/153.pdf">153. The QUEST database of highly-accurate excitation energies,<br></a>
 P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
@@ -701,6 +701,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
