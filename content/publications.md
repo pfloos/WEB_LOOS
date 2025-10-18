@@ -31,9 +31,9 @@ A. Marie and P.-F. Loos,<br>
 L. Burth, F. Kossoski, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2507.02160">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br></a>
+* <a href="/pub/154.pdf">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br></a>
 J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
-<I>J. Phys. Chem. Lett. </I><B></B> (in press). <br><br>
+<I>J. Phys. Chem. Lett. </I><B> 16</B>, 11134 (2025). <br><br>
 
 * <a href="/pub/153.pdf">153. The QUEST database of highly-accurate excitation energies,<br></a>
 P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
