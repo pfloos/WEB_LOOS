@@ -25,11 +25,11 @@ P. A. Johnson, C.-E Fecteau, S. Nadeau, M. Rodriguez-Mayorga, and P.-F. Loos,<br
 * <a href="https://arxiv.org/pdf/2509.03253">156. Parquet theory for molecular systems. I. Formalism and static kernel parquet
 approximation,<br></a>
 A. Marie and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2507.03496">155. Complex absorbing potential Green’s function methods for resonances,<br></a>
 L. Burth, F. Kossoski, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Theory Comput. </I><B></B> (in press). <br><br>
 
 * <a href="/pub/154.pdf">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br></a>
 J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
@@ -701,6 +701,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
