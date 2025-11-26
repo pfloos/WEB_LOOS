@@ -30,9 +30,9 @@ approximation,<br></a>
 A. Marie and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B> 163</B>, 194115 (2025) [Editor's pick]. <br><br>
 
-* <a href="https://arxiv.org/pdf/2507.03496">155. Complex absorbing potential Green’s function methods for resonances,<br></a>
+* <a href="/pub/155.pdf">155. Complex absorbing potential Green’s function methods for resonances,<br></a>
 L. Burth, F. Kossoski, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput. </I><B> 21</B>, 11463 (2025). <br><br>
 
 * <a href="/pub/154.pdf">154. Fully analytic nuclear gradients for the Bethe-Salpeter equation,<br></a>
 J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
@@ -40,7 +40,7 @@ J. Tölle, M.-P. Kitsaras, and P.-F. Loos,<br>
 
 * <a href="/pub/153.pdf">153. The QUEST database of highly-accurate excitation energies,<br></a>
 P.-F. Loos, M. Boggio-Pasqua, A. Blondel, F. Lipparini, and D. Jacquemin,<br>
-<I>J. Chem. Theory Comput. </I><B> 21 </B>, 8010 (2025). <br><br>
+<I>J. Chem. Theory Comput. </I><B> 21</B>, 8010 (2025). <br><br>
 
 * <a href="/pub/152.pdf">152. Excited states of the uniform electron gas,<br></a>
 P.-F. Loos,<br>
@@ -704,6 +704,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
