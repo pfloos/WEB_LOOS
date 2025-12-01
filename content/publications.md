@@ -23,7 +23,7 @@ M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
 
 * <a href="https://arxiv.org/pdf/2510.06144">157. Connections between Richardson-Gaudin states, perfect-pairing, and pair coupled-cluster theory,<br></a>
 P. A. Johnson, C.-E Fecteau, S. Nadeau, M. Rodriguez-Mayorga, and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
 
 * <a href="/pub/156.pdf">156. Parquet theory for molecular systems: Formalism and static kernel parquet
 approximation,<br></a>
@@ -704,6 +704,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
