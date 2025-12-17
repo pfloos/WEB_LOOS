@@ -15,11 +15,13 @@ A. Marie, L. Burth, and P.-F. Loos,<br>
 
 -->
 
-### 2025
+### 2026
 
 * <a href="https://arxiv.org/pdf/2510.23275">158. Analytic G0W0 gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment,<br></a>
 M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
+### 2025
 
 * <a href="/pub/157.pdf">157. Connections between Richardson-Gaudin states, perfect-pairing, and pair coupled-cluster theory,<br></a>
 P. A. Johnson, C.-E Fecteau, S. Nadeau, M. Rodriguez-Mayorga, and P.-F. Loos,<br>
@@ -704,6 +706,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
