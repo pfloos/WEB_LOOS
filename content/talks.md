@@ -5,8 +5,14 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o77.pdf">77. Accurate trial wave functions from selected CI for ground and excited states,</a><br>
+Pacifichem 2025, Honolulu, Hawaii, US (Dec 2025).<br><br>
+
+* <a href="/talks/o76.pdf">76. Parquet theory for molecular systems,</a><br>
+Pacifichem 2025, Honolulu, Hawaii, US (Dec 2025).<br><br>
+
 * <a href="/talks/o75.pdf">75. Green's function methods for quantum chemistry,</a><br>
-QVEST XXV, Ringberg castle, Germany (Sep 2025).<br><br>
+QVEST XXV, Ringberg Castle, Germany (Sep 2025).<br><br>
 
 * <a href="/talks/o74.pdf">74. Green's function methods for quantum chemistry,</a><br>
 Technical University of Denmark, Department of Chemistry, Copenhagen, Denmark (Dec 2024).<br><br>
@@ -250,3 +256,4 @@ Methods and Applications of Computational Chemistry: 2nd Symposium, Kiev, Ukrain
 * <a href="/talks/p1.pdf">1. Taking the core electrons into account to improve the hybrid Quantum Mechanics/Molecular Mechanics Frontier </a>,<br>
 10th Theoretical Chemist Meeting, Nancy, France (July 2006).<br>
 International Society of Quantum Biology and Pharmacology, ISQBP President's Meeting, Strasbourg, France (July 2007)<br><br>
+
