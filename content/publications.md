@@ -5,6 +5,10 @@ draft: false
 
 <!--
 
+* <a href="">161. An algebraic-diagrammatic construction perspective on vertex corrections beyond GW,<br></a>
+A. Marie, J. Tölle, and P.-F. Loos,<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
 * <a href="">160. Connections between GW and extended coupled cluster,<br></a>
 J. Tölle, M.-P. Kitsaras,and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
@@ -706,6 +710,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
