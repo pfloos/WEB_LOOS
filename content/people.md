@@ -26,7 +26,7 @@ ORCID: [0000-0003-0598-7425](https://orcid.org/0000-0003-0598-7425)
 Telephone: +33 5 6155 7339   
 E-mail: loos@irsamc.ups-tlse.fr  
 
-* Marios Petros Kitsaras (Postdoc)
+* [Marios-Petros Kitsaras](https://www.mpkitsaras.com) (Postdoc)
 <img class="photo" src="/img/PKitsaras.png" alt="Petros" />
 
 * Mauricio Rodríguez-Mayorga (Postdoc)
