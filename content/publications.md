@@ -62,7 +62,8 @@ P.-F. Loos and S. Giarrusso,<br>
 
 * <a href="/pub/149.pdf">149. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation,<br></a>
 A. Marie, P. Romaniello, X. Blase, and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B> 162</B>, 134105 (2025). <br><br>
+<I>J. Chem. Phys. </I><B> 162</B>, 134105 (2025). <br>
+See also [Correction](/pub/149_Err.pdf) <br><br>
 
 * <a href="/pub/148.pdf">148. Time-reversal symmetry in RDMFT and pCCD with complex-valued orbitals,<br></a>
 M. Rodriguez-Mayorga, P.-F. Loos, F. Bruneval, and L. Visscher,<br>
@@ -710,6 +711,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
