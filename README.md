@@ -45,5 +45,5 @@ This is a personal academic website and not open to external contributions. Howe
 
 ---
 
-🧪 Maintained with curiosity and care by [Pierre-François Loos](https://pfloos.github.io).
+🧪 Maintained by [Pierre-François Loos](https://pfloos.github.io).
 
