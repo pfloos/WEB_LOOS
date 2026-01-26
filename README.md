@@ -7,7 +7,7 @@ The website showcases research interests, publications, teaching activities, col
 ## 🌐 Website
 
 Access the live site here:  
-➡️ [https://pfloos.github.io](https://pfloos.github.io)
+➡️ [https://pfloos.github.io/WEB_LOOS](pfloos.github.io/WEB_LOOS)
 
 ## 🛠️ Built With
 
