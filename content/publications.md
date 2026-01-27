@@ -25,9 +25,9 @@ A. Marie, L. Burth, and P.-F. Loos,<br>
 
 ### 2026
 
-* <a href="https://arxiv.org/pdf/2510.23275">158. Analytic G0W0 gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment,<br></a>
+* <a href="/pub/158.pdf">158. Analytic G0W0 gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment,<br></a>
 M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
+<I>J. Chem. Phys. </I><B> 164</B>, 044122 (2026). <br><br>
 
 ### 2025
 
