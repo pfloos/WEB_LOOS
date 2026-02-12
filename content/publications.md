@@ -21,7 +21,7 @@ A. Marie, L. Burth, and P.-F. Loos,<br>
 
 ### 2026
 
-* <a href="">159. Connections between GW and extended coupled cluster,<br></a>
+* <a href="https://arxiv.org/pdf/2602.10887">159. Connections between GW and extended coupled cluster,<br></a>
 J. Tölle, M.-P. Kitsaras, A. Irmler, A. Grüneis, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
@@ -715,6 +715,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
