@@ -29,14 +29,14 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Marios-Petros Kitsaras](https://www.mpkitsaras.com) (Postdoc)
 <img class="photo" src="/img/PKitsaras.png" alt="Petros" />
 
-* Mauricio Rodríguez-Mayorga (Postdoc)
+* [Mauricio Rodríguez-Mayorga](https://scholar.google.com/citations?user=OLGOgQgAAAAJ&hl=es) (Postdoc, NanoX)
 <img class="photo" src="/img/MRodriguez.png" alt="Mauricio" />
-
-* [Antoine Marie](https://antoine-marie.github.io) (PhD student, ERC) 
-<img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
 * Loris Burth (PhD student)
 <img class="photo" src="/img/LBurth.jpg" alt="Loris" />
+
+* Lilian Cabirol (M2 student)
+<img class="photo" src="/img/LCabirol.jpg" alt="Loris" />
 
 ***
 
@@ -70,6 +70,7 @@ Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
 
 # Past Members
 
+* [Antoine Marie](https://antoine-marie.github.io) (2019-2025)
 * Gabriel Nyembo (2025)
 * Janina Vohdin (2024)
 * [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en) (2024)
