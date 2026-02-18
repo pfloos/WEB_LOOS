@@ -29,7 +29,7 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Marios-Petros Kitsaras](https://www.mpkitsaras.com) (Postdoc)
 <img class="photo" src="/img/PKitsaras.png" alt="Petros" />
 
-* [Mauricio Rodríguez-Mayorga](https://scholar.google.com/citations?user=OLGOgQgAAAAJ&hl=es) (Postdoc, NanoX)
+* [Mauricio Rodríguez-Mayorga](https://drmarm314.wordpress.com/2019/03/26/index/) (Postdoc, NanoX)
 <img class="photo" src="/img/MRodriguez.png" alt="Mauricio" />
 
 * Loris Burth (PhD student)
