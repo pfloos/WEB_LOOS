@@ -5,6 +5,10 @@ draft: false
 
 <!--
 
+* <a href="">163. Bogoliubov self-consistent GW: An efficient beyond-mean-field approach to superconductivity,<br></a>
+M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
 * <a href="">162. From full dynamic to pure static: A family of Dyson and non-Dyson $GW$-Based approximations,<br></a>
 J. Tölle, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
@@ -16,6 +20,7 @@ A. Marie, J. Tölle, and P.-F. Loos,<br>
 * <a href="">160. Reference energies for non-relativistic core electron binding energies,<br></a>
 A. Marie, L. Burth, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
 
 -->
 
@@ -715,6 +720,7 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
 
 
 
