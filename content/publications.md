@@ -5,25 +5,30 @@ draft: false
 
 <!--
 
+* <a href="">163. Bogoliubov self-consistent GW: An efficient beyond-mean-field approach to superconductivity,<br></a>
+M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
 * <a href="">162. From full dynamic to pure static: A family of Dyson and non-Dyson $GW$-Based approximations,<br></a>
 J. Tölle, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="">161. An algebraic-diagrammatic construction perspective on vertex corrections beyond GW,<br></a>
 A. Marie, J. Tölle, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+<I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
-* <a href="">160. Connections between GW and extended coupled cluster,<br></a>
-J. Tölle, M.-P. Kitsaras,and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
-
-* <a href="">159. Reference energies for non-relativistic core electron binding energies,<br></a>
+* <a href="">160. Reference energies for non-relativistic core electron binding energies,<br></a>
 A. Marie, L. Burth, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
 
 -->
 
 ### 2026
+
+* <a href="https://arxiv.org/pdf/2602.10887">159. Connections between GW and extended coupled cluster,<br></a>
+J. Tölle, M.-P. Kitsaras, A. Irmler, A. Grüneis, and P.-F. Loos,<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="/pub/158.pdf">158. Analytic G0W0 gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment,<br></a>
 M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
@@ -716,6 +721,9 @@ A. Fornili, P.-F. Loos, X. Assfeld, and M. Sironi,<br>
 * <a href="/pub/1.pdf">1. Solvent effects on the asymmetric Diels-Alder reaction between cyclopentadiene and (-)-menthyl acrylate revisited with the three-layer hybrid local self-consistent field/molecular mechanics/self-consistent reaction field method</a>,<br>
 Y. Moreau, P.-F. Loos, and X. Assfeld,<br>
 <I> Theor. Chem. Acc.</I><B> 112</B>, 228 (2004) <br><br>
+
+
+
 
 
 
