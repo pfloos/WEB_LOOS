@@ -17,14 +17,14 @@ A. Marie, J. Tölle, and P.-F. Loos,<br>
 P.-F. Loos and J. Tölle,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="">160. Reference energies for non-relativistic core ionization potentials,<br></a>
-A. Marie, L. Burth, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
-
 
 -->
 
 ### 2026
+
+* <a href="">160. Reference energies for non-relativistic core ionization potentials,<br></a>
+A. Marie, L. Burth, and P.-F. Loos,<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2602.10887">159. Connections between GW and extended coupled cluster,<br></a>
 J. Tölle, M.-P. Kitsaras, A. Irmler, A. Grüneis, and P.-F. Loos,<br>
