@@ -22,7 +22,7 @@ P.-F. Loos and J. Tölle,<br>
 
 ### 2026
 
-* <a href="">160. Reference energies for non-relativistic core ionization potentials,<br></a>
+* <a href="https://arxiv.org/pdf/2604.05920">160. Reference energies for non-relativistic core ionization potentials,<br></a>
 A. Marie, L. Burth, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
