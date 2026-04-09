@@ -13,14 +13,15 @@ M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
 A. Marie, J. Tölle, and P.-F. Loos,<br>
 <I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
-* <a href="">161. From full dynamic to pure static: A family of $GW$-Based approximations,<br></a>
-P.-F. Loos and J. Tölle,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 
 -->
 
 ### 2026
+
+* <a href="">161. From full dynamic to pure static: A family of $GW$-Based approximations,<br></a>
+P.-F. Loos and J. Tölle,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2604.05920">160. Reference energies for non-relativistic core ionization potentials,<br></a>
 A. Marie, L. Burth, and P.-F. Loos,<br>
