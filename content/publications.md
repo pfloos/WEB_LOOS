@@ -19,7 +19,7 @@ A. Marie, J. Tölle, and P.-F. Loos,<br>
 
 ### 2026
 
-* <a href="">161. From full dynamic to pure static: A family of $GW$-Based approximations,<br></a>
+* <a href="">161. From full dynamic to pure static: A family of $GW$-based approximations,<br></a>
 P.-F. Loos and J. Tölle,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
