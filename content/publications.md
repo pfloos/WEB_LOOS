@@ -5,11 +5,11 @@ draft: false
 
 <!--
 
-* <a href="">163. Bogoliubov self-consistent GW: An efficient beyond-mean-field approach to superconductivity,<br></a>
+* <a href="">163. Bogoliubov self-consistent $GW$: An efficient beyond-mean-field approach to superconductivity,<br></a>
 M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">162. An algebraic-diagrammatic construction perspective on vertex corrections beyond GW,<br></a>
+* <a href="">162. An algebraic-diagrammatic construction perspective on vertex corrections beyond $GW$,<br></a>
 A. Marie, J. Tölle, and P.-F. Loos,<br>
 <I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
@@ -27,7 +27,7 @@ P.-F. Loos and J. Tölle,<br>
 A. Marie, L. Burth, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2602.10887">159. Connections between GW and extended coupled cluster,<br></a>
+* <a href="https://arxiv.org/pdf/2602.10887">159. Connections between $GW$ and extended coupled cluster,<br></a>
 J. Tölle, M.-P. Kitsaras, A. Irmler, A. Grüneis, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
@@ -82,7 +82,7 @@ M. Rodriguez-Mayorga, P.-F. Loos, F. Bruneval, and L. Visscher,<br>
 
 ### 2024
 
-* <a href="/pub/147.pdf">147. Reference CC3 excitation energies for organic chromophores: benchmarking TD-DFT, BSE/GW and wave function methods,<br></a>
+* <a href="/pub/147.pdf">147. Reference CC3 excitation energies for organic chromophores: benchmarking TD-DFT, BSE/$GW$ and wave function methods,<br></a>
 I. Knysh, F. Lipparini, I. Duchemin, X. Blase, P.-F. Loos, and D. Jacquemin,<br>
 <I>J. Chem. Theory Comput. </I><B> 20</B>, 8152 (2024). <br><br>
 
@@ -130,7 +130,7 @@ Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P.-F. Loos,<br>
 F. Cernatic, P.-F. Loos, B. Senjean, and E. Fromager,<br>
 <I>Phys. Rev. B</I><B> 109</B>, 235113 (2024). <br><br>
 
-* <a href="/pub/135.pdf">135. Can GW handle multireference systems?,<br></a>
+* <a href="/pub/135.pdf">135. Can $GW$ handle multireference systems?,<br></a>
 A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B> 160</B>, 114101 (2024). <br><br>
 
@@ -138,7 +138,7 @@ A. Ammar, A. Marie, M. Rodríguez-Mayorga, H. G. A. Burton, and P.-F. Loos,<br>
 H. G. A. Burton and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B> 160</B>, 104102 (2024). <br><br>
 
-* <a href="/pub/133.pdf">133. The GW approximation: a quantum chemistry perspective,<br></a>
+* <a href="/pub/133.pdf">133. The $GW$ approximation: a quantum chemistry perspective,<br></a>
 A. Marie, A. Ammar, and P.-F. Loos,<br>
 <I>Adv. Quantum Chem. </I><B> 90</B>, 157 (2024). <br><br>
 
@@ -153,7 +153,7 @@ See also [Correction](/pub/132_Err.pdf) <br><br>
 D. Jacquemin, F. Kossoski, F. Gam, M. Boggio-Pasqua, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B> 19</B>, 8782 (2023). <br><br>
 
-* <a href="/pub/130.pdf">130. The three channels of many-body perturbation theory: GW, particle-particle, and electron-hole T-matrix self-energies,<br></a>
+* <a href="/pub/130.pdf">130. The three channels of many-body perturbation theory: $GW$, particle-particle, and electron-hole $T$-matrix self-energies,<br></a>
 R. Orlando, P. Romaniello, and P.-F. Loos,<br>
 <I>J. Chem. Phys.</I><B> 159</B>, 184113 (2023). <br><br>
 
@@ -232,11 +232,11 @@ F. Kossoski, Y. Damour, and P.-F. Loos,<br>
 P.-F. Loos and M. Seidl,<br>
 <I>Mol. Phys.</I><B> 121</B>, e2061388 (2023). <br><br>
 
-* <a href="/pub/112.pdf"> 112. Unphysical discontinuities, intruder states and regularization in GW methods,<br></a>
+* <a href="/pub/112.pdf"> 112. Unphysical discontinuities, intruder states and regularization in $GW$ methods,<br></a>
 E. Monino and P.-F. Loos,<br>
 <I>J. Chem. Phys. (Open Access)</I><B> 156</B>, 231101 (2022). <br><br>
 
-* <a href="/pub/111.pdf"> 111. Static and dynamic Bethe-Salpeter equations in the T-matrix approximation,<br></a>
+* <a href="/pub/111.pdf"> 111. Static and dynamic Bethe-Salpeter equations in the $T$-matrix approximation,<br></a>
 P.-F. Loos and P. Romaniello,<br>
 <I>J. Chem. Phys. (Open Access)</I><B> 156</B>, 164101 (2022). <br><br>
 
@@ -254,7 +254,7 @@ P.-F. Loos and D. Jacquemin,<br>
 Y. Damour, M. Veril, F. Kossoski, M. Caffarel, D. Jacquemin, A. Scemama, and P.-F. Loos,<br>
 <I> J. Chem. Phys.</I><B> 155</B>, 134104 (2021). <br><br>
 
-* <a href="/pub/107.pdf"> 107. Scrutinizing GW-based methods using the Hubbard dimer,<br></a>
+* <a href="/pub/107.pdf"> 107. Scrutinizing $GW$-based methods using the Hubbard dimer,<br></a>
 S. Di Sabatino, P.-F. Loos, and P. Romaniello,<br>
 <I> Front. Chem. (Open Access)</I><B> 9</B>, 751054 (2021). <br><br>
 
@@ -365,7 +365,7 @@ P.-F. Loos, F. Lipparini, M. Boggio-Pasqua, A. Scemama, and D. Jacquemin. <br>
 P.-F. Loos, and D. Jacquemin. <br>
 <I> J. Phys. Chem. Lett.</I><B> 11</B>, 974 (2020). <br><br>
 
-* <a href="/pub/80.pdf">80. A density-based basis-set incompleteness correction for GW methods,<br></a>
+* <a href="/pub/80.pdf">80. A density-based basis-set incompleteness correction for $GW$ methods,<br></a>
 P.-F. Loos, B. Pradines, A. Scemama, E. Giner and J. Toulouse,<br>
 <I> J. Chem. Theory Comput. </I><B> 16</B>, 1018 (2020). <br><br>
 
@@ -425,7 +425,7 @@ H. G. A. Burton, A. J. W. Thom, and P.-F. Loos. <br>
 
 ### 2018
 
-* <a href="/pub/66.pdf"> 66. Unphysical discontinuities in GW methods,<br></a>
+* <a href="/pub/66.pdf"> 66. Unphysical discontinuities in $GW$ methods,<br></a>
 M. Veril, P. Romaniello, J. A. Berger and P.-F. Loos,<br>
 <I> J. Chem. Theory Comput.</I><B> 14</B>, 5220 (2018). <br><br>
 
