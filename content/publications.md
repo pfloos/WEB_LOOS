@@ -31,7 +31,7 @@ A. Marie, L. Burth, and P.-F. Loos,<br>
 J. Tölle, M.-P. Kitsaras, A. Irmler, A. Grüneis, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="/pub/158.pdf">158. Analytic G0W0 gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment,<br></a>
+* <a href="/pub/158.pdf">158. Analytic $G_0W_0$ gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment,<br></a>
 M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B> 164</B>, 044122 (2026). <br><br>
 
