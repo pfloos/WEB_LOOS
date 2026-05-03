@@ -64,7 +64,7 @@ P.-F. Loos,<br>
 
 * <a href="/pub/151.pdf">151. Excited-state absorption: Reference oscillator strengths, wavefunction and TD-DFT benchmarks,<br></a>
 J. Širůček, B. Le Guennic, Y. Damour, P.-F. Loos, and D. Jacquemin,<br>
-<I>J. Chem. Theory Comput. </I><B> 21</B>, 4688 (2025). <br><br>
+<I>J. Chem. Theory Comput. </I><B> 21</B>, 4688 (2025). <br>
 See also [Correction](/pub/151_Err.pdf) <br><br>
 
 * <a href="/pub/150.pdf">150. Excited-state-specific Kohn-Sham formalism for the asymmetric Hubbard dimer,<br></a>
