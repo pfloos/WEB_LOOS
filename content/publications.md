@@ -9,15 +9,13 @@ draft: false
 M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">162. An algebraic-diagrammatic construction perspective on vertex corrections beyond $GW$,<br></a>
-A. Marie, J. Tölle, and P.-F. Loos,<br>
-<I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
-
-
-
 -->
 
 ### 2026
+
+* <a href="">162. An algebraic-diagrammatic construction for vertex corrections to the $GW$ self-energy,<br></a>
+A. Marie, J. Tölle, and P.-F. Loos,<br>
+<I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2604.08350">161. From full dynamic to pure static: A family of $GW$-based approximations,<br></a>
 P.-F. Loos and J. Tölle,<br>
