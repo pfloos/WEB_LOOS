@@ -27,7 +27,7 @@ A. Marie, L. Burth, and P.-F. Loos,<br>
 
 * <a href="https://arxiv.org/pdf/2602.10887">159. Connections between $GW$ and extended coupled cluster,<br></a>
 J. Tölle, M.-P. Kitsaras, A. Irmler, A. Grüneis, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Theory Comput. </I><B></B> (in press). <br><br>
 
 * <a href="/pub/158.pdf">158. Analytic $G_0W_0$ gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment,<br></a>
 M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
