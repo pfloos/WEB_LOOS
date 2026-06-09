@@ -5,6 +5,12 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o79.pdf">79. An algebraic-diagrammatic construction scheme for vertex corrections to the GW self-energy,</a><br>
+ICQC 2026, UC Berkeley, San Francisco, US (June 2026).<br><br>
+
+* <a href="/talks/o78.pdf">78. Highly Accurate Excited-State Energies and Properties: The QUEST database,</a><br>
+Hamburg University, Hamburg, Germany (May 2026).<br><br>
+
 * <a href="/talks/o77.pdf">77. Accurate trial wave functions from selected CI for ground and excited states,</a><br>
 Pacifichem 2025, Honolulu, Hawaii, US (Dec 2025).<br><br>
 
