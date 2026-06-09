@@ -42,11 +42,8 @@ E-mail: loos@irsamc.ups-tlse.fr
 
 # Collaborators
 
-* [Anthony Scemama](http://scemama.github.io)  
-CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
-
-* [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel)  
-CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+* [Johannes Tolle](https://buralin.github.io/johanneswebsite)  
+Junior Research Group Leader (University of Hamburg, Hamburg, Germany)
 
 * [Hugh Burton](https://www.hughburton.com)  
 Research fellow (University of Cambridge, Cambridge, UK)
@@ -54,17 +51,23 @@ Research fellow (University of Cambridge, Cambridge, UK)
 * [Denis Jacquemin](https://www.univ-nantes.fr/denis-jacquemin)  
 Professor (University of Nantes, Nantes, France)
 
-* [Xavier Blase](http://perso.neel.cnrs.fr/xavier.blase)  
-CNRS senior researcher (NEEL Institute, Grenoble, France)
-
 * [Martial Boggio-Pasqua](https://www.lcpq.ups-tlse.fr/spip.php?rubrique313&lang=fr)  
 CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 * [Pina Romaniello](http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en)  
 CNRS senior researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
+* [Xavier Blase](http://perso.neel.cnrs.fr/xavier.blase)  
+CNRS senior researcher (NEEL Institute, Grenoble, France)
+
 * [Emmanuel Fromager](https://lcqs.unistra.fr/staff-members/emmanuel-fromager/)  
 Professor (Laboratoire de Chimie Quantique, Strasbourg, France)
+
+* [Anthony Scemama](http://scemama.github.io)  
+CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+
+* [Michel Caffarel](http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel)  
+CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 ***
 
