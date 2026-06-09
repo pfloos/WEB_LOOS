@@ -45,8 +45,11 @@ E-mail: loos@irsamc.ups-tlse.fr
 * [Johannes Tolle](https://buralin.github.io/johanneswebsite)  
 Junior Research Group Leader (University of Hamburg, Hamburg, Germany)
 
+* [Carlos Mejuto-Zaera](https://lpt.univ-tlse3.fr/en/fiche-annuaire/mejuto-zaera-carlos-3)  
+CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
+
 * [Hugh Burton](https://www.hughburton.com)  
-Research fellow (University of Cambridge, Cambridge, UK)
+Research fellow (University College London, London, UK)
 
 * [Denis Jacquemin](https://www.univ-nantes.fr/denis-jacquemin)  
 Professor (University of Nantes, Nantes, France)
