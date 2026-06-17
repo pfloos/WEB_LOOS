@@ -5,6 +5,9 @@ draft: false
 
 # Oral communications
 
+* <a href="/talks/o80.pdf">80. Falling into the Black Hole of Vertex Corrections,</a><br>
+Marcus Center Workshops on Electronic Structure Theory, Caltech, Los Angeles, US (June 2026).<br><br>
+
 * <a href="/talks/o79.pdf">79. An algebraic-diagrammatic construction scheme for vertex corrections to the GW self-energy,</a><br>
 ICQC 2026, UC Berkeley, San Francisco, US (June 2026).<br><br>
 
