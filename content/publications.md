@@ -19,7 +19,7 @@ A. Marie, J. Tölle, and P.-F. Loos,<br>
 
 * <a href="https://arxiv.org/pdf/2604.08350">161. From full dynamic to pure static: A family of $GW$-based approximations,<br></a>
 P.-F. Loos and J. Tölle,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
 
 * <a href="https://arxiv.org/pdf/2604.05920">160. Reference energies for non-relativistic core ionization potentials,<br></a>
 A. Marie, L. Burth, and P.-F. Loos,<br>
