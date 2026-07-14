@@ -21,13 +21,13 @@ A. Marie, J. Tölle, and P.-F. Loos,<br>
 P.-F. Loos and J. Tölle,<br>
 <I>J. Chem. Phys. </I><B></B> (in press). <br><br>
 
-* <a href="https://arxiv.org/pdf/2604.05920">160. Reference energies for non-relativistic core ionization potentials,<br></a>
+* <a href="/pub/160.pdf">160. Reference energies for non-relativistic core ionization potentials,<br></a>
 A. Marie, L. Burth, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput. </I><B> 22</B>, 6609 (2026). <br><br>
 
-* <a href="https://arxiv.org/pdf/2602.10887">159. Connections between $GW$ and extended coupled cluster,<br></a>
+* <a href="/pub/159.pdf">159. Connections between $GW$ and extended coupled cluster,<br></a>
 J. Tölle, M.-P. Kitsaras, A. Irmler, A. Grüneis, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (in press). <br><br>
+<I>J. Chem. Theory Comput. </I><B> 22</B>, 6471 (2026). <br><br>
 
 * <a href="/pub/158.pdf">158. Analytic $G_0W_0$ gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment,<br></a>
 M.-P. Kitsaras, J. Tölle, and P.-F. Loos,<br>
