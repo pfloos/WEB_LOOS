@@ -16,9 +16,9 @@ M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
 A. Ammar, E. Monino, A. Scemama, E. Giner, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="https://arxiv.org/pdf/2606.04285">162. An algebraic-diagrammatic construction for vertex corrections to the $GW$ self-energy,<br></a>
+* <a href="/pub/162.pdf">162. An algebraic-diagrammatic construction for vertex corrections to the $GW$ self-energy,<br></a>
 A. Marie, J. Tölle, and P.-F. Loos,<br>
-<I>J. Phys. Chem. Lett. </I><B></B> (in press). <br><br>
+<I>J. Phys. Chem. Lett. </I><B> 17</B>, 8541 (2026). <br><br>
 
 * <a href="/pub/161.pdf">161. From full dynamic to pure static: A family of $GW$-based approximations,<br></a>
 P.-F. Loos and J. Tölle,<br>
