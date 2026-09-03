@@ -35,8 +35,10 @@ E-mail: loos@irsamc.ups-tlse.fr
 * Loris Burth (PhD student)
 <img class="photo" src="/img/LBurth.jpg" alt="Loris" />
 
-* Lilian Cabirol (M2 student)
+* Lilian Cabirol (PhD student)
 <img class="photo" src="/img/LCabirol.jpg" alt="Loris" />
+
+* Lasse Niehues (Master student, ERASMUS)
 
 ***
 
