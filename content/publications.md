@@ -5,13 +5,18 @@ draft: false
 
 <!--
 
-* <a href="">163. Bogoliubov self-consistent $GW$: An efficient beyond-mean-field approach to superconductivity,<br></a>
-M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+* <a href="/pub/158.pdf">164. RPAx instabilities from ground- and excited-state references,<br></a>
+L. Burth, M.-P. Kitsaras, and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 -->
 
 ### 2026
+
+* <a href="">164. Bogoliubov self-consistent $GW$ and second-order Green's function methods for attractive fermionic interactions,<br></a>
+M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
 * <a href="https://arxiv.org/pdf/2607.28845">163. Transcorrelated random-phase approximation,<br></a>
 A. Ammar, E. Monino, A. Scemama, E. Giner, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
