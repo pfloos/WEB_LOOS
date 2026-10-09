@@ -19,7 +19,7 @@ M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
 
 * <a href="https://arxiv.org/pdf/2607.28845">163. Transcorrelated random-phase approximation,<br></a>
 A. Ammar, E. Monino, A. Scemama, E. Giner, and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
 
 * <a href="/pub/162.pdf">162. An algebraic-diagrammatic construction for vertex corrections to the $GW$ self-energy,<br></a>
 A. Marie, J. Tölle, and P.-F. Loos,<br>
