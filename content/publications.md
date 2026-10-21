@@ -12,6 +12,9 @@ L. Burth, M.-P. Kitsaras, and P.-F. Loos,<br>
 -->
 
 ### 2026
+* <a href="">165. Many electrons, one determinant: Hartree-Fock theory, basis sets, and molecular integrals,<br></a>
+P.-F. Loos,<br>
+<I>arXiv </I><B></B> (submitted). <br><br>
 
 * <a href="https://arxiv.org/pdf/2610.03357">164. Bogoliubov self-consistent $GW$ and second-order Green's function methods for attractive fermionic interactions,<br></a>
 M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
