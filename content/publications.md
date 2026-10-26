@@ -5,14 +5,16 @@ draft: false
 
 <!--
 
-* <a href="/pub/158.pdf">164. RPAx instabilities from ground- and excited-state references,<br></a>
-L. Burth, M.-P. Kitsaras, and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
 -->
 
 ### 2026
-* <a href="">165. Many electrons, one determinant: Hartree-Fock theory, basis sets, and molecular integrals,<br></a>
+
+* <a href="">164. RPAx instabilities from ground- and excited-state references,<br></a>
+L. Burth, M.-P. Kitsaras, and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
+* <a href="https://github.com/pfloos/ESQC_2026/blob/main/chapter/ESQC_Loos_HF_BF_chapter.pdf">165. Many electrons, one determinant: Hartree-Fock theory, basis sets, and molecular integrals,<br></a>
 P.-F. Loos,<br>
 <I>arXiv </I><B></B> (submitted). <br><br>
 
