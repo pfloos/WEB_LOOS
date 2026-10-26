@@ -10,7 +10,7 @@ draft: false
 
 ### 2026
 
-* <a href="">164. RPAx instabilities from ground- and excited-state references,<br></a>
+* <a href="">166. RPAx instabilities from ground- and excited-state references,<br></a>
 L. Burth, M.-P. Kitsaras, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
