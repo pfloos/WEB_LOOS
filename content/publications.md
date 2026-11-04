@@ -14,7 +14,7 @@ draft: false
 L. Burth, M.-P. Kitsaras, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
-* <a href="https://github.com/pfloos/ESQC_2026/blob/main/chapter/ESQC_Loos_HF_BF_chapter.pdf">165. Many electrons, one determinant: Hartree-Fock theory, basis sets, and molecular integrals,<br></a>
+* <a href="https://arxiv.org/pdf/2611.03680">165. Many electrons, one determinant: Hartree-Fock theory, basis sets, and molecular integrals,<br></a>
 P.-F. Loos,<br>
 <I>arXiv </I><B></B> (submitted). <br><br>
 
