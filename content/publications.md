@@ -20,7 +20,7 @@ P.-F. Loos,<br>
 
 * <a href="https://arxiv.org/pdf/2610.03357">164. Bogoliubov self-consistent $GW$ and second-order Green's function methods for attractive fermionic interactions,<br></a>
 M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
-<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
 
 * <a href="/pub/163.pdf">163. Transcorrelated random-phase approximation,<br></a>
 A. Ammar, E. Monino, A. Scemama, E. Giner, and P.-F. Loos,<br>
