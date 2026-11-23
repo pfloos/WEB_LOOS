@@ -10,6 +10,10 @@ draft: false
 
 ### 2026
 
+* <a href="">167. A response-based self-energy from equation-of-motion coupled-cluster theory and its reduction to $GW$, $GW$+SOSEX, and GF2,<br></a>
+A. Perera and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
 * <a href="https://arxiv.org/pdf/2610.36154">166. RPAx instabilities from ground- and excited-state references,<br></a>
 L. Burth, M.-P. Kitsaras, and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
