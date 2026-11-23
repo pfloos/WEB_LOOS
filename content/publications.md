@@ -11,7 +11,7 @@ draft: false
 ### 2026
 
 
-* <a href="">167. Bringing singles to $GW$: A coupled-cluster perspective on orbital relaxation,<br></a>
+* <a href="">168. Bringing singles to $GW$: A coupled-cluster perspective on orbital relaxation,<br></a>
 M.-P. Kitsaras, L. Burth, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
