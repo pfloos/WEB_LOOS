@@ -15,7 +15,7 @@ draft: false
 M.-P. Kitsaras, L. Burth, and P.-F. Loos,<br>
 <I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
-* <a href="">167. A response-based self-energy from equation-of-motion coupled-cluster theory and its reduction to $GW$, $GW$+SOSEX, and GF2,<br></a>
+* <a href="https://arxiv.org/pdf/2611.30263">167. A response-based self-energy from equation-of-motion coupled-cluster theory and its reduction to $GW$, $GW$+SOSEX, and GF2,<br></a>
 A. Perera and P.-F. Loos,<br>
 <I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
 
