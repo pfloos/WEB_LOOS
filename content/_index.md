@@ -14,6 +14,9 @@ The group's interest lies at the interface between Physics and Chemistry, and ma
 
 # NEWS
 
+* **Dec 2026:** Mauricio Rodríguez-Mayorga has secured a Ramón y Cajal fellowship and will join the University of Oviedo in 2027! Felicidades Mau!
+* **Oct 2026:** Lilian Cabirol has joined the group as a PhD student. Welcome Lilian!
+* **Sep 2026:** Lasse Niehues (KIT) is visiting our group until the end of 2026. Welcome Lasse!
 * **Oct 2025:** Loris Burth has joined the group as a PhD student. Welcome Loris!
 * **Sep 2025:** Antoine Marie has succesfully defended his PhD entitled *"Many-body perturbation theory in quantum chemistry."*. Congratulations Dr Marie!
 * **Jan 2025:** Mauricio Rodríguez-Mayorga has joined the group as a postdoc. Welcome Mauricio!
