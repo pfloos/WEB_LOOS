@@ -5,17 +5,39 @@ draft: false
 
 <!--
 
-* <a href="">163. Bogoliubov self-consistent $GW$: An efficient beyond-mean-field approach to superconductivity,<br></a>
-M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
-<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
 
 -->
 
 ### 2026
 
-* <a href="https://arxiv.org/pdf/2606.04285">162. An algebraic-diagrammatic construction for vertex corrections to the $GW$ self-energy,<br></a>
+
+* <a href="https://arxiv.org/pdf/2611.34160">168. Bringing singles to $GW$: A coupled-cluster perspective on orbital relaxation,<br></a>
+M.-P. Kitsaras, L. Burth, and P.-F. Loos,<br>
+<I>J. Chem. Theory Comput. </I><B></B> (submitted). <br><br>
+
+* <a href="https://arxiv.org/pdf/2611.30263">167. A response-based self-energy from equation-of-motion coupled-cluster theory and its reduction to $GW$, $GW$+SOSEX, and GF2,<br></a>
+A. Perera and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
+* <a href="https://arxiv.org/pdf/2610.36154">166. RPAx instabilities from ground- and excited-state references,<br></a>
+L. Burth, M.-P. Kitsaras, and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (submitted). <br><br>
+
+* <a href="https://arxiv.org/pdf/2611.03680">165. Many electrons, one determinant: Hartree-Fock theory, basis sets, and molecular integrals,<br></a>
+P.-F. Loos,<br>
+<I>arXiv</I><B></B>, 2611.03680 [physics.chem-ph] (2026). <br><br>
+
+* <a href="https://arxiv.org/pdf/2610.03357">164. Bogoliubov self-consistent $GW$ and second-order Green's function methods for attractive fermionic interactions,<br></a>
+M. Rodriguez-Mayorga, J. Tölle, and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B></B> (in press). <br><br>
+
+* <a href="/pub/163.pdf">163. Transcorrelated random-phase approximation,<br></a>
+A. Ammar, E. Monino, A. Scemama, E. Giner, and P.-F. Loos,<br>
+<I>J. Chem. Phys. </I><B> 165</B>, 164114 (2026). <br><br>
+
+* <a href="/pub/162.pdf">162. An algebraic-diagrammatic construction for vertex corrections to the $GW$ self-energy,<br></a>
 A. Marie, J. Tölle, and P.-F. Loos,<br>
-<I>J. Phys. Chem. Lett. </I><B></B> (submitted). <br><br>
+<I>J. Phys. Chem. Lett. </I><B> 17</B>, 8541 (2026). <br><br>
 
 * <a href="/pub/161.pdf">161. From full dynamic to pure static: A family of $GW$-based approximations,<br></a>
 P.-F. Loos and J. Tölle,<br>
